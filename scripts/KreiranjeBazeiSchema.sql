@@ -1,4 +1,6 @@
 /*NASLOV: Skripta za kreiranje baze podataka i schema za Data Analytics Olist projekt.
+ AUTOR: Marko Vresk
+DATUM: 20.9.2026.
 OPIS: Skripta sadrži naredbe za kreiranje baze podataka "DataAnalyticsOlist" i schema "bronze", "silver" i "gold". Također, skripta provjerava postoji li baza podataka i schema prije nego što ih kreira ili obriše.
 UPOZORENJA: Prije pokretanja skripte, provjerite da li imate odgovarajuće privilegije za kreiranje i brisanje baza podataka i schema. Također, budite oprezni prilikom brisanja baze podataka jer će svi podaci u bazi biti izgubljeni.
 */
