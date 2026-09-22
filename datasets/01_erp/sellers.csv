@@ -1,401 +1,401 @@
-seller_id,seller_email,seller_name,seller_city,seller_state,seller_zip_prefix
-SELL00001,sell00001@seller.example.com,Seller 1,Florianopolis,BA,26699
-SELL00002,sell00002@seller.example.com,Seller 2,Belo Horizonte,DF,42293
-SELL00003,sell00003@seller.example.com,Seller 3,Goiania,ES,97983
-SELL00004,sell00004@seller.example.com,Seller 4,Porto Alegre,GO,32425
-SELL00005,sell00005@seller.example.com,Seller 5,Porto Alegre,DF,94181
-SELL00006,sell00006@seller.example.com,Seller 6,Curitiba,MG,92764
-SELL00007,sell00007@seller.example.com,Seller 7,Goiania,BA,44282
-SELL00008,sell00008@seller.example.com,Seller 8,Curitiba,BA,97043
-SELL00009,sell00009@seller.example.com,Seller 9,Brasilia,BA,60882
-SELL00010,sell00010@seller.example.com,Seller 10,Florianopolis,DF,78721
-SELL00011,sell00011@seller.example.com,Seller 11,Rio de Janeiro,RS,27622
-SELL00012,sell00012@seller.example.com,Seller 12,Rio de Janeiro,SC,15455
-SELL00013,sell00013@seller.example.com,Seller 13,Rio de Janeiro,RJ,45692
-SELL00014,sell00014@seller.example.com,Seller 14,Florianopolis,BA,16796
-SELL00015,sell00015@seller.example.com,Seller 15,Sao Paulo,ES,68534
-SELL00016,sell00016@seller.example.com,Seller 16,Belo Horizonte,PR,32423
-SELL00017,sell00017@seller.example.com,Seller 17,Sao Paulo,RS,37007
-SELL00018,sell00018@seller.example.com,Seller 18,Curitiba,RJ,58121
-SELL00019,sell00019@seller.example.com,Seller 19,Sao Paulo,BA,60261
-SELL00020,sell00020@seller.example.com,Seller 20,Campinas,RJ,89445
-SELL00021,sell00021@seller.example.com,Seller 21,Florianopolis,RJ,37692
-SELL00022,sell00022@seller.example.com,Seller 22,Brasilia,ES,57049
-SELL00023,sell00023@seller.example.com,Seller 23,Rio de Janeiro,RJ,92542
-SELL00024,sell00024@seller.example.com,Seller 24,Florianopolis,GO,28721
-SELL00025,sell00025@seller.example.com,Seller 25,Curitiba,MG,85658
-SELL00026,sell00026@seller.example.com,Seller 26,Salvador,MG,44026
-SELL00027,sell00027@seller.example.com,Seller 27,Brasilia,RJ,14501
-SELL00028,sell00028@seller.example.com,Seller 28,Florianopolis,GO,83376
-SELL00029,sell00029@seller.example.com,Seller 29,Sao Paulo,MG,17289
-SELL00030,sell00030@seller.example.com,Seller 30,Brasilia,ES,85696
-SELL00031,sell00031@seller.example.com,Seller 31,Sao Paulo,MG,70639
-SELL00032,sell00032@seller.example.com,Seller 32,Campinas,PR,93943
-SELL00033,sell00033@seller.example.com,Seller 33,Rio de Janeiro,BA,17190
-SELL00034,sell00034@seller.example.com,Seller 34,Goiania,SP,85972
-SELL00035,sell00035@seller.example.com,Seller 35,Florianopolis,SP,61678
-SELL00036,sell00036@seller.example.com,Seller 36,Brasilia,GO,73772
-SELL00037,sell00037@seller.example.com,Seller 37,Porto Alegre,RJ,46440
-SELL00038,sell00038@seller.example.com,Seller 38,Rio de Janeiro,SP,21260
-SELL00039,sell00039@seller.example.com,Seller 39,Porto Alegre,SP,28297
-SELL00040,sell00040@seller.example.com,Seller 40,Sao Paulo,GO,12445
-SELL00041,sell00041@seller.example.com,Seller 41,Brasilia,RS,18976
-SELL00042,sell00042@seller.example.com,Seller 42,Brasilia,GO,93407
-SELL00043,sell00043@seller.example.com,Seller 43,Rio de Janeiro,MG,31275
-SELL00044,sell00044@seller.example.com,Seller 44,Florianopolis,SP,64386
-SELL00045,sell00045@seller.example.com,Seller 45,Brasilia,MG,90507
-SELL00046,sell00046@seller.example.com,Seller 46,Goiania,SP,75985
-SELL00047,sell00047@seller.example.com,Seller 47,Brasilia,MG,90643
-SELL00048,sell00048@seller.example.com,Seller 48,Salvador,RS,44195
-SELL00049,sell00049@seller.example.com,Seller 49,Belo Horizonte,DF,74168
-SELL00050,sell00050@seller.example.com,Seller 50,Curitiba,MG,78131
-SELL00051,sell00051@seller.example.com,Seller 51,Sao Paulo,MG,61428
-SELL00052,sell00052@seller.example.com,Seller 52,Campinas,ES,81301
-SELL00053,sell00053@seller.example.com,Seller 53,Goiania,ES,67587
-SELL00054,sell00054@seller.example.com,Seller 54,Goiania,SC,54268
-SELL00055,sell00055@seller.example.com,Seller 55,Rio de Janeiro,GO,84673
-SELL00056,sell00056@seller.example.com,Seller 56,Goiania,RS,89807
-SELL00057,sell00057@seller.example.com,Seller 57,Salvador,GO,92946
-SELL00058,sell00058@seller.example.com,Seller 58,Brasilia,PR,85251
-SELL00059,sell00059@seller.example.com,Seller 59,Curitiba,ES,79228
-SELL00060,sell00060@seller.example.com,Seller 60,Goiania,SP,78585
-SELL00061,sell00061@seller.example.com,Seller 61,Sao Paulo,BA,65298
-SELL00062,sell00062@seller.example.com,Seller 62,Porto Alegre,BA,99504
-SELL00063,sell00063@seller.example.com,Seller 63,Goiania,GO,49866
-SELL00064,sell00064@seller.example.com,Seller 64,Goiania,SP,58378
-SELL00065,sell00065@seller.example.com,Seller 65,Florianopolis,SP,72519
-SELL00066,sell00066@seller.example.com,Seller 66,Salvador,ES,34636
-SELL00067,sell00067@seller.example.com,Seller 67,Sao Paulo,BA,21590
-SELL00068,sell00068@seller.example.com,Seller 68,Curitiba,RS,29990
-SELL00069,sell00069@seller.example.com,Seller 69,Porto Alegre,ES,16669
-SELL00070,sell00070@seller.example.com,Seller 70,Porto Alegre,PR,26773
-SELL00071,sell00071@seller.example.com,Seller 71,Salvador,MG,25648
-SELL00072,sell00072@seller.example.com,Seller 72,Curitiba,RJ,80152
-SELL00073,sell00073@seller.example.com,Seller 73,Goiania,ES,19867
-SELL00074,sell00074@seller.example.com,Seller 74,Salvador,RS,75788
-SELL00075,sell00075@seller.example.com,Seller 75,Brasilia,BA,83588
-SELL00076,sell00076@seller.example.com,Seller 76,Rio de Janeiro,SP,95086
-SELL00077,sell00077@seller.example.com,Seller 77,Sao Paulo,ES,52674
-SELL00078,sell00078@seller.example.com,Seller 78,Goiania,ES,69437
-SELL00079,sell00079@seller.example.com,Seller 79,Goiania,GO,97843
-SELL00080,sell00080@seller.example.com,Seller 80,Sao Paulo,SC,53532
-SELL00081,sell00081@seller.example.com,Seller 81,Sao Paulo,SC,17865
-SELL00082,sell00082@seller.example.com,Seller 82,Campinas,SC,60657
-SELL00083,sell00083@seller.example.com,Seller 83,Curitiba,PR,54628
-SELL00084,sell00084@seller.example.com,Seller 84,Campinas,SP,22705
-SELL00085,sell00085@seller.example.com,Seller 85,Salvador,RS,56057
-SELL00086,sell00086@seller.example.com,Seller 86,Salvador,GO,41786
-SELL00087,sell00087@seller.example.com,Seller 87,Rio de Janeiro,SP,74383
-SELL00088,sell00088@seller.example.com,Seller 88,Rio de Janeiro,PR,75179
-SELL00089,sell00089@seller.example.com,Seller 89,Porto Alegre,RS,47422
-SELL00090,sell00090@seller.example.com,Seller 90,Goiania,DF,88754
-SELL00091,sell00091@seller.example.com,Seller 91,Sao Paulo,SP,54237
-SELL00092,sell00092@seller.example.com,Seller 92,Salvador,DF,99809
-SELL00093,sell00093@seller.example.com,Seller 93,Salvador,DF,60450
-SELL00094,sell00094@seller.example.com,Seller 94,Brasilia,SP,39792
-SELL00095,sell00095@seller.example.com,Seller 95,Salvador,ES,86978
-SELL00096,sell00096@seller.example.com,Seller 96,Brasilia,ES,91043
-SELL00097,sell00097@seller.example.com,Seller 97,Belo Horizonte,SC,73871
-SELL00098,sell00098@seller.example.com,Seller 98,Belo Horizonte,SP,85992
-SELL00099,sell00099@seller.example.com,Seller 99,Brasilia,BA,70197
-SELL00100,sell00100@seller.example.com,Seller 100,Campinas,BA,21899
-SELL00101,sell00101@seller.example.com,Seller 101,Goiania,ES,42244
-SELL00102,sell00102@seller.example.com,Seller 102,Curitiba,SP,75179
-SELL00103,sell00103@seller.example.com,Seller 103,Brasilia,DF,33584
-SELL00104,sell00104@seller.example.com,Seller 104,Sao Paulo,DF,21020
-SELL00105,sell00105@seller.example.com,Seller 105,Rio de Janeiro,BA,42983
-SELL00106,sell00106@seller.example.com,Seller 106,Goiania,SC,24251
-SELL00107,sell00107@seller.example.com,Seller 107,Goiania,SP,81780
-SELL00108,sell00108@seller.example.com,Seller 108,Goiania,GO,42947
-SELL00109,sell00109@seller.example.com,Seller 109,Campinas,DF,61838
-SELL00110,sell00110@seller.example.com,Seller 110,Rio de Janeiro,PR,64731
-SELL00111,sell00111@seller.example.com,Seller 111,Rio de Janeiro,RS,26760
-SELL00112,sell00112@seller.example.com,Seller 112,Brasilia,PR,83581
-SELL00113,sell00113@seller.example.com,Seller 113,Porto Alegre,PR,74646
-SELL00114,sell00114@seller.example.com,Seller 114,Porto Alegre,GO,28211
-SELL00115,sell00115@seller.example.com,Seller 115,Florianopolis,MG,34156
-SELL00116,sell00116@seller.example.com,Seller 116,Brasilia,RS,33961
-SELL00117,sell00117@seller.example.com,Seller 117,Brasilia,RS,54186
-SELL00118,sell00118@seller.example.com,Seller 118,Campinas,DF,28711
-SELL00119,sell00119@seller.example.com,Seller 119,Goiania,PR,89046
-SELL00120,sell00120@seller.example.com,Seller 120,Belo Horizonte,SC,39520
-SELL00121,sell00121@seller.example.com,Seller 121,Campinas,GO,99504
-SELL00122,sell00122@seller.example.com,Seller 122,Belo Horizonte,RJ,34825
-SELL00123,sell00123@seller.example.com,Seller 123,Sao Paulo,ES,82808
-SELL00124,sell00124@seller.example.com,Seller 124,Porto Alegre,DF,47504
-SELL00125,sell00125@seller.example.com,Seller 125,Salvador,DF,49238
-SELL00126,sell00126@seller.example.com,Seller 126,Belo Horizonte,GO,56883
-SELL00127,sell00127@seller.example.com,Seller 127,Campinas,PR,40642
-SELL00128,sell00128@seller.example.com,Seller 128,Sao Paulo,PR,82056
-SELL00129,sell00129@seller.example.com,Seller 129,Florianopolis,MG,38299
-SELL00130,sell00130@seller.example.com,Seller 130,Florianopolis,RJ,54046
-SELL00131,sell00131@seller.example.com,Seller 131,Brasilia,ES,94663
-SELL00132,sell00132@seller.example.com,Seller 132,Belo Horizonte,SC,14576
-SELL00133,sell00133@seller.example.com,Seller 133,Porto Alegre,DF,17183
-SELL00134,sell00134@seller.example.com,Seller 134,Goiania,RS,69100
-SELL00135,sell00135@seller.example.com,Seller 135,Porto Alegre,PR,86350
-SELL00136,sell00136@seller.example.com,Seller 136,Brasilia,GO,36352
-SELL00137,sell00137@seller.example.com,Seller 137,Salvador,PR,71924
-SELL00138,sell00138@seller.example.com,Seller 138,Belo Horizonte,GO,58406
-SELL00139,sell00139@seller.example.com,Seller 139,Salvador,RS,87132
-SELL00140,sell00140@seller.example.com,Seller 140,Goiania,RJ,65552
-SELL00141,sell00141@seller.example.com,Seller 141,Brasilia,SC,25544
-SELL00142,sell00142@seller.example.com,Seller 142,Porto Alegre,RS,99675
-SELL00143,sell00143@seller.example.com,Seller 143,Porto Alegre,RS,69418
-SELL00144,sell00144@seller.example.com,Seller 144,Sao Paulo,GO,67173
-SELL00145,sell00145@seller.example.com,Seller 145,Brasilia,MG,11085
-SELL00146,sell00146@seller.example.com,Seller 146,Florianopolis,DF,46497
-SELL00147,sell00147@seller.example.com,Seller 147,Florianopolis,SC,96248
-SELL00148,sell00148@seller.example.com,Seller 148,Porto Alegre,ES,11487
-SELL00149,sell00149@seller.example.com,Seller 149,Porto Alegre,PR,84076
-SELL00150,sell00150@seller.example.com,Seller 150,Belo Horizonte,SC,34989
-SELL00151,sell00151@seller.example.com,Seller 151,Belo Horizonte,ES,91491
-SELL00152,sell00152@seller.example.com,Seller 152,Rio de Janeiro,RS,50105
-SELL00153,sell00153@seller.example.com,Seller 153,Campinas,GO,56369
-SELL00154,sell00154@seller.example.com,Seller 154,Brasilia,BA,17102
-SELL00155,sell00155@seller.example.com,Seller 155,Belo Horizonte,GO,76545
-SELL00156,sell00156@seller.example.com,Seller 156,Porto Alegre,GO,30766
-SELL00157,sell00157@seller.example.com,Seller 157,Goiania,SC,73794
-SELL00158,sell00158@seller.example.com,Seller 158,Porto Alegre,SC,98625
-SELL00159,sell00159@seller.example.com,Seller 159,Brasilia,SC,84509
-SELL00160,sell00160@seller.example.com,Seller 160,Florianopolis,RS,13079
-SELL00161,sell00161@seller.example.com,Seller 161,Salvador,GO,96372
-SELL00162,sell00162@seller.example.com,Seller 162,Porto Alegre,SC,22167
-SELL00163,sell00163@seller.example.com,Seller 163,Sao Paulo,BA,77722
-SELL00164,sell00164@seller.example.com,Seller 164,Brasilia,RJ,54279
-SELL00165,sell00165@seller.example.com,Seller 165,Curitiba,ES,19398
-SELL00166,sell00166@seller.example.com,Seller 166,Porto Alegre,BA,71140
-SELL00167,sell00167@seller.example.com,Seller 167,Sao Paulo,MG,14518
-SELL00168,sell00168@seller.example.com,Seller 168,Belo Horizonte,GO,55452
-SELL00169,sell00169@seller.example.com,Seller 169,Rio de Janeiro,GO,59456
-SELL00170,sell00170@seller.example.com,Seller 170,Rio de Janeiro,BA,64290
-SELL00171,sell00171@seller.example.com,Seller 171,Sao Paulo,GO,46222
-SELL00172,sell00172@seller.example.com,Seller 172,Florianopolis,GO,16082
-SELL00173,sell00173@seller.example.com,Seller 173,Brasilia,PR,32111
-SELL00174,sell00174@seller.example.com,Seller 174,Belo Horizonte,ES,29939
-SELL00175,sell00175@seller.example.com,Seller 175,Sao Paulo,SC,61826
-SELL00176,sell00176@seller.example.com,Seller 176,Goiania,BA,62582
-SELL00177,sell00177@seller.example.com,Seller 177,Rio de Janeiro,RS,58819
-SELL00178,sell00178@seller.example.com,Seller 178,Belo Horizonte,RJ,83076
-SELL00179,sell00179@seller.example.com,Seller 179,Florianopolis,RS,29533
-SELL00180,sell00180@seller.example.com,Seller 180,Belo Horizonte,ES,57430
-SELL00181,sell00181@seller.example.com,Seller 181,Campinas,MG,13347
-SELL00182,sell00182@seller.example.com,Seller 182,Sao Paulo,BA,58479
-SELL00183,sell00183@seller.example.com,Seller 183,Salvador,RS,13949
-SELL00184,sell00184@seller.example.com,Seller 184,Goiania,MG,26888
-SELL00185,sell00185@seller.example.com,Seller 185,Brasilia,PR,83301
-SELL00186,sell00186@seller.example.com,Seller 186,Campinas,RJ,40084
-SELL00187,sell00187@seller.example.com,Seller 187,Brasilia,GO,46174
-SELL00188,sell00188@seller.example.com,Seller 188,Porto Alegre,RS,62669
-SELL00189,sell00189@seller.example.com,Seller 189,Sao Paulo,BA,73996
-SELL00190,sell00190@seller.example.com,Seller 190,Sao Paulo,RJ,53664
-SELL00191,sell00191@seller.example.com,Seller 191,Brasilia,GO,57634
-SELL00192,sell00192@seller.example.com,Seller 192,Salvador,SC,80793
-SELL00193,sell00193@seller.example.com,Seller 193,Porto Alegre,PR,48291
-SELL00194,sell00194@seller.example.com,Seller 194,Goiania,MG,19910
-SELL00195,sell00195@seller.example.com,Seller 195,Belo Horizonte,PR,40604
-SELL00196,sell00196@seller.example.com,Seller 196,Campinas,GO,30883
-SELL00197,sell00197@seller.example.com,Seller 197,Curitiba,BA,63726
-SELL00198,sell00198@seller.example.com,Seller 198,Florianopolis,MG,66017
-SELL00199,sell00199@seller.example.com,Seller 199,Curitiba,DF,99647
-SELL00200,sell00200@seller.example.com,Seller 200,Campinas,BA,47083
-SELL00201,sell00201@seller.example.com,Seller 201,Curitiba,RS,64467
-SELL00202,sell00202@seller.example.com,Seller 202,Brasilia,PR,23271
-SELL00203,sell00203@seller.example.com,Seller 203,Belo Horizonte,GO,63931
-SELL00204,sell00204@seller.example.com,Seller 204,Brasilia,RS,74456
-SELL00205,sell00205@seller.example.com,Seller 205,Belo Horizonte,RJ,48574
-SELL00206,sell00206@seller.example.com,Seller 206,Porto Alegre,ES,61121
-SELL00207,sell00207@seller.example.com,Seller 207,Sao Paulo,SP,37679
-SELL00208,sell00208@seller.example.com,Seller 208,Florianopolis,DF,86794
-SELL00209,sell00209@seller.example.com,Seller 209,Rio de Janeiro,RS,11759
-SELL00210,sell00210@seller.example.com,Seller 210,Belo Horizonte,ES,65718
-SELL00211,sell00211@seller.example.com,Seller 211,Sao Paulo,MG,38628
-SELL00212,sell00212@seller.example.com,Seller 212,Florianopolis,BA,39675
-SELL00213,sell00213@seller.example.com,Seller 213,Porto Alegre,MG,28665
-SELL00214,sell00214@seller.example.com,Seller 214,Goiania,GO,72268
-SELL00215,sell00215@seller.example.com,Seller 215,Rio de Janeiro,BA,21226
-SELL00216,sell00216@seller.example.com,Seller 216,Brasilia,RJ,57982
-SELL00217,sell00217@seller.example.com,Seller 217,Campinas,MG,27507
-SELL00218,sell00218@seller.example.com,Seller 218,Belo Horizonte,DF,81367
-SELL00219,sell00219@seller.example.com,Seller 219,Florianopolis,BA,11234
-SELL00220,sell00220@seller.example.com,Seller 220,Florianopolis,MG,66028
-SELL00221,sell00221@seller.example.com,Seller 221,Goiania,DF,15956
-SELL00222,sell00222@seller.example.com,Seller 222,Florianopolis,ES,59826
-SELL00223,sell00223@seller.example.com,Seller 223,Brasilia,RJ,28689
-SELL00224,sell00224@seller.example.com,Seller 224,Porto Alegre,RJ,76804
-SELL00225,sell00225@seller.example.com,Seller 225,Goiania,BA,31481
-SELL00226,sell00226@seller.example.com,Seller 226,Goiania,DF,95141
-SELL00227,sell00227@seller.example.com,Seller 227,Brasilia,PR,96639
-SELL00228,sell00228@seller.example.com,Seller 228,Belo Horizonte,RJ,14194
-SELL00229,sell00229@seller.example.com,Seller 229,Salvador,GO,38370
-SELL00230,sell00230@seller.example.com,Seller 230,Sao Paulo,PR,20251
-SELL00231,sell00231@seller.example.com,Seller 231,Curitiba,MG,73356
-SELL00232,sell00232@seller.example.com,Seller 232,Porto Alegre,ES,93169
-SELL00233,sell00233@seller.example.com,Seller 233,Salvador,RJ,14029
-SELL00234,sell00234@seller.example.com,Seller 234,Florianopolis,ES,78396
-SELL00235,sell00235@seller.example.com,Seller 235,Florianopolis,RJ,79049
-SELL00236,sell00236@seller.example.com,Seller 236,Rio de Janeiro,SP,45987
-SELL00237,sell00237@seller.example.com,Seller 237,Rio de Janeiro,GO,51138
-SELL00238,sell00238@seller.example.com,Seller 238,Rio de Janeiro,SC,80466
-SELL00239,sell00239@seller.example.com,Seller 239,Goiania,SC,14677
-SELL00240,sell00240@seller.example.com,Seller 240,Brasilia,RS,15472
-SELL00241,sell00241@seller.example.com,Seller 241,Salvador,RJ,49476
-SELL00242,sell00242@seller.example.com,Seller 242,Sao Paulo,GO,99761
-SELL00243,sell00243@seller.example.com,Seller 243,Campinas,MG,23728
-SELL00244,sell00244@seller.example.com,Seller 244,Brasilia,SC,34214
-SELL00245,sell00245@seller.example.com,Seller 245,Campinas,RS,56649
-SELL00246,sell00246@seller.example.com,Seller 246,Curitiba,PR,88019
-SELL00247,sell00247@seller.example.com,Seller 247,Porto Alegre,ES,45297
-SELL00248,sell00248@seller.example.com,Seller 248,Porto Alegre,PR,84663
-SELL00249,sell00249@seller.example.com,Seller 249,Campinas,GO,66622
-SELL00250,sell00250@seller.example.com,Seller 250,Brasilia,DF,78009
-SELL00251,sell00251@seller.example.com,Seller 251,Goiania,RJ,14662
-SELL00252,sell00252@seller.example.com,Seller 252,Florianopolis,SC,50496
-SELL00253,sell00253@seller.example.com,Seller 253,Goiania,SC,12665
-SELL00254,sell00254@seller.example.com,Seller 254,Goiania,PR,86720
-SELL00255,sell00255@seller.example.com,Seller 255,Sao Paulo,SC,55942
-SELL00256,sell00256@seller.example.com,Seller 256,Salvador,PR,18475
-SELL00257,sell00257@seller.example.com,Seller 257,Campinas,RJ,47239
-SELL00258,sell00258@seller.example.com,Seller 258,Curitiba,PR,32903
-SELL00259,sell00259@seller.example.com,Seller 259,Curitiba,SP,71134
-SELL00260,sell00260@seller.example.com,Seller 260,Porto Alegre,MG,27171
-SELL00261,sell00261@seller.example.com,Seller 261,Brasilia,BA,22660
-SELL00262,sell00262@seller.example.com,Seller 262,Porto Alegre,RS,68200
-SELL00263,sell00263@seller.example.com,Seller 263,Curitiba,DF,52658
-SELL00264,sell00264@seller.example.com,Seller 264,Brasilia,MG,33289
-SELL00265,sell00265@seller.example.com,Seller 265,Porto Alegre,BA,17988
-SELL00266,sell00266@seller.example.com,Seller 266,Brasilia,RJ,49974
-SELL00267,sell00267@seller.example.com,Seller 267,Sao Paulo,DF,42052
-SELL00268,sell00268@seller.example.com,Seller 268,Belo Horizonte,MG,55154
-SELL00269,sell00269@seller.example.com,Seller 269,Salvador,SC,12421
-SELL00270,sell00270@seller.example.com,Seller 270,Sao Paulo,RJ,70149
-SELL00271,sell00271@seller.example.com,Seller 271,Porto Alegre,BA,79467
-SELL00272,sell00272@seller.example.com,Seller 272,Florianopolis,RS,81561
-SELL00273,sell00273@seller.example.com,Seller 273,Sao Paulo,SC,51584
-SELL00274,sell00274@seller.example.com,Seller 274,Salvador,RJ,36176
-SELL00275,sell00275@seller.example.com,Seller 275,Campinas,MG,57540
-SELL00276,sell00276@seller.example.com,Seller 276,Campinas,MG,55305
-SELL00277,sell00277@seller.example.com,Seller 277,Belo Horizonte,RS,47273
-SELL00278,sell00278@seller.example.com,Seller 278,Curitiba,SP,98801
-SELL00279,sell00279@seller.example.com,Seller 279,Sao Paulo,SC,52369
-SELL00280,sell00280@seller.example.com,Seller 280,Curitiba,SC,54827
-SELL00281,sell00281@seller.example.com,Seller 281,Porto Alegre,RS,88931
-SELL00282,sell00282@seller.example.com,Seller 282,Salvador,DF,53930
-SELL00283,sell00283@seller.example.com,Seller 283,Porto Alegre,PR,76334
-SELL00284,sell00284@seller.example.com,Seller 284,Brasilia,GO,13462
-SELL00285,sell00285@seller.example.com,Seller 285,Salvador,RS,60479
-SELL00286,sell00286@seller.example.com,Seller 286,Sao Paulo,BA,17449
-SELL00287,sell00287@seller.example.com,Seller 287,Rio de Janeiro,GO,68038
-SELL00288,sell00288@seller.example.com,Seller 288,Salvador,GO,70760
-SELL00289,sell00289@seller.example.com,Seller 289,Belo Horizonte,DF,55190
-SELL00290,sell00290@seller.example.com,Seller 290,Rio de Janeiro,RJ,40163
-SELL00291,sell00291@seller.example.com,Seller 291,Campinas,SP,58242
-SELL00292,sell00292@seller.example.com,Seller 292,Goiania,SC,42953
-SELL00293,sell00293@seller.example.com,Seller 293,Brasilia,RJ,49799
-SELL00294,sell00294@seller.example.com,Seller 294,Brasilia,DF,22288
-SELL00295,sell00295@seller.example.com,Seller 295,Belo Horizonte,PR,37473
-SELL00296,sell00296@seller.example.com,Seller 296,Goiania,RJ,37591
-SELL00297,sell00297@seller.example.com,Seller 297,Campinas,PR,38391
-SELL00298,sell00298@seller.example.com,Seller 298,Brasilia,RJ,19877
-SELL00299,sell00299@seller.example.com,Seller 299,Rio de Janeiro,SC,83127
-SELL00300,sell00300@seller.example.com,Seller 300,Salvador,DF,98482
-SELL00301,sell00301@seller.example.com,Seller 301,Brasilia,RJ,62550
-SELL00302,sell00302@seller.example.com,Seller 302,Salvador,SC,20494
-SELL00303,sell00303@seller.example.com,Seller 303,Campinas,SC,10078
-SELL00304,sell00304@seller.example.com,Seller 304,Salvador,SP,87674
-SELL00305,sell00305@seller.example.com,Seller 305,Salvador,ES,93041
-SELL00306,sell00306@seller.example.com,Seller 306,Sao Paulo,DF,18977
-SELL00307,sell00307@seller.example.com,Seller 307,Rio de Janeiro,RS,42593
-SELL00308,sell00308@seller.example.com,Seller 308,Porto Alegre,BA,79754
-SELL00309,sell00309@seller.example.com,Seller 309,Sao Paulo,RS,81265
-SELL00310,sell00310@seller.example.com,Seller 310,Goiania,DF,12723
-SELL00311,sell00311@seller.example.com,Seller 311,Salvador,GO,19773
-SELL00312,sell00312@seller.example.com,Seller 312,Porto Alegre,RJ,59510
-SELL00313,sell00313@seller.example.com,Seller 313,Porto Alegre,RJ,77301
-SELL00314,sell00314@seller.example.com,Seller 314,Brasilia,MG,43572
-SELL00315,sell00315@seller.example.com,Seller 315,Campinas,RS,89603
-SELL00316,sell00316@seller.example.com,Seller 316,Goiania,SC,81185
-SELL00317,sell00317@seller.example.com,Seller 317,Sao Paulo,PR,94650
-SELL00318,sell00318@seller.example.com,Seller 318,Goiania,GO,48759
-SELL00319,sell00319@seller.example.com,Seller 319,Curitiba,GO,24539
-SELL00320,sell00320@seller.example.com,Seller 320,Rio de Janeiro,BA,50593
-SELL00321,sell00321@seller.example.com,Seller 321,Campinas,SC,55022
-SELL00322,sell00322@seller.example.com,Seller 322,Campinas,RS,70765
-SELL00323,sell00323@seller.example.com,Seller 323,Sao Paulo,GO,43051
-SELL00324,sell00324@seller.example.com,Seller 324,Belo Horizonte,ES,92303
-SELL00325,sell00325@seller.example.com,Seller 325,Goiania,BA,60730
-SELL00326,sell00326@seller.example.com,Seller 326,Brasilia,SP,94865
-SELL00327,sell00327@seller.example.com,Seller 327,Rio de Janeiro,DF,55242
-SELL00328,sell00328@seller.example.com,Seller 328,Rio de Janeiro,RS,90903
-SELL00329,sell00329@seller.example.com,Seller 329,Rio de Janeiro,BA,76159
-SELL00330,sell00330@seller.example.com,Seller 330,Porto Alegre,RJ,43312
-SELL00331,sell00331@seller.example.com,Seller 331,Campinas,MG,17586
-SELL00332,sell00332@seller.example.com,Seller 332,Salvador,SP,92833
-SELL00333,sell00333@seller.example.com,Seller 333,Salvador,RJ,94463
-SELL00334,sell00334@seller.example.com,Seller 334,Rio de Janeiro,PR,71076
-SELL00335,sell00335@seller.example.com,Seller 335,Rio de Janeiro,RJ,72399
-SELL00336,sell00336@seller.example.com,Seller 336,Porto Alegre,SC,28131
-SELL00337,sell00337@seller.example.com,Seller 337,Salvador,SC,25020
-SELL00338,sell00338@seller.example.com,Seller 338,Salvador,SC,84771
-SELL00339,sell00339@seller.example.com,Seller 339,Campinas,MG,69523
-SELL00340,sell00340@seller.example.com,Seller 340,Belo Horizonte,MG,85043
-SELL00341,sell00341@seller.example.com,Seller 341,Sao Paulo,GO,73477
-SELL00342,sell00342@seller.example.com,Seller 342,Campinas,BA,81244
-SELL00343,sell00343@seller.example.com,Seller 343,Sao Paulo,RS,80067
-SELL00344,sell00344@seller.example.com,Seller 344,Brasilia,SC,73101
-SELL00345,sell00345@seller.example.com,Seller 345,Porto Alegre,DF,41782
-SELL00346,sell00346@seller.example.com,Seller 346,Brasilia,MG,39904
-SELL00347,sell00347@seller.example.com,Seller 347,Salvador,ES,94073
-SELL00348,sell00348@seller.example.com,Seller 348,Campinas,ES,95240
-SELL00349,sell00349@seller.example.com,Seller 349,Rio de Janeiro,MG,76102
-SELL00350,sell00350@seller.example.com,Seller 350,Campinas,SC,45503
-SELL00351,sell00351@seller.example.com,Seller 351,Goiania,PR,86245
-SELL00352,sell00352@seller.example.com,Seller 352,Porto Alegre,RS,92644
-SELL00353,sell00353@seller.example.com,Seller 353,Porto Alegre,DF,63200
-SELL00354,sell00354@seller.example.com,Seller 354,Sao Paulo,GO,72927
-SELL00355,sell00355@seller.example.com,Seller 355,Florianopolis,ES,62050
-SELL00356,sell00356@seller.example.com,Seller 356,Goiania,ES,44232
-SELL00357,sell00357@seller.example.com,Seller 357,Goiania,PR,90656
-SELL00358,sell00358@seller.example.com,Seller 358,Goiania,PR,74021
-SELL00359,sell00359@seller.example.com,Seller 359,Goiania,MG,52914
-SELL00360,sell00360@seller.example.com,Seller 360,Belo Horizonte,ES,73856
-SELL00361,sell00361@seller.example.com,Seller 361,Goiania,SP,56798
-SELL00362,sell00362@seller.example.com,Seller 362,Belo Horizonte,MG,58786
-SELL00363,sell00363@seller.example.com,Seller 363,Belo Horizonte,BA,48382
-SELL00364,sell00364@seller.example.com,Seller 364,Curitiba,BA,33473
-SELL00365,sell00365@seller.example.com,Seller 365,Campinas,PR,42921
-SELL00366,sell00366@seller.example.com,Seller 366,Brasilia,SC,39995
-SELL00367,sell00367@seller.example.com,Seller 367,Florianopolis,RS,30450
-SELL00368,sell00368@seller.example.com,Seller 368,Brasilia,DF,59302
-SELL00369,sell00369@seller.example.com,Seller 369,Brasilia,RS,83673
-SELL00370,sell00370@seller.example.com,Seller 370,Sao Paulo,GO,25765
-SELL00371,sell00371@seller.example.com,Seller 371,Campinas,SC,84806
-SELL00372,sell00372@seller.example.com,Seller 372,Sao Paulo,PR,76314
-SELL00373,sell00373@seller.example.com,Seller 373,Rio de Janeiro,GO,56390
-SELL00374,sell00374@seller.example.com,Seller 374,Campinas,SC,30633
-SELL00375,sell00375@seller.example.com,Seller 375,Salvador,MG,63120
-SELL00376,sell00376@seller.example.com,Seller 376,Goiania,MG,50435
-SELL00377,sell00377@seller.example.com,Seller 377,Sao Paulo,GO,89843
-SELL00378,sell00378@seller.example.com,Seller 378,Belo Horizonte,BA,17357
-SELL00379,sell00379@seller.example.com,Seller 379,Sao Paulo,SP,78089
-SELL00380,sell00380@seller.example.com,Seller 380,Porto Alegre,SP,38820
-SELL00381,sell00381@seller.example.com,Seller 381,Curitiba,SP,30487
-SELL00382,sell00382@seller.example.com,Seller 382,Brasilia,SC,89507
-SELL00383,sell00383@seller.example.com,Seller 383,Campinas,RS,32188
-SELL00384,sell00384@seller.example.com,Seller 384,Curitiba,SC,88416
-SELL00385,sell00385@seller.example.com,Seller 385,Belo Horizonte,SP,41310
-SELL00386,sell00386@seller.example.com,Seller 386,Curitiba,RS,14564
-SELL00387,sell00387@seller.example.com,Seller 387,Belo Horizonte,RS,98635
-SELL00388,sell00388@seller.example.com,Seller 388,Florianopolis,RJ,30062
-SELL00389,sell00389@seller.example.com,Seller 389,Sao Paulo,SP,89671
-SELL00390,sell00390@seller.example.com,Seller 390,Rio de Janeiro,DF,22415
-SELL00391,sell00391@seller.example.com,Seller 391,Brasilia,SC,79241
-SELL00392,sell00392@seller.example.com,Seller 392,Belo Horizonte,RS,19044
-SELL00393,sell00393@seller.example.com,Seller 393,Curitiba,RJ,46950
-SELL00394,sell00394@seller.example.com,Seller 394,Sao Paulo,PR,30349
-SELL00395,sell00395@seller.example.com,Seller 395,Belo Horizonte,ES,47968
-SELL00396,sell00396@seller.example.com,Seller 396,Sao Paulo,BA,32717
-SELL00397,sell00397@seller.example.com,Seller 397,Goiania,RS,72263
-SELL00398,sell00398@seller.example.com,Seller 398,Porto Alegre,PR,66917
-SELL00399,sell00399@seller.example.com,Seller 399,Sao Paulo,DF,48371
-SELL00400,sell00400@seller.example.com,Seller 400,Campinas,PR,80010
+﻿seller_id,seller_email,first_name,last_name,birthdate,seller_city,seller_state,seller_zip_prefix
+SELL00001,sell00001@seller.example.com,Mateus,Ramos,1988-06-26,Florianopolis,BA,26699
+SELL00002,sell00002@seller.example.com,Pedro,Pereira,1956-04-06,Belo Horizonte,DF,42293
+SELL00003,sell00003@seller.example.com,Daniel,Castro,1996-08-06,Goiania,ES,97983
+SELL00004,sell00004@seller.example.com,Rodrigo,Castro,1965-07-22,Porto Alegre,GO,32425
+SELL00005,sell00005@seller.example.com,Eduardo,Almeida,1987-09-21,Porto Alegre,DF,94181
+SELL00006,sell00006@seller.example.com,Felipe,Correia,1968-12-27,Curitiba,MG,92764
+SELL00007,sell00007@seller.example.com,Bruno,Costa,1979-02-04,Goiania,BA,44282
+SELL00008,sell00008@seller.example.com,Bianca,Teixeira,1961-01-20,Curitiba,BA,97043
+SELL00009,sell00009@seller.example.com,Carlos,Teixeira,2000-05-10,Brasilia,BA,60882
+SELL00010,sell00010@seller.example.com,Natália,Costa,2000-06-24,Florianopolis,DF,78721
+SELL00011,sell00011@seller.example.com,Amanda,Dias,1956-04-11,Rio de Janeiro,RS,27622
+SELL00012,sell00012@seller.example.com,Lucas,Gomes,1960-09-10,Rio de Janeiro,SC,15455
+SELL00013,sell00013@seller.example.com,Pedro,Silva,1973-11-27,Rio de Janeiro,RJ,45692
+SELL00014,sell00014@seller.example.com,Carlos,Costa,1955-09-13,Florianopolis,BA,16796
+SELL00015,sell00015@seller.example.com,Gustavo,Ramos,1997-12-01,Sao Paulo,ES,68534
+SELL00016,sell00016@seller.example.com,Eduardo,Castro,1948-04-21,Belo Horizonte,PR,32423
+SELL00017,sell00017@seller.example.com,Gabriela,Araújo,1973-12-27,Sao Paulo,RS,37007
+SELL00018,sell00018@seller.example.com,Vanessa,Teixeira,1997-08-28,Curitiba,RJ,58121
+SELL00019,sell00019@seller.example.com,Pedro,Castro,1979-09-03,Sao Paulo,BA,60261
+SELL00020,sell00020@seller.example.com,Renata,Gomes,1981-08-02,Campinas,RJ,89445
+SELL00021,sell00021@seller.example.com,Thiago,Teixeira,1963-10-17,Florianopolis,RJ,37692
+SELL00022,sell00022@seller.example.com,Bianca,Freitas,1952-10-26,Brasilia,ES,57049
+SELL00023,sell00023@seller.example.com,Larissa,Correia,1999-02-13,Rio de Janeiro,RJ,92542
+SELL00024,sell00024@seller.example.com,Eduardo,Ramos,1967-10-15,Florianopolis,GO,28721
+SELL00025,sell00025@seller.example.com,Carolina,Teixeira,1955-02-22,Curitiba,MG,85658
+SELL00026,sell00026@seller.example.com,Natália,Almeida,1973-01-21,Salvador,MG,44026
+SELL00027,sell00027@seller.example.com,Daniel,Nascimento,1999-11-13,Brasilia,RJ,14501
+SELL00028,sell00028@seller.example.com,João,Costa,1956-11-10,Florianopolis,GO,83376
+SELL00029,sell00029@seller.example.com,Marcos,Teixeira,1996-10-09,Sao Paulo,MG,17289
+SELL00030,sell00030@seller.example.com,Amanda,Cardoso,1949-09-07,Brasilia,ES,85696
+SELL00031,sell00031@seller.example.com,Maria,Souza,1977-02-24,Sao Paulo,MG,70639
+SELL00032,sell00032@seller.example.com,Daniel,Carvalho,1993-10-17,Campinas,PR,93943
+SELL00033,sell00033@seller.example.com,André,Correia,1984-06-07,Rio de Janeiro,BA,17190
+SELL00034,sell00034@seller.example.com,Gustavo,Santos,1979-03-31,Goiania,SP,85972
+SELL00035,sell00035@seller.example.com,Maria,Correia,1952-03-09,Florianopolis,SP,61678
+SELL00036,sell00036@seller.example.com,Bruno,Rocha,1991-05-24,Brasilia,GO,73772
+SELL00037,sell00037@seller.example.com,Carlos,Almeida,1976-08-12,Porto Alegre,RJ,46440
+SELL00038,sell00038@seller.example.com,Beatriz,Rodrigues,1947-02-19,Rio de Janeiro,SP,21260
+SELL00039,sell00039@seller.example.com,Bruno,Moreira,1983-09-08,Porto Alegre,SP,28297
+SELL00040,sell00040@seller.example.com,Juliana,Castro,1989-12-23,Sao Paulo,GO,12445
+SELL00041,sell00041@seller.example.com,Juliana,Martins,1955-06-21,Brasilia,RS,18976
+SELL00042,sell00042@seller.example.com,Vanessa,Fernandes,1984-11-22,Brasilia,GO,93407
+SELL00043,sell00043@seller.example.com,Leonardo,Lima,1978-06-30,Rio de Janeiro,MG,31275
+SELL00044,sell00044@seller.example.com,Lucas,Moreira,1987-03-31,Florianopolis,SP,64386
+SELL00045,sell00045@seller.example.com,Isabela,Teixeira,1959-09-23,Brasilia,MG,90507
+SELL00046,sell00046@seller.example.com,Bianca,Correia,1985-01-26,Goiania,SP,75985
+SELL00047,sell00047@seller.example.com,Mateus,Almeida,1961-10-20,Brasilia,MG,90643
+SELL00048,sell00048@seller.example.com,Beatriz,Almeida,1992-10-22,Salvador,RS,44195
+SELL00049,sell00049@seller.example.com,Carlos,Silva,1970-03-26,Belo Horizonte,DF,74168
+SELL00050,sell00050@seller.example.com,Renata,Freitas,1994-04-13,Curitiba,MG,78131
+SELL00051,sell00051@seller.example.com,Fernando,Rodrigues,1989-05-18,Sao Paulo,MG,61428
+SELL00052,sell00052@seller.example.com,Priscila,Carvalho,1987-09-15,Campinas,ES,81301
+SELL00053,sell00053@seller.example.com,Camila,Araújo,1985-01-28,Goiania,ES,67587
+SELL00054,sell00054@seller.example.com,Aline,Nascimento,1999-02-26,Goiania,SC,54268
+SELL00055,sell00055@seller.example.com,Thiago,Correia,1970-01-29,Rio de Janeiro,GO,84673
+SELL00056,sell00056@seller.example.com,Rafael,Oliveira,1974-12-01,Goiania,RS,89807
+SELL00057,sell00057@seller.example.com,Lucas,Gonçalves,1968-01-10,Salvador,GO,92946
+SELL00058,sell00058@seller.example.com,Eduardo,Nascimento,1953-10-10,Brasilia,PR,85251
+SELL00059,sell00059@seller.example.com,Fernando,Fernandes,1971-01-09,Curitiba,ES,79228
+SELL00060,sell00060@seller.example.com,Carlos,Barbosa,1986-06-11,Goiania,SP,78585
+SELL00061,sell00061@seller.example.com,Eduardo,Ribeiro,1967-11-17,Sao Paulo,BA,65298
+SELL00062,sell00062@seller.example.com,Bruno,Carvalho,1987-09-10,Porto Alegre,BA,99504
+SELL00063,sell00063@seller.example.com,Beatriz,Freitas,1997-02-14,Goiania,GO,49866
+SELL00064,sell00064@seller.example.com,Daniel,Moreira,2000-10-03,Goiania,SP,58378
+SELL00065,sell00065@seller.example.com,Isabela,Alves,1980-01-01,Florianopolis,SP,72519
+SELL00066,sell00066@seller.example.com,Camila,Araújo,1976-03-07,Salvador,ES,34636
+SELL00067,sell00067@seller.example.com,Marcos,Silva,1948-07-29,Sao Paulo,BA,21590
+SELL00068,sell00068@seller.example.com,Camila,Souza,1990-05-07,Curitiba,RS,29990
+SELL00069,sell00069@seller.example.com,Juliana,Dias,1975-02-28,Porto Alegre,ES,16669
+SELL00070,sell00070@seller.example.com,Gustavo,Nascimento,1962-04-25,Porto Alegre,PR,26773
+SELL00071,sell00071@seller.example.com,Daniel,Costa,1989-09-28,Salvador,MG,25648
+SELL00072,sell00072@seller.example.com,Rafael,Monteiro,1965-01-11,Curitiba,RJ,80152
+SELL00073,sell00073@seller.example.com,Vanessa,Nascimento,1977-10-31,Goiania,ES,19867
+SELL00074,sell00074@seller.example.com,Marcos,Santos,1969-03-06,Salvador,RS,75788
+SELL00075,sell00075@seller.example.com,Bianca,Souza,1976-07-14,Brasilia,BA,83588
+SELL00076,sell00076@seller.example.com,Rodrigo,Mendes,1971-02-02,Rio de Janeiro,SP,95086
+SELL00077,sell00077@seller.example.com,Marcos,Gomes,1999-06-26,Sao Paulo,ES,52674
+SELL00078,sell00078@seller.example.com,Isabela,Fernandes,1970-10-14,Goiania,ES,69437
+SELL00079,sell00079@seller.example.com,Beatriz,Ramos,1995-11-12,Goiania,GO,97843
+SELL00080,sell00080@seller.example.com,Daniel,Teixeira,1946-11-29,Sao Paulo,SC,53532
+SELL00081,sell00081@seller.example.com,Renata,Araújo,1992-05-07,Sao Paulo,SC,17865
+SELL00082,sell00082@seller.example.com,Eduardo,Gomes,1963-02-21,Campinas,SC,60657
+SELL00083,sell00083@seller.example.com,Ana,Mendes,1953-09-06,Curitiba,PR,54628
+SELL00084,sell00084@seller.example.com,Gabriel,Ribeiro,1967-08-27,Campinas,SP,22705
+SELL00085,sell00085@seller.example.com,Eduardo,Souza,1982-06-18,Salvador,RS,56057
+SELL00086,sell00086@seller.example.com,Lucas,Carvalho,1989-10-31,Salvador,GO,41786
+SELL00087,sell00087@seller.example.com,Ana,Dias,1995-10-23,Rio de Janeiro,SP,74383
+SELL00088,sell00088@seller.example.com,Mariana,Monteiro,1967-07-24,Rio de Janeiro,PR,75179
+SELL00089,sell00089@seller.example.com,Daniel,Rodrigues,1988-09-17,Porto Alegre,RS,47422
+SELL00090,sell00090@seller.example.com,Rafael,Nascimento,1990-01-13,Goiania,DF,88754
+SELL00091,sell00091@seller.example.com,Gustavo,Santos,1986-03-17,Sao Paulo,SP,54237
+SELL00092,sell00092@seller.example.com,Aline,Cardoso,1947-07-20,Salvador,DF,99809
+SELL00093,sell00093@seller.example.com,Ana,Gomes,1954-05-08,Salvador,DF,60450
+SELL00094,sell00094@seller.example.com,Gustavo,Silva,1972-05-25,Brasilia,SP,39792
+SELL00095,sell00095@seller.example.com,Patrícia,Ribeiro,1965-11-18,Salvador,ES,86978
+SELL00096,sell00096@seller.example.com,Mariana,Castro,1982-04-13,Brasilia,ES,91043
+SELL00097,sell00097@seller.example.com,Isabela,Teixeira,1967-10-30,Belo Horizonte,SC,73871
+SELL00098,sell00098@seller.example.com,André,Alves,1973-06-21,Belo Horizonte,SP,85992
+SELL00099,sell00099@seller.example.com,Leonardo,Freitas,1998-03-05,Brasilia,BA,70197
+SELL00100,sell00100@seller.example.com,Felipe,Ramos,1979-02-09,Campinas,BA,21899
+SELL00101,sell00101@seller.example.com,Rodrigo,Ramos,1988-06-16,Goiania,ES,42244
+SELL00102,sell00102@seller.example.com,Renata,Ramos,1995-08-28,Curitiba,SP,75179
+SELL00103,sell00103@seller.example.com,Bianca,Freitas,1993-08-19,Brasilia,DF,33584
+SELL00104,sell00104@seller.example.com,Leonardo,Rodrigues,1976-11-03,Sao Paulo,DF,21020
+SELL00105,sell00105@seller.example.com,Natália,Fernandes,1984-03-04,Rio de Janeiro,BA,42983
+SELL00106,sell00106@seller.example.com,Amanda,Gomes,1995-05-19,Goiania,SC,24251
+SELL00107,sell00107@seller.example.com,Natália,Oliveira,1975-09-05,Goiania,SP,81780
+SELL00108,sell00108@seller.example.com,Mariana,Freitas,1977-07-25,Goiania,GO,42947
+SELL00109,sell00109@seller.example.com,Camila,Castro,1986-09-16,Campinas,DF,61838
+SELL00110,sell00110@seller.example.com,Eduardo,Araújo,1970-04-22,Rio de Janeiro,PR,64731
+SELL00111,sell00111@seller.example.com,Felipe,Mendes,1973-07-05,Rio de Janeiro,RS,26760
+SELL00112,sell00112@seller.example.com,Gabriela,Araújo,1968-07-21,Brasilia,PR,83581
+SELL00113,sell00113@seller.example.com,Patrícia,Freitas,1966-09-07,Porto Alegre,PR,74646
+SELL00114,sell00114@seller.example.com,Carlos,Correia,1956-10-28,Porto Alegre,GO,28211
+SELL00115,sell00115@seller.example.com,Gabriel,Souza,1963-04-12,Florianopolis,MG,34156
+SELL00116,sell00116@seller.example.com,Mateus,Ramos,1974-04-23,Brasilia,RS,33961
+SELL00117,sell00117@seller.example.com,André,Dias,1956-09-22,Brasilia,RS,54186
+SELL00118,sell00118@seller.example.com,Marcos,Lima,1994-01-28,Campinas,DF,28711
+SELL00119,sell00119@seller.example.com,Amanda,Ribeiro,1962-08-11,Goiania,PR,89046
+SELL00120,sell00120@seller.example.com,Vanessa,Lima,1963-03-09,Belo Horizonte,SC,39520
+SELL00121,sell00121@seller.example.com,Rafael,Freitas,1965-05-31,Campinas,GO,99504
+SELL00122,sell00122@seller.example.com,Beatriz,Gomes,1989-06-10,Belo Horizonte,RJ,34825
+SELL00123,sell00123@seller.example.com,Beatriz,Araújo,1970-10-22,Sao Paulo,ES,82808
+SELL00124,sell00124@seller.example.com,Vanessa,Carvalho,1998-11-23,Porto Alegre,DF,47504
+SELL00125,sell00125@seller.example.com,Isabela,Cardoso,1993-01-25,Salvador,DF,49238
+SELL00126,sell00126@seller.example.com,Letícia,Lima,1999-07-17,Belo Horizonte,GO,56883
+SELL00127,sell00127@seller.example.com,Leonardo,Alves,1971-05-23,Campinas,PR,40642
+SELL00128,sell00128@seller.example.com,Renata,Pereira,1955-01-08,Sao Paulo,PR,82056
+SELL00129,sell00129@seller.example.com,João,Rodrigues,1963-06-01,Florianopolis,MG,38299
+SELL00130,sell00130@seller.example.com,Mateus,Gomes,1972-07-30,Florianopolis,RJ,54046
+SELL00131,sell00131@seller.example.com,Bianca,Freitas,1966-05-30,Brasilia,ES,94663
+SELL00132,sell00132@seller.example.com,Daniel,Carvalho,1978-05-18,Belo Horizonte,SC,14576
+SELL00133,sell00133@seller.example.com,Maria,Freitas,1962-02-05,Porto Alegre,DF,17183
+SELL00134,sell00134@seller.example.com,Mateus,Ramos,1973-02-12,Goiania,RS,69100
+SELL00135,sell00135@seller.example.com,Fernando,Dias,1947-04-09,Porto Alegre,PR,86350
+SELL00136,sell00136@seller.example.com,Amanda,Costa,1993-12-02,Brasilia,GO,36352
+SELL00137,sell00137@seller.example.com,Marcos,Mendes,1957-05-10,Salvador,PR,71924
+SELL00138,sell00138@seller.example.com,Isabela,Monteiro,1970-08-11,Belo Horizonte,GO,58406
+SELL00139,sell00139@seller.example.com,João,Lima,1950-01-31,Salvador,RS,87132
+SELL00140,sell00140@seller.example.com,Leonardo,Carvalho,1950-11-22,Goiania,RJ,65552
+SELL00141,sell00141@seller.example.com,Gabriela,Alves,1995-08-24,Brasilia,SC,25544
+SELL00142,sell00142@seller.example.com,Diego,Moreira,1972-03-17,Porto Alegre,RS,99675
+SELL00143,sell00143@seller.example.com,Gabriela,Silva,1957-04-30,Porto Alegre,RS,69418
+SELL00144,sell00144@seller.example.com,Bruno,Lima,1990-01-15,Sao Paulo,GO,67173
+SELL00145,sell00145@seller.example.com,Ricardo,Lima,1955-03-16,Brasilia,MG,11085
+SELL00146,sell00146@seller.example.com,Gabriela,Rodrigues,1947-02-06,Florianopolis,DF,46497
+SELL00147,sell00147@seller.example.com,Vanessa,Gomes,1997-07-02,Florianopolis,SC,96248
+SELL00148,sell00148@seller.example.com,Thiago,Teixeira,1971-07-06,Porto Alegre,ES,11487
+SELL00149,sell00149@seller.example.com,André,Monteiro,1988-02-11,Porto Alegre,PR,84076
+SELL00150,sell00150@seller.example.com,Camila,Mendes,1988-12-12,Belo Horizonte,SC,34989
+SELL00151,sell00151@seller.example.com,Marcos,Barbosa,1985-07-08,Belo Horizonte,ES,91491
+SELL00152,sell00152@seller.example.com,Bianca,Araújo,1976-07-26,Rio de Janeiro,RS,50105
+SELL00153,sell00153@seller.example.com,Letícia,Martins,1962-07-17,Campinas,GO,56369
+SELL00154,sell00154@seller.example.com,João,Martins,1950-08-11,Brasilia,BA,17102
+SELL00155,sell00155@seller.example.com,Vanessa,Martins,1968-08-26,Belo Horizonte,GO,76545
+SELL00156,sell00156@seller.example.com,Ana,Freitas,1988-11-10,Porto Alegre,GO,30766
+SELL00157,sell00157@seller.example.com,Patrícia,Rodrigues,1956-03-27,Goiania,SC,73794
+SELL00158,sell00158@seller.example.com,Pedro,Ribeiro,1951-11-12,Porto Alegre,SC,98625
+SELL00159,sell00159@seller.example.com,Mateus,Rocha,1981-12-13,Brasilia,SC,84509
+SELL00160,sell00160@seller.example.com,Camila,Teixeira,1990-02-12,Florianopolis,RS,13079
+SELL00161,sell00161@seller.example.com,Ricardo,Dias,1952-08-24,Salvador,GO,96372
+SELL00162,sell00162@seller.example.com,Rodrigo,Teixeira,1997-10-07,Porto Alegre,SC,22167
+SELL00163,sell00163@seller.example.com,Gabriel,Ramos,1950-10-23,Sao Paulo,BA,77722
+SELL00164,sell00164@seller.example.com,Rodrigo,Costa,1959-08-12,Brasilia,RJ,54279
+SELL00165,sell00165@seller.example.com,Aline,Freitas,1959-05-21,Curitiba,ES,19398
+SELL00166,sell00166@seller.example.com,Carlos,Oliveira,1996-06-30,Porto Alegre,BA,71140
+SELL00167,sell00167@seller.example.com,Carlos,Lima,1973-04-05,Sao Paulo,MG,14518
+SELL00168,sell00168@seller.example.com,Patrícia,Ribeiro,1953-08-23,Belo Horizonte,GO,55452
+SELL00169,sell00169@seller.example.com,Rafael,Freitas,1968-04-07,Rio de Janeiro,GO,59456
+SELL00170,sell00170@seller.example.com,Bianca,Barbosa,1956-08-17,Rio de Janeiro,BA,64290
+SELL00171,sell00171@seller.example.com,Felipe,Mendes,1996-01-25,Sao Paulo,GO,46222
+SELL00172,sell00172@seller.example.com,Felipe,Araújo,1983-05-04,Florianopolis,GO,16082
+SELL00173,sell00173@seller.example.com,Fernanda,Oliveira,2000-05-24,Brasilia,PR,32111
+SELL00174,sell00174@seller.example.com,Renata,Moreira,1999-06-25,Belo Horizonte,ES,29939
+SELL00175,sell00175@seller.example.com,Marcos,Gonçalves,1966-04-01,Sao Paulo,SC,61826
+SELL00176,sell00176@seller.example.com,Leonardo,Almeida,1992-11-18,Goiania,BA,62582
+SELL00177,sell00177@seller.example.com,Letícia,Freitas,1980-02-16,Rio de Janeiro,RS,58819
+SELL00178,sell00178@seller.example.com,Vanessa,Lima,1986-06-02,Belo Horizonte,RJ,83076
+SELL00179,sell00179@seller.example.com,Amanda,Almeida,1985-09-20,Florianopolis,RS,29533
+SELL00180,sell00180@seller.example.com,Gustavo,Teixeira,1972-09-04,Belo Horizonte,ES,57430
+SELL00181,sell00181@seller.example.com,Bianca,Rodrigues,1998-10-19,Campinas,MG,13347
+SELL00182,sell00182@seller.example.com,Thiago,Pereira,1984-06-21,Sao Paulo,BA,58479
+SELL00183,sell00183@seller.example.com,Ricardo,Silva,1973-05-25,Salvador,RS,13949
+SELL00184,sell00184@seller.example.com,Mariana,Santos,1997-01-05,Goiania,MG,26888
+SELL00185,sell00185@seller.example.com,Camila,Almeida,1951-05-28,Brasilia,PR,83301
+SELL00186,sell00186@seller.example.com,Carolina,Rocha,2000-09-10,Campinas,RJ,40084
+SELL00187,sell00187@seller.example.com,Letícia,Mendes,1954-11-26,Brasilia,GO,46174
+SELL00188,sell00188@seller.example.com,Carolina,Correia,1964-08-22,Porto Alegre,RS,62669
+SELL00189,sell00189@seller.example.com,Mateus,Gonçalves,1964-12-06,Sao Paulo,BA,73996
+SELL00190,sell00190@seller.example.com,Rodrigo,Oliveira,1969-09-28,Sao Paulo,RJ,53664
+SELL00191,sell00191@seller.example.com,Eduardo,Martins,1953-04-14,Brasilia,GO,57634
+SELL00192,sell00192@seller.example.com,Rafael,Gomes,1960-02-03,Salvador,SC,80793
+SELL00193,sell00193@seller.example.com,Maria,Dias,1967-07-09,Porto Alegre,PR,48291
+SELL00194,sell00194@seller.example.com,Pedro,Barbosa,1961-08-05,Goiania,MG,19910
+SELL00195,sell00195@seller.example.com,Natália,Monteiro,1995-07-10,Belo Horizonte,PR,40604
+SELL00196,sell00196@seller.example.com,Renata,Rodrigues,1952-09-25,Campinas,GO,30883
+SELL00197,sell00197@seller.example.com,Eduardo,Cardoso,1960-01-17,Curitiba,BA,63726
+SELL00198,sell00198@seller.example.com,Natália,Cardoso,1946-03-29,Florianopolis,MG,66017
+SELL00199,sell00199@seller.example.com,Eduardo,Carvalho,1982-08-26,Curitiba,DF,99647
+SELL00200,sell00200@seller.example.com,João,Rocha,1986-06-02,Campinas,BA,47083
+SELL00201,sell00201@seller.example.com,Rafael,Carvalho,1999-04-11,Curitiba,RS,64467
+SELL00202,sell00202@seller.example.com,Gabriel,Almeida,1988-02-28,Brasilia,PR,23271
+SELL00203,sell00203@seller.example.com,Eduardo,Pereira,1972-02-17,Belo Horizonte,GO,63931
+SELL00204,sell00204@seller.example.com,Rafael,Barbosa,1948-12-05,Brasilia,RS,74456
+SELL00205,sell00205@seller.example.com,Lucas,Cardoso,1966-10-08,Belo Horizonte,RJ,48574
+SELL00206,sell00206@seller.example.com,Maria,Silva,1971-11-06,Porto Alegre,ES,61121
+SELL00207,sell00207@seller.example.com,Rafael,Dias,1971-05-14,Sao Paulo,SP,37679
+SELL00208,sell00208@seller.example.com,Gabriela,Gonçalves,1986-09-25,Florianopolis,DF,86794
+SELL00209,sell00209@seller.example.com,Rodrigo,Correia,1952-05-21,Rio de Janeiro,RS,11759
+SELL00210,sell00210@seller.example.com,Daniel,Gonçalves,1966-12-10,Belo Horizonte,ES,65718
+SELL00211,sell00211@seller.example.com,Patrícia,Dias,1969-09-25,Sao Paulo,MG,38628
+SELL00212,sell00212@seller.example.com,Gustavo,Souza,1998-11-30,Florianopolis,BA,39675
+SELL00213,sell00213@seller.example.com,Bianca,Gonçalves,1963-10-01,Porto Alegre,MG,28665
+SELL00214,sell00214@seller.example.com,Felipe,Gomes,1984-02-21,Goiania,GO,72268
+SELL00215,sell00215@seller.example.com,Aline,Almeida,1956-04-18,Rio de Janeiro,BA,21226
+SELL00216,sell00216@seller.example.com,Aline,Costa,1994-11-09,Brasilia,RJ,57982
+SELL00217,sell00217@seller.example.com,Fernanda,Teixeira,1966-03-03,Campinas,MG,27507
+SELL00218,sell00218@seller.example.com,Rodrigo,Cardoso,1959-05-15,Belo Horizonte,DF,81367
+SELL00219,sell00219@seller.example.com,Fernanda,Ribeiro,1969-10-31,Florianopolis,BA,11234
+SELL00220,sell00220@seller.example.com,Larissa,Martins,1958-10-05,Florianopolis,MG,66028
+SELL00221,sell00221@seller.example.com,Thiago,Santos,1952-05-28,Goiania,DF,15956
+SELL00222,sell00222@seller.example.com,Bruno,Alves,1951-05-09,Florianopolis,ES,59826
+SELL00223,sell00223@seller.example.com,Bruno,Almeida,1960-11-19,Brasilia,RJ,28689
+SELL00224,sell00224@seller.example.com,Amanda,Castro,1973-08-06,Porto Alegre,RJ,76804
+SELL00225,sell00225@seller.example.com,Juliana,Correia,1999-05-21,Goiania,BA,31481
+SELL00226,sell00226@seller.example.com,Amanda,Souza,1997-01-24,Goiania,DF,95141
+SELL00227,sell00227@seller.example.com,Larissa,Martins,1971-11-23,Brasilia,PR,96639
+SELL00228,sell00228@seller.example.com,Isabela,Pereira,1985-05-26,Belo Horizonte,RJ,14194
+SELL00229,sell00229@seller.example.com,Gabriel,Teixeira,1957-02-26,Salvador,GO,38370
+SELL00230,sell00230@seller.example.com,Bruno,Martins,1988-01-19,Sao Paulo,PR,20251
+SELL00231,sell00231@seller.example.com,Gabriel,Freitas,1973-04-13,Curitiba,MG,73356
+SELL00232,sell00232@seller.example.com,Mariana,Ribeiro,1982-02-10,Porto Alegre,ES,93169
+SELL00233,sell00233@seller.example.com,Maria,Alves,1970-06-04,Salvador,RJ,14029
+SELL00234,sell00234@seller.example.com,Bruno,Mendes,1990-11-25,Florianopolis,ES,78396
+SELL00235,sell00235@seller.example.com,Rodrigo,Araújo,1994-06-12,Florianopolis,RJ,79049
+SELL00236,sell00236@seller.example.com,Thiago,Gonçalves,1990-04-20,Rio de Janeiro,SP,45987
+SELL00237,sell00237@seller.example.com,Thiago,Dias,1985-04-10,Rio de Janeiro,GO,51138
+SELL00238,sell00238@seller.example.com,Bianca,Martins,1953-03-20,Rio de Janeiro,SC,80466
+SELL00239,sell00239@seller.example.com,Carolina,Mendes,1999-08-27,Goiania,SC,14677
+SELL00240,sell00240@seller.example.com,Felipe,Moreira,1949-07-30,Brasilia,RS,15472
+SELL00241,sell00241@seller.example.com,Amanda,Ramos,1984-10-04,Salvador,RJ,49476
+SELL00242,sell00242@seller.example.com,Diego,Dias,1974-12-01,Sao Paulo,GO,99761
+SELL00243,sell00243@seller.example.com,Daniel,Ribeiro,2000-02-29,Campinas,MG,23728
+SELL00244,sell00244@seller.example.com,Isabela,Gomes,1968-06-18,Brasilia,SC,34214
+SELL00245,sell00245@seller.example.com,Rodrigo,Moreira,1948-04-27,Campinas,RS,56649
+SELL00246,sell00246@seller.example.com,Rafael,Castro,1954-03-12,Curitiba,PR,88019
+SELL00247,sell00247@seller.example.com,Carolina,Alves,1966-07-16,Porto Alegre,ES,45297
+SELL00248,sell00248@seller.example.com,Renata,Martins,1997-08-09,Porto Alegre,PR,84663
+SELL00249,sell00249@seller.example.com,Bruno,Dias,1998-09-03,Campinas,GO,66622
+SELL00250,sell00250@seller.example.com,Gabriel,Costa,1947-11-11,Brasilia,DF,78009
+SELL00251,sell00251@seller.example.com,Bianca,Ramos,1970-03-07,Goiania,RJ,14662
+SELL00252,sell00252@seller.example.com,João,Correia,1997-09-12,Florianopolis,SC,50496
+SELL00253,sell00253@seller.example.com,Carlos,Rocha,1949-08-11,Goiania,SC,12665
+SELL00254,sell00254@seller.example.com,Rodrigo,Martins,1961-09-19,Goiania,PR,86720
+SELL00255,sell00255@seller.example.com,Marcos,Nascimento,1988-03-18,Sao Paulo,SC,55942
+SELL00256,sell00256@seller.example.com,Larissa,Gonçalves,1992-07-23,Salvador,PR,18475
+SELL00257,sell00257@seller.example.com,Patrícia,Almeida,1985-09-03,Campinas,RJ,47239
+SELL00258,sell00258@seller.example.com,Fernanda,Moreira,1970-12-15,Curitiba,PR,32903
+SELL00259,sell00259@seller.example.com,Gustavo,Barbosa,1962-04-14,Curitiba,SP,71134
+SELL00260,sell00260@seller.example.com,Mariana,Nascimento,1998-07-07,Porto Alegre,MG,27171
+SELL00261,sell00261@seller.example.com,Gabriel,Gonçalves,1985-02-08,Brasilia,BA,22660
+SELL00262,sell00262@seller.example.com,Marcos,Gonçalves,1990-02-11,Porto Alegre,RS,68200
+SELL00263,sell00263@seller.example.com,Beatriz,Ribeiro,1954-03-09,Curitiba,DF,52658
+SELL00264,sell00264@seller.example.com,João,Rocha,1988-03-02,Brasilia,MG,33289
+SELL00265,sell00265@seller.example.com,Beatriz,Barbosa,1977-03-20,Porto Alegre,BA,17988
+SELL00266,sell00266@seller.example.com,Leonardo,Almeida,1982-08-20,Brasilia,RJ,49974
+SELL00267,sell00267@seller.example.com,Isabela,Nascimento,1975-11-26,Sao Paulo,DF,42052
+SELL00268,sell00268@seller.example.com,Fernando,Martins,1974-10-21,Belo Horizonte,MG,55154
+SELL00269,sell00269@seller.example.com,Amanda,Oliveira,1955-05-21,Salvador,SC,12421
+SELL00270,sell00270@seller.example.com,Renata,Cardoso,1960-06-05,Sao Paulo,RJ,70149
+SELL00271,sell00271@seller.example.com,Patrícia,Lima,1975-08-04,Porto Alegre,BA,79467
+SELL00272,sell00272@seller.example.com,André,Almeida,1982-12-06,Florianopolis,RS,81561
+SELL00273,sell00273@seller.example.com,Thiago,Nascimento,1990-06-14,Sao Paulo,SC,51584
+SELL00274,sell00274@seller.example.com,Fernando,Araújo,1971-11-10,Salvador,RJ,36176
+SELL00275,sell00275@seller.example.com,Gustavo,Araújo,1981-12-05,Campinas,MG,57540
+SELL00276,sell00276@seller.example.com,Gabriel,Dias,1995-05-09,Campinas,MG,55305
+SELL00277,sell00277@seller.example.com,Natália,Alves,1949-04-17,Belo Horizonte,RS,47273
+SELL00278,sell00278@seller.example.com,Bianca,Oliveira,1986-10-21,Curitiba,SP,98801
+SELL00279,sell00279@seller.example.com,Gabriel,Pereira,1953-11-25,Sao Paulo,SC,52369
+SELL00280,sell00280@seller.example.com,Ana,Pereira,1974-03-21,Curitiba,SC,54827
+SELL00281,sell00281@seller.example.com,Gabriel,Almeida,1968-08-23,Porto Alegre,RS,88931
+SELL00282,sell00282@seller.example.com,Gabriel,Carvalho,1975-01-02,Salvador,DF,53930
+SELL00283,sell00283@seller.example.com,Natália,Cardoso,1956-05-26,Porto Alegre,PR,76334
+SELL00284,sell00284@seller.example.com,Fernanda,Pereira,1982-04-06,Brasilia,GO,13462
+SELL00285,sell00285@seller.example.com,Gabriela,Cardoso,1992-03-02,Salvador,RS,60479
+SELL00286,sell00286@seller.example.com,Letícia,Rodrigues,1946-02-07,Sao Paulo,BA,17449
+SELL00287,sell00287@seller.example.com,Marcos,Oliveira,1994-09-05,Rio de Janeiro,GO,68038
+SELL00288,sell00288@seller.example.com,Gabriel,Gomes,1987-06-13,Salvador,GO,70760
+SELL00289,sell00289@seller.example.com,Gabriela,Gomes,1983-01-28,Belo Horizonte,DF,55190
+SELL00290,sell00290@seller.example.com,Carlos,Araújo,1950-11-12,Rio de Janeiro,RJ,40163
+SELL00291,sell00291@seller.example.com,Diego,Alves,1962-10-30,Campinas,SP,58242
+SELL00292,sell00292@seller.example.com,Rafael,Martins,1992-07-06,Goiania,SC,42953
+SELL00293,sell00293@seller.example.com,Vanessa,Gomes,1978-06-16,Brasilia,RJ,49799
+SELL00294,sell00294@seller.example.com,Rafael,Santos,1990-09-21,Brasilia,DF,22288
+SELL00295,sell00295@seller.example.com,Rodrigo,Rodrigues,1985-08-28,Belo Horizonte,PR,37473
+SELL00296,sell00296@seller.example.com,Mariana,Moreira,1950-08-19,Goiania,RJ,37591
+SELL00297,sell00297@seller.example.com,Mateus,Gomes,1964-04-06,Campinas,PR,38391
+SELL00298,sell00298@seller.example.com,Aline,Carvalho,1969-12-16,Brasilia,RJ,19877
+SELL00299,sell00299@seller.example.com,Rodrigo,Dias,1995-04-10,Rio de Janeiro,SC,83127
+SELL00300,sell00300@seller.example.com,Natália,Gonçalves,1957-10-03,Salvador,DF,98482
+SELL00301,sell00301@seller.example.com,Vanessa,Monteiro,1971-11-04,Brasilia,RJ,62550
+SELL00302,sell00302@seller.example.com,Lucas,Cardoso,1985-04-22,Salvador,SC,20494
+SELL00303,sell00303@seller.example.com,Priscila,Silva,1989-06-27,Campinas,SC,10078
+SELL00304,sell00304@seller.example.com,Carlos,Correia,1956-11-22,Salvador,SP,87674
+SELL00305,sell00305@seller.example.com,Larissa,Dias,1948-08-03,Salvador,ES,93041
+SELL00306,sell00306@seller.example.com,Natália,Gonçalves,2000-08-16,Sao Paulo,DF,18977
+SELL00307,sell00307@seller.example.com,Aline,Monteiro,1967-06-21,Rio de Janeiro,RS,42593
+SELL00308,sell00308@seller.example.com,Letícia,Carvalho,1960-03-17,Porto Alegre,BA,79754
+SELL00309,sell00309@seller.example.com,Ana,Rocha,1973-11-17,Sao Paulo,RS,81265
+SELL00310,sell00310@seller.example.com,Leonardo,Silva,1995-06-02,Goiania,DF,12723
+SELL00311,sell00311@seller.example.com,Gustavo,Fernandes,1947-03-25,Salvador,GO,19773
+SELL00312,sell00312@seller.example.com,Ana,Lima,1995-07-19,Porto Alegre,RJ,59510
+SELL00313,sell00313@seller.example.com,Rodrigo,Gonçalves,1982-08-09,Porto Alegre,RJ,77301
+SELL00314,sell00314@seller.example.com,Leonardo,Carvalho,1954-05-13,Brasilia,MG,43572
+SELL00315,sell00315@seller.example.com,Mariana,Correia,1966-02-27,Campinas,RS,89603
+SELL00316,sell00316@seller.example.com,Felipe,Dias,1956-03-06,Goiania,SC,81185
+SELL00317,sell00317@seller.example.com,Ricardo,Moreira,1987-05-26,Sao Paulo,PR,94650
+SELL00318,sell00318@seller.example.com,Isabela,Gomes,1956-07-16,Goiania,GO,48759
+SELL00319,sell00319@seller.example.com,Ana,Alves,1959-10-25,Curitiba,GO,24539
+SELL00320,sell00320@seller.example.com,Rafael,Ramos,1990-09-17,Rio de Janeiro,BA,50593
+SELL00321,sell00321@seller.example.com,João,Ramos,1972-03-08,Campinas,SC,55022
+SELL00322,sell00322@seller.example.com,Isabela,Alves,1991-08-27,Campinas,RS,70765
+SELL00323,sell00323@seller.example.com,Priscila,Teixeira,1970-07-13,Sao Paulo,GO,43051
+SELL00324,sell00324@seller.example.com,Aline,Mendes,1983-04-11,Belo Horizonte,ES,92303
+SELL00325,sell00325@seller.example.com,Bruno,Dias,1989-04-15,Goiania,BA,60730
+SELL00326,sell00326@seller.example.com,Rafael,Almeida,1988-05-13,Brasilia,SP,94865
+SELL00327,sell00327@seller.example.com,Bianca,Rocha,1967-11-13,Rio de Janeiro,DF,55242
+SELL00328,sell00328@seller.example.com,Gustavo,Almeida,1986-12-24,Rio de Janeiro,RS,90903
+SELL00329,sell00329@seller.example.com,Gabriela,Nascimento,1995-06-16,Rio de Janeiro,BA,76159
+SELL00330,sell00330@seller.example.com,Leonardo,Gomes,1958-12-23,Porto Alegre,RJ,43312
+SELL00331,sell00331@seller.example.com,Felipe,Rocha,1980-05-31,Campinas,MG,17586
+SELL00332,sell00332@seller.example.com,Juliana,Silva,1963-02-06,Salvador,SP,92833
+SELL00333,sell00333@seller.example.com,Rafael,Carvalho,1999-10-10,Salvador,RJ,94463
+SELL00334,sell00334@seller.example.com,Rodrigo,Araújo,1991-08-07,Rio de Janeiro,PR,71076
+SELL00335,sell00335@seller.example.com,Camila,Freitas,1958-04-01,Rio de Janeiro,RJ,72399
+SELL00336,sell00336@seller.example.com,Fernando,Freitas,1952-04-06,Porto Alegre,SC,28131
+SELL00337,sell00337@seller.example.com,Marcos,Teixeira,1970-10-14,Salvador,SC,25020
+SELL00338,sell00338@seller.example.com,Carolina,Carvalho,1983-03-24,Salvador,SC,84771
+SELL00339,sell00339@seller.example.com,Bianca,Ramos,1976-06-29,Campinas,MG,69523
+SELL00340,sell00340@seller.example.com,Ricardo,Costa,1991-07-21,Belo Horizonte,MG,85043
+SELL00341,sell00341@seller.example.com,Priscila,Moreira,1969-12-20,Sao Paulo,GO,73477
+SELL00342,sell00342@seller.example.com,Letícia,Martins,1946-03-26,Campinas,BA,81244
+SELL00343,sell00343@seller.example.com,João,Castro,1971-05-18,Sao Paulo,RS,80067
+SELL00344,sell00344@seller.example.com,Renata,Pereira,1972-10-14,Brasilia,SC,73101
+SELL00345,sell00345@seller.example.com,Ricardo,Mendes,1998-08-28,Porto Alegre,DF,41782
+SELL00346,sell00346@seller.example.com,Bruno,Alves,1998-01-10,Brasilia,MG,39904
+SELL00347,sell00347@seller.example.com,Felipe,Silva,1989-12-05,Salvador,ES,94073
+SELL00348,sell00348@seller.example.com,Leonardo,Castro,1959-05-02,Campinas,ES,95240
+SELL00349,sell00349@seller.example.com,Mateus,Carvalho,1986-01-23,Rio de Janeiro,MG,76102
+SELL00350,sell00350@seller.example.com,Bruno,Monteiro,1994-04-27,Campinas,SC,45503
+SELL00351,sell00351@seller.example.com,Renata,Monteiro,1989-06-14,Goiania,PR,86245
+SELL00352,sell00352@seller.example.com,André,Freitas,1976-12-18,Porto Alegre,RS,92644
+SELL00353,sell00353@seller.example.com,Daniel,Silva,1975-10-29,Porto Alegre,DF,63200
+SELL00354,sell00354@seller.example.com,Fernando,Oliveira,1995-07-08,Sao Paulo,GO,72927
+SELL00355,sell00355@seller.example.com,Vanessa,Barbosa,1994-10-03,Florianopolis,ES,62050
+SELL00356,sell00356@seller.example.com,Gustavo,Gomes,1979-11-04,Goiania,ES,44232
+SELL00357,sell00357@seller.example.com,Maria,Pereira,1986-11-07,Goiania,PR,90656
+SELL00358,sell00358@seller.example.com,Gustavo,Correia,1974-11-14,Goiania,PR,74021
+SELL00359,sell00359@seller.example.com,Leonardo,Martins,1962-12-04,Goiania,MG,52914
+SELL00360,sell00360@seller.example.com,Gabriela,Costa,1967-06-05,Belo Horizonte,ES,73856
+SELL00361,sell00361@seller.example.com,Patrícia,Santos,1997-04-19,Goiania,SP,56798
+SELL00362,sell00362@seller.example.com,Leonardo,Nascimento,1980-05-11,Belo Horizonte,MG,58786
+SELL00363,sell00363@seller.example.com,Gabriel,Carvalho,1966-12-15,Belo Horizonte,BA,48382
+SELL00364,sell00364@seller.example.com,Carlos,Araújo,1982-11-08,Curitiba,BA,33473
+SELL00365,sell00365@seller.example.com,Amanda,Rodrigues,1949-12-01,Campinas,PR,42921
+SELL00366,sell00366@seller.example.com,Daniel,Martins,1974-07-19,Brasilia,SC,39995
+SELL00367,sell00367@seller.example.com,Lucas,Araújo,1988-06-07,Florianopolis,RS,30450
+SELL00368,sell00368@seller.example.com,João,Araújo,1980-03-15,Brasilia,DF,59302
+SELL00369,sell00369@seller.example.com,Maria,Gonçalves,1980-08-21,Brasilia,RS,83673
+SELL00370,sell00370@seller.example.com,Felipe,Dias,1959-08-25,Sao Paulo,GO,25765
+SELL00371,sell00371@seller.example.com,Leonardo,Carvalho,1990-06-09,Campinas,SC,84806
+SELL00372,sell00372@seller.example.com,Marcos,Nascimento,1949-04-28,Sao Paulo,PR,76314
+SELL00373,sell00373@seller.example.com,Carolina,Gonçalves,1957-04-29,Rio de Janeiro,GO,56390
+SELL00374,sell00374@seller.example.com,Renata,Moreira,1991-01-24,Campinas,SC,30633
+SELL00375,sell00375@seller.example.com,Amanda,Gomes,1998-12-13,Salvador,MG,63120
+SELL00376,sell00376@seller.example.com,Renata,Nascimento,1975-10-14,Goiania,MG,50435
+SELL00377,sell00377@seller.example.com,João,Moreira,1955-01-02,Sao Paulo,GO,89843
+SELL00378,sell00378@seller.example.com,Mateus,Oliveira,1985-07-02,Belo Horizonte,BA,17357
+SELL00379,sell00379@seller.example.com,Rafael,Rocha,1954-12-12,Sao Paulo,SP,78089
+SELL00380,sell00380@seller.example.com,André,Silva,1993-03-09,Porto Alegre,SP,38820
+SELL00381,sell00381@seller.example.com,Bianca,Ramos,1986-12-29,Curitiba,SP,30487
+SELL00382,sell00382@seller.example.com,Lucas,Alves,1947-05-18,Brasilia,SC,89507
+SELL00383,sell00383@seller.example.com,Camila,Santos,1958-12-07,Campinas,RS,32188
+SELL00384,sell00384@seller.example.com,Natália,Fernandes,1982-10-13,Curitiba,SC,88416
+SELL00385,sell00385@seller.example.com,Renata,Almeida,1959-11-07,Belo Horizonte,SP,41310
+SELL00386,sell00386@seller.example.com,André,Barbosa,1952-09-17,Curitiba,RS,14564
+SELL00387,sell00387@seller.example.com,Amanda,Oliveira,1988-02-14,Belo Horizonte,RS,98635
+SELL00388,sell00388@seller.example.com,Felipe,Gonçalves,1969-10-11,Florianopolis,RJ,30062
+SELL00389,sell00389@seller.example.com,Lucas,Barbosa,1976-05-16,Sao Paulo,SP,89671
+SELL00390,sell00390@seller.example.com,Ricardo,Santos,1981-08-29,Rio de Janeiro,DF,22415
+SELL00391,sell00391@seller.example.com,Camila,Gonçalves,1953-03-16,Brasilia,SC,79241
+SELL00392,sell00392@seller.example.com,Lucas,Silva,1975-06-24,Belo Horizonte,RS,19044
+SELL00393,sell00393@seller.example.com,Juliana,Almeida,1993-11-15,Curitiba,RJ,46950
+SELL00394,sell00394@seller.example.com,Gustavo,Rodrigues,1980-02-04,Sao Paulo,PR,30349
+SELL00395,sell00395@seller.example.com,Rodrigo,Moreira,1974-05-30,Belo Horizonte,ES,47968
+SELL00396,sell00396@seller.example.com,Bruno,Silva,1989-10-11,Sao Paulo,BA,32717
+SELL00397,sell00397@seller.example.com,Juliana,Mendes,1994-07-16,Goiania,RS,72263
+SELL00398,sell00398@seller.example.com,Renata,Pereira,1949-03-22,Porto Alegre,PR,66917
+SELL00399,sell00399@seller.example.com,Larissa,Almeida,1952-02-21,Sao Paulo,DF,48371
+SELL00400,sell00400@seller.example.com,Priscila,Pereira,1967-01-23,Campinas,PR,80010
