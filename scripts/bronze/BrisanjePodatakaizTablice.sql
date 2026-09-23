@@ -2,9 +2,8 @@
  AUTOR: Marko Vresk
  DATUM: 22.9.2026.
  OPIS: Skripta sadrži SQL naredbe za brisanje podataka iz tablica u bazi schemi "bronze".  Skripta uključuje try-catch blok za hvatanje i ispisivanje eventualnih grešaka tijekom procesa brisanja podataka. Kroz proceduru bronze.brisanje_podataka, korisnik može jednostavno pokrenuti sve naredbe za brisanje podataka iz tablica u bazi podataka "bronze". Nakon što se procedura izvrši, svi podaci u tim tablicama će biti obrisani.
-UPOZORENJA:  Prije pokretanja skripte, provjerite da li imate odgovarajuće privilegije za brisanje podataka iz tablica u bazi podataka "bronze". Prije toga potrebno je pokrenuti odgovarajuće skripte za kreiranje tablica. Također, budite oprezni prilikom brisanja podataka jer će svi podaci u tim tablicama biti izgubljeni. Potrebno je prvo pokrenuti naredbe za kreiranje procedure bronze.brisanje_podataka, a zatim izvršiti naredbu EXEC bronze.brisanje_podataka kako bi se obrisali svi podaci iz tablica u bazi podataka "bronze".
+UPOZORENJA:  Prije pokretanja skripte, provjerite da li imate odgovarajuće privilegije za brisanje podataka iz tablica u bazi podataka "bronze". Prije toga potrebno je pokrenuti odgovarajuće skripte za kreiranje tablica. Također, budite oprezni prilikom brisanja podataka jer će svi podaci u tim tablicama biti izgubljeni. 
 */
-
 --Procedura koja briše sve podatke iz tablica u schemi "bronze"
 CREATE OR ALTER PROCEDURE bronze.brisanje_podataka AS
 	BEGIN
@@ -99,3 +98,6 @@ CREATE OR ALTER PROCEDURE bronze.brisanje_podataka AS
 				PRINT('ERROR LINE: '+ CAST(ERROR_LINE() AS NVARCHAR));
 		END CATCH;
 	END;
+
+GO
+exec bronze.brisanje_podataka;
