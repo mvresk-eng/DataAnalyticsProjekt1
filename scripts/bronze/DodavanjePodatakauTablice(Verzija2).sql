@@ -18,7 +18,8 @@ CREATE OR ALTER PROCEDURE bronze.učitaj_jednu_tablicu @ime_tablice VARCHAR(100)
         (
             FIRSTROW = 2,
             FIELDTERMINATOR = '','',
-            ROWTERMINATOR = ''0x0a''
+            ROWTERMINATOR = ''0x0a'',
+			CODEPAGE = ''65001''
         );';
 
     EXEC sys.sp_executesql @sql;
