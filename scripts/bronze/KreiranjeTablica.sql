@@ -27,8 +27,7 @@ CREATE OR ALTER PROCEDURE bronze.kreiranje_tablica AS
 				customer_last_name VARCHAR(255),
 				customer_birthdate DATE,
 				city VARCHAR(100),
-				city_state VARCHAR(10),
-				zip_prefix INT
+				city_state VARCHAR(10)
 			);
 			PRINT ('--Kreiram tablicu "bronze.erp_customers"--')
 
