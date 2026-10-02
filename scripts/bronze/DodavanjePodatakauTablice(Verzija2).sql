@@ -26,7 +26,6 @@ CREATE OR ALTER PROCEDURE bronze.učitaj_jednu_tablicu @ime_tablice VARCHAR(100)
 END;
 GO
 
---KREIRANJE PROCEDURE ZA UMETANJE PODATAKA U TABLICE
 CREATE OR ALTER PROCEDURE bronze.učitaj_podatke AS
 	BEGIN
 	DECLARE @početno_vrijeme DATETIME, @završno_vrijeme DATETIME;
@@ -68,6 +67,11 @@ CREATE OR ALTER PROCEDURE bronze.učitaj_podatke AS
 			exec bronze.učitaj_jednu_tablicu @ime_tablice='bronze.erp_sellers',
 			@putanja ='C:\Users\marko\OneDrive\Desktop\DataAnalyticsProjekt1\datasets\01_erp\sellers.csv';
 			PRINT('--Podaci su uneseni u tablicu bronze.erp_sellers--');
+
+			--UMETANJE PODATAKA U TABLICU bronze.erp_warehouse
+			exec bronze.učitaj_jednu_tablicu @ime_tablice='bronze.erp_warehouse',
+			@putanja ='C:\Users\marko\OneDrive\Desktop\DataAnalyticsProjekt1\datasets\01_erp\warehouse.csv';
+			PRINT('--Podaci su uneseni u tablicu bronze.erp_warehouse--');
 
 			--UMETANJE PODATAKA U TABLICU bronze.crm_customer_profile
 			exec bronze.učitaj_jednu_tablicu @ime_tablice='bronze.crm_customer_profile',
