@@ -142,6 +142,26 @@ CREATE OR ALTER PROCEDURE bronze.kreiranje_tablica AS
 			);
 			PRINT ('--Kreiram tablicu "bronze.erp_sellers"--');
 
+			--BRISANJE TABLICE bronze.erp_warehouse
+			IF OBJECT_ID('bronze.erp_warehouse', 'U') IS NOT NULL
+			BEGIN
+				DROP TABLE bronze.erp_warehouse ;
+				PRINT('--Brišem tablicu "bronze.erp_warehouse"--')
+			END;
+
+			--KREIRANJE TABLICE bronze.erp_warehouse
+			CREATE TABLE bronze.erp_warehouse (
+				warehouse_id VARCHAR(20),
+				warehouse_name VARCHAR(100),
+				warehouse_address VARCHAR(200),
+				warehouse_city VARCHAR(100),
+				capacity_m3 INT,
+				warehouse_phone VARCHAR(100),
+				warehouse_email VARCHAR(100),
+				warehouse_status VARCHAR(50)
+			);
+			PRINT ('--Kreiram tablicu "bronze.erp_warehouse"--');
+
 			--BRISANJE TABLICE bronze.crm_customer_profile
 			IF OBJECT_ID('bronze.crm_customer_profile', 'U') IS NOT NULL
 				BEGIN
@@ -154,7 +174,6 @@ CREATE OR ALTER PROCEDURE bronze.kreiranje_tablica AS
 				customer_id VARCHAR(20),
 				customer_segment VARCHAR(100),
 				acquisition_channel VARCHAR(100),
-				sales_rep_id VARCHAR(20),
 				first_contact_date DATETIME,
 				last_contact_date DATETIME
 			);
@@ -348,6 +367,6 @@ CREATE OR ALTER PROCEDURE bronze.kreiranje_tablica AS
 			PRINT('ERROR_LINE: ' + CAST(ERROR_LINE() AS NVARCHAR))
 		END CATCH
 	END;
-
+GO
 --POKRENUTI NAKON ŠTO SE POKRENE PROCEDURA bronze.kreiranje_tablica
 	EXEC bronze.kreiranje_tablica;
