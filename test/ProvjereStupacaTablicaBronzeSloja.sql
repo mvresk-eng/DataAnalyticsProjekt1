@@ -1,6 +1,6 @@
 /* NASLOV: Provjere stupaca tablica bronze sloja
    AUTOR: Marko Vresk
-   DATUM: 27.9.2026.
+   DATUM: 28.9.2026.
    OPIS: Ovaj SQL skripta provjerava stupce tablica bronze sloja u SQL Serveru. Provjere uključuju duplikate, null vrijednosti, razmake u nazivima, negativne vrijednosti, valjanost datuma, referencijalni integritet i druge specifične provjere za svaki stupac.
    UPOZORENJE: Preporučuje se pokretanje jednog po jednog execute za svaku tablicu kako bi se izbjeglo preopterećenje baze podataka i osiguralo da se svi podaci pravilno dohvaćaju.
 */

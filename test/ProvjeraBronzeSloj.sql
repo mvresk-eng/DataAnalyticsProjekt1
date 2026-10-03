@@ -1,9 +1,9 @@
 /*
-    ProvjeraBronzeSloj.sql
+    Naslov: Provjere postojećih tablica i procedura u bronze sloju
     Autor: Marko Vresk
     Datum: 26.09.2026.
-    Opis: Ova skripta provjerava sve tablice u bronze sloju i dohvaća sve zapise iz svake tablice te ukupni broj redaka za svaku tablicu. Također, dohvaća informacije o tablicama i procedurama u bazi podataka.
-    Upozorenja: Poželjno je pokretanje jednog po jednog executa za svaku tablicu kako bi se izbjeglo preopterećenje baze podataka i osiguralo da se svi podaci pravilno dohvaćaju. 
+    Opis:Ova skripta provjerava sve tablice u bronze sloju i dohvaća sve zapise iz svake tablice te ukupni broj redaka za svaku tablicu. Također, dohvaća informacije o tablicama i procedurama u bazi podataka.
+     Upozorenja: Poželjno je pokretanje jednog po jednog executa za svaku tablicu kako bi se izbjeglo preopterećenje baze podataka i osiguralo da se svi podaci pravilno dohvaćaju. 
     */
 
 
