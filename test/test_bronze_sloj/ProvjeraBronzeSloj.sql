@@ -25,6 +25,7 @@ EXEC bronze.dohvati_sve_podatke_iz_tablica @imetablice='bronze.erp_payments';
 EXEC bronze.dohvati_sve_podatke_iz_tablica @imetablice='bronze.erp_products';
 EXEC bronze.dohvati_sve_podatke_iz_tablica @imetablice='bronze.erp_reviews';
 EXEC bronze.dohvati_sve_podatke_iz_tablica @imetablice='bronze.erp_sellers';
+EXEC bronze.dohvati_sve_podatke_iz_tablica @imetablice='bronze.erp_warehouse';
 EXEC bronze.dohvati_sve_podatke_iz_tablica @imetablice='bronze.crm_customer_profile';
 EXEC bronze.dohvati_sve_podatke_iz_tablica @imetablice='bronze.crm_interactions';
 EXEC bronze.dohvati_sve_podatke_iz_tablica @imetablice='bronze.crm_leads';
@@ -38,6 +39,6 @@ EXEC bronze.dohvati_sve_podatke_iz_tablica @imetablice='bronze.operations_suppli
 EXEC bronze.dohvati_sve_podatke_iz_tablica @imetablice='bronze.returns_returns';
 
 --INFORMACIJE O TABLICAMA I SCHEMI
-SELECT st.name as table_name, st.type, st.type_desc, st.create_date, st.modify_date, st.schema_id, ss.name as schema_name   FROM SYS.tables st INNER JOIN sys.schemas ss ON  st.schema_id=ss.schema_id;
+SELECT st.name as table_name, st.type, st.type_desc, st.create_date, st.modify_date, st.schema_id, ss.name as schema_name   FROM SYS.tables st INNER JOIN sys.schemas ss ON  st.schema_id=ss.schema_id AND ss.name='bronze';
 --INFORMACIJE O PROCEDURAMA
 SELECT ao.name, ao.object_id,  ao.type, ao.type_desc, ao.create_date, ao.modify_date, ao.schema_id, ss.name as schema_name FROM sys.all_objects ao INNER JOIN sys.schemas ss ON ao.schema_id=ss.schema_id WHERE ao.type = 'P' AND ss.name='bronze' ;
