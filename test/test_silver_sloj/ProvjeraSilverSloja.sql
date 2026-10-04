@@ -1,3 +1,10 @@
+/*
+    NASLOV: Provjera podataka u silver sloju
+    AUTOR: Marko Vresk
+    DATUM: 04.10.2026.
+    OPIS: Skripta sadrži SQL naredbe za provjeru podataka u tablicama u bazi schemi "silver".  Skripta uključuje izvršavanje procedure silver.dohvati_sve_podatke_iz_tablica za dohvaćanje svih zapisa iz svake tablice u silver sloju, zajedno s ukupnim brojem redaka za svaku tablicu. Također, skripta dohvaća informacije o tablicama, procedurama i pogledima unutar schemi "silver" kako bi se osigurala pravilna struktura i integritet podataka.
+    UPOZORENJA:  Prije pokretanja skripte, provjerite da li imate odgovarajuće privilegije za dohvaćanje podataka iz tablica u schemi podataka "silver". Prije toga potrebno je pokrenuti odgovarajuće skripte za kreiranje tablica i procedura. Također, budite oprezni prilikom unosa imena tablica jer će unos nepostojeće tablice rezultirati greškom.
+*/
 USE DataAnalyticsOlist;
 GO
 
