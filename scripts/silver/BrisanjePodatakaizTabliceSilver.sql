@@ -1,3 +1,10 @@
+/*
+ NASLOV: Skripta za brisanje podataka iz tablica u schemi "silver".
+ AUTOR: Marko Vresk
+ DATUM: 02.10.2026.
+ OPIS: Skripta sadrži SQL naredbe za brisanje podataka iz tablica u bazi schemi "silver".  Skripta uključuje try-catch blok za hvatanje i ispisivanje eventualnih grešaka tijekom procesa brisanja podataka. Kroz proceduru silver.brisanje_podataka, korisnik može jednostavno pokrenuti sve naredbe za brisanje podataka iz tablica u bazi podataka "silver". Nakon što se procedura izvrši, svi podaci u tim tablicama će biti obrisani.
+UPOZORENJA:  Prije pokretanja skripte, provjerite da li imate odgovarajuće privilegije za brisanje podataka iz tablica u schemi podataka "silver". Prije toga potrebno je pokrenuti odgovarajuće skripte za kreiranje tablica. Također, budite oprezni prilikom brisanja podataka jer će svi podaci u tim tablicama biti izgubljeni.
+*/
 BEGIN
     DECLARE @početno_vrijeme DATETIME, @završno_vrijeme DATETIME;
     BEGIN TRY
