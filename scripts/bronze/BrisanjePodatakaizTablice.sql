@@ -40,6 +40,10 @@ CREATE OR ALTER PROCEDURE bronze.brisanje_podataka AS
 				TRUNCATE TABLE bronze.erp_sellers;
 				PRINT('--Brisanje podataka iz tablice bronze.erp_sellers--');
 
+				--BRISANJE PODATAKA IZ TABLICE bronze.erp_warehouse
+				TRUNCATE TABLE bronze.erp_warehouse;
+				PRINT('--Brisanje podataka iz tablice bronze.erp_warehouse--');
+
 				--BRISANJE PODATAKA IZ TABLICE bronze.crm_customer_profile
 				TRUNCATE TABLE bronze.crm_customer_profile;
 				PRINT('--Brisanje podataka iz tablice bronze.crm_customer_profile--');
