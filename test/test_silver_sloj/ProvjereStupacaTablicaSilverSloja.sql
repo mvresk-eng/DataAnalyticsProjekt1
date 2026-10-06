@@ -147,28 +147,32 @@ SELECT cita.order_id, cita.calculated_total, ep.items_total FROM cte_izračun_to
 exec silver.provjera_duplikata @naziv_tablice='silver.erp_products', @naziv_stupca='product_id';
 exec silver.provjera_null_vrijednosti @naziv_tablice='silver.erp_products', @naziv_stupca='product_id';
 exec silver.provjera_razmaka_u_nazivima @naziv_tablice='silver.erp_products', @naziv_stupca='product_id';
---5.2 product_category_name
+--5.2 product_name
+exec silver.provjera_duplikata @naziv_tablice='silver.erp_products', @naziv_stupca='product_name';
+exec silver.provjera_null_vrijednosti @naziv_tablice='silver.erp_products', @naziv_stupca='product_name';
+exec silver.provjera_razmaka_u_nazivima @naziv_tablice='silver.erp_products', @naziv_stupca='product_name';
+--5.3 product_category_name
 exec silver.provjera_distinktnih_naziva @naziv_tablice='silver.erp_products',  @naziv_stupca='product_category_name';
---5.3 base_price
+--5.4  base_price
 exec silver.provjera_null_vrijednosti @naziv_tablice='silver.erp_products',@ključ='product_id', @naziv_stupca='base_price';
 exec silver.provjera_negativnosti_vrijednosti @naziv_tablice='silver.erp_products',@ključ='product_id', @naziv_stupca='base_price';
 SELECT oi.product_id, oi.price, p.base_price FROM silver.erp_order_items oi INNER JOIN silver.erp_products p ON oi.product_id=p.product_id WHERE oi.price!=p.base_price;
---5.4 weight_g
+--5.5 weight_g
 exec silver.provjera_null_vrijednosti @naziv_tablice='silver.erp_products',@ključ='product_id', @naziv_stupca='weight_g';
 exec silver.provjera_negativnosti_vrijednosti @naziv_tablice='silver.erp_products',@ključ='product_id', @naziv_stupca='weight_g';
 exec silver.provjera_max10_vrijednosti @naziv_tablice='silver.erp_products',@ključ='product_id', @naziv_stupca='weight_g';
 exec silver.provjera_min10_vrijednosti @naziv_tablice='silver.erp_products',@ključ='product_id', @naziv_stupca='weight_g';
---5.5 length_cm
+--5.6 length_cm
 exec silver.provjera_null_vrijednosti @naziv_tablice='silver.erp_products',@ključ='product_id', @naziv_stupca='length_cm';
 exec silver.provjera_negativnosti_vrijednosti @naziv_tablice='silver.erp_products',@ključ='product_id', @naziv_stupca='length_cm';
 exec silver.provjera_max10_vrijednosti @naziv_tablice='silver.erp_products',@ključ='product_id', @naziv_stupca='length_cm';
 exec silver.provjera_min10_vrijednosti @naziv_tablice='silver.erp_products',@ključ='product_id', @naziv_stupca='length_cm';
---5.6 height_cm
+--5.7 height_cm
 exec silver.provjera_null_vrijednosti @naziv_tablice='silver.erp_products',@ključ='product_id', @naziv_stupca='height_cm';
 exec silver.provjera_negativnosti_vrijednosti @naziv_tablice='silver.erp_products',@ključ='product_id', @naziv_stupca='height_cm';
 exec silver.provjera_max10_vrijednosti @naziv_tablice='silver.erp_products',@ključ='product_id', @naziv_stupca='height_cm';
 exec silver.provjera_min10_vrijednosti @naziv_tablice='silver.erp_products',@ključ='product_id', @naziv_stupca='height_cm';
---5.7 width_cm
+--5.8 width_cm
 exec silver.provjera_null_vrijednosti @naziv_tablice='silver.erp_products',@ključ='product_id', @naziv_stupca='width_cm';
 exec silver.provjera_negativnosti_vrijednosti @naziv_tablice='silver.erp_products',@ključ='product_id', @naziv_stupca='width_cm';
 exec silver.provjera_max10_vrijednosti @naziv_tablice='silver.erp_products',@ključ='product_id', @naziv_stupca='width_cm';

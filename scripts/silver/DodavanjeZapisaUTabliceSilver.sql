@@ -130,6 +130,7 @@ CREATE OR ALTER PROCEDURE silver.učitaj_podatke AS
 			INSERT INTO silver.erp_products
 			(
 				product_id,
+				product_name,
 				product_category_name,
 				base_price,
 				weight_g,
@@ -139,6 +140,7 @@ CREATE OR ALTER PROCEDURE silver.učitaj_podatke AS
 			)
 			SELECT
 				product_id,
+				product_name,
 				CASE
 					WHEN product_category_name IS NULL THEN 'unknown'
 					ELSE REPLACE(product_category_name, ' & ', '_')

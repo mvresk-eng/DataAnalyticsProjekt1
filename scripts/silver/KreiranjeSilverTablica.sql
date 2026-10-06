@@ -108,6 +108,7 @@ CREATE OR ALTER PROCEDURE silver.kreiranje_tablica AS
 			CREATE TABLE silver.erp_products
 			(
 				product_id            VARCHAR(20),
+				product_name          VARCHAR(255),
 				product_category_name VARCHAR(100),
 				base_price            FLOAT,
 				weight_g              FLOAT,

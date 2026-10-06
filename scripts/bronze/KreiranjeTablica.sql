@@ -95,6 +95,7 @@ CREATE OR ALTER PROCEDURE bronze.kreiranje_tablica AS
 			--KREIRANJE TABLICE bronze.erp_products
 			CREATE TABLE bronze.erp_products (
 				product_id VARCHAR(20),
+				product_name VARCHAR(255),
 				product_category_name VARCHAR(100),
 				base_price FLOAT,
 				weight_g FLOAT,
