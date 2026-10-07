@@ -215,7 +215,7 @@ CREATE OR ALTER PROCEDURE silver.učitaj_podatke AS
 				last_contact_date
 			)
 			SELECT
-				customer_id,
+				REPLACE(customer_id,'"','') AS customer_id,
 				customer_segment,
 				acquisition_channel,
 				first_contact_date,
