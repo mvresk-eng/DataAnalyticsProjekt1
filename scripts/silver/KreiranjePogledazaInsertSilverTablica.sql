@@ -11,18 +11,24 @@ CREATE OR ALTER VIEW silver.erp_customers_view AS
     FROM bronze.erp_customers) AS t WHERE duplikati = 1;
 GO
 
+
+CREATE OR ALTER VIEW silver.erp_orders_view AS
+	SELECT eo.customer_id, eo.order_id, eo.order_status, eo.order_purchase_timestamp, eo.order_delivered_customer_date, eo.order_estimated_delivery_date 
+	FROM silver.erp_customers ec INNER JOIN bronze.erp_orders eo ON ec.customer_id=eo.customer_id;
+GO
+
+CREATE OR ALTER VIEW silver.erp_order_items_view AS
+	SELECT eoi.order_id, eoi.order_item, eoi.product_id, eoi.seller_id, eoi.quantity, eoi.price
+	FROM bronze.erp_order_items eoi INNER JOIN silver.erp_orders eo ON eo.order_id=eoi.order_id;
+GO
+
 CREATE OR ALTER VIEW silver.erp_payments_view AS
 	SELECT oi.order_id as orderitems_order_id,oi.quantity,oi.price,p.order_id as payments_order_id, p.payment_type, p.payment_installments,  
 	CASE 
 		WHEN quantity*price != payment_value THEN quantity*price
 		ELSE payment_value 
 	END as items_total, p.payment_value 
-	FROM bronze.erp_order_items oi INNER JOIN bronze.erp_payments p ON oi.order_id=p.order_id;
-GO
-
-CREATE OR ALTER VIEW silver.erp_orders_view AS
-	SELECT eo.customer_id, eo.order_id, eo.order_status, eo.order_purchase_timestamp, eo.order_delivered_customer_date, eo.order_estimated_delivery_date 
-	FROM silver.erp_customers ec INNER JOIN bronze.erp_orders eo ON ec.customer_id=eo.customer_id;
+	FROM silver.erp_order_items oi INNER JOIN bronze.erp_payments p ON oi.order_id=p.order_id;
 GO
 
 CREATE OR ALTER VIEW silver.erp_reviews_view AS

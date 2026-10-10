@@ -48,29 +48,6 @@ CREATE OR ALTER PROCEDURE silver.učitaj_podatke AS
 			FROM silver.erp_customers_view;
 
 			PRINT('--Podaci su uneseni u tablicu silver.erp_customers--');
-		
-			-- UMETANJE PODATAKA U TABLICU silver.erp_order_items
-			INSERT INTO silver.erp_order_items
-			(
-				order_id,
-				order_item,
-				product_id,
-				seller_id,
-				quantity,
-				price,
-				total_amount
-			)
-			SELECT
-				order_id,
-				order_item,
-				product_id,
-				seller_id,
-				quantity,
-				price,
-				quantity * price AS total_amount
-			FROM bronze.erp_order_items;
-
-			PRINT('--Podaci su uneseni u tablicu silver.erp_order_items--');
 
 			-- UMETANJE PODATAKA U TABLICU silver.erp_orders
 			INSERT INTO silver.erp_orders
@@ -92,6 +69,30 @@ CREATE OR ALTER PROCEDURE silver.učitaj_podatke AS
 			FROM silver.erp_orders_view;
 
 			PRINT('--Podaci su uneseni u tablicu silver.erp_orders--');
+		
+			-- UMETANJE PODATAKA U TABLICU silver.erp_order_items
+			INSERT INTO silver.erp_order_items
+			(
+				order_id,
+				order_item,
+				product_id,
+				seller_id,
+				quantity,
+				price,
+				total_amount
+			)
+			SELECT
+				order_id,
+				order_item,
+				product_id,
+				seller_id,
+				quantity,
+				price,
+				quantity * price AS total_amount
+			FROM silver.erp_order_items_view;
+
+			PRINT('--Podaci su uneseni u tablicu silver.erp_order_items--');
+
 
 			-- UMETANJE PODATAKA U TABLICU silver.erp_payments
 			INSERT INTO silver.erp_payments
