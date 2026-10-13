@@ -3,7 +3,7 @@
     Autor: Marko Vresk
     Datum: 08.10.2026.
     Opis: Skripta sadrži SQL naredbe za kreiranje tablica u bazi podataka "gold". Skripta uključuje try-catch blok za hvatanje i ispisivanje eventualnih grešaka tijekom procesa kreiranja tablica. Kroz proceduru gold.kreiranje_tablica, korisnik može jednostavno pokrenuti sve naredbe za kreiranje tablica u bazi podataka "gold". Nakon što se procedura izvrši, sve tablice u bazi podataka "gold" će biti kreirane.
-    Upozorenja:  Prije pokretanja skripte, provjerite da li imate odgovarajuće privilegije za kreiranje tablica u schemi podataka "gold". Također, budite oprezni prilikom kreiranja tablica jer će sve postojeće tablice u bazi podataka "gold" biti izbrisane i zamijenjene novim tablicama.
+    Upozorenja:  Prije pokretanja skripte, provjerite da li imate odgovarajuće privilegije za kreiranje tablica u schemi podataka "gold". Također, provjeriti da li već ne postoje tablice s istim imenom.
 */
 CREATE OR ALTER PROCEDURE gold.kreiranje_tablica AS  
 	BEGIN
