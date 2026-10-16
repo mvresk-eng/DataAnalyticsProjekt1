@@ -290,7 +290,17 @@ CREATE OR ALTER PROCEDURE gold.učitaj_podatke_interno AS
 			SELECT foc.cost_id,
 				dd.date_key,
 				foc.cost_date,
-				foc.operating_cost_state,
+				CASE
+					WHEN operating_cost_state = 'BA' THEN 'Bahia'
+					WHEN operating_cost_state = 'DF' THEN 'Distrito Federal'
+					WHEN operating_cost_state = 'MG' THEN 'Minas Gerais'
+					WHEN operating_cost_state = 'PR' THEN 'Paraná'
+					WHEN operating_cost_state = 'RJ' THEN 'Rio de Janeiro'
+					WHEN operating_cost_state = 'RS' THEN 'Rio Grande do Sul'
+					WHEN operating_cost_state = 'SC' THEN 'Santa Catarina'
+					WHEN operating_cost_state = 'SP' THEN 'São Paulo'
+					ELSE NULL
+				END AS operating_cost_state,
 				foc.cost_type,
 				foc.cost_amount
 			FROM silver.finance_operating_costs foc
