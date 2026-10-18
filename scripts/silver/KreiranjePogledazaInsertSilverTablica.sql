@@ -37,9 +37,13 @@ CREATE OR ALTER VIEW silver.erp_reviews_view AS
 GO
 
 CREATE OR ALTER VIEW silver.crm_customer_profile_view AS
-	SELECT * FROM 
-		(SELECT *, ROW_NUMBER()OVER(PARTITION BY customer_id ORDER BY customer_id) as duplikati 
-	FROM bronze.crm_customer_profile) as pom WHERE duplikati=1;
+	SELECT ccp.customer_id, ccp.customer_segment, ccp.acquisition_channel, ccp.first_contact_date, ccp.last_contact_date, eo.order_id, oi.total_sum
+		FROM bronze.crm_customer_profile ccp
+	INNER JOIN bronze.erp_customers ec ON ec.customer_id = REPLACE(ccp.customer_id, '"', '')
+	LEFT JOIN bronze.erp_orders eo ON eo.customer_id = REPLACE(ccp.customer_id, '"', '')
+	LEFT JOIN (SELECT order_id, SUM(price * quantity) AS total_sum
+		FROM bronze.erp_order_items GROUP BY order_id
+	) oi ON eo.order_id = oi.order_id;
 GO
 
 CREATE OR ALTER VIEW silver.crm_interactions_view AS
@@ -65,3 +69,4 @@ CREATE OR ALTER VIEW silver.returns_returns_view AS
 FROM  bronze.returns_returns rr 
 INNER JOIN silver.erp_order_items oi ON rr.order_id=oi.order_id AND rr.order_item_id=oi.order_item
 INNER JOIN silver.erp_orders o ON rr.order_id=o.order_id;
+
