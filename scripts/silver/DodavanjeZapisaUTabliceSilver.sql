@@ -215,13 +215,19 @@ CREATE OR ALTER PROCEDURE silver.učitaj_podatke AS
 				first_contact_date,
 				last_contact_date
 			)
-			SELECT
+			SELECT DISTINCT
 				REPLACE(customer_id,'"','') AS customer_id,
-				customer_segment,
+				CASE
+					WHEN SUM (total_sum)OVER(PARTITION BY customer_id ORDER BY customer_id)  IS NULL THEN 'Inactive'
+					WHEN COUNT (order_id)OVER(PARTITION BY customer_id ORDER BY customer_id)=1 THEN 'New'
+					WHEN COUNT (order_id)OVER(PARTITION BY customer_id ORDER BY customer_id) BETWEEN 2 AND 4 THEN 'Regular'
+					WHEN COUNT (order_id)OVER(PARTITION BY customer_id ORDER BY customer_id) BETWEEN 5 AND 6 THEN 'Loyal'
+					WHEN SUM (total_sum)OVER(PARTITION BY customer_id ORDER BY customer_id)>4000 OR COUNT (order_id)OVER(PARTITION BY customer_id ORDER BY customer_id) >6 THEN 'VIP'
+				END AS customer_segment,
 				acquisition_channel,
 				first_contact_date,
 				last_contact_date
-			FROM silver.crm_customer_profile_view;
+			FROM silver.crm_customer_profile_view ORDER BY customer_id;
 
 			PRINT('--Podaci su uneseni u tablicu silver.crm_customer_profile--');
 
