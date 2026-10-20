@@ -7,7 +7,7 @@
 */
 CREATE OR ALTER VIEW silver.erp_customers_view AS
 	SELECT * FROM 
-		(SELECT *, ROW_NUMBER() OVER(PARTITION BY customer_first_name + ' ' + customer_last_name, email, customer_birthdate ORDER BY customer_first_name + ' ' + customer_last_name) AS duplikati
+		(SELECT *, ROW_NUMBER() OVER(PARTITION BY customer_first_name + ' ' + customer_last_name, email, customer_birthdate ORDER BY customer_id) AS duplikati
     FROM bronze.erp_customers) AS t WHERE duplikati = 1;
 GO
 
