@@ -269,7 +269,7 @@ CREATE OR ALTER PROCEDURE gold.kreiranje_tablica AS
 					cost_id              VARCHAR(20) NOT NULL,
 					date_key             INT,
 					cost_date            DATETIME2(0),
-					operating_cost_state VARCHAR(10),
+					operating_cost_state VARCHAR(50),
 					cost_type            VARCHAR(50),
 					cost_amount          DECIMAL(18,2),
 					dwh_create_date      DATETIME2 DEFAULT GETDATE(),

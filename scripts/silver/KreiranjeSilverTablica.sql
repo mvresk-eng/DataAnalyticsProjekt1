@@ -301,7 +301,7 @@ CREATE OR ALTER PROCEDURE silver.kreiranje_tablica AS
 			(
 				cost_id              VARCHAR(20),
 				cost_date            DATETIME2(0),
-				operating_cost_state VARCHAR(10),
+				operating_cost_state VARCHAR(50),
 				cost_type            VARCHAR(50),
 				cost_amount          FLOAT,
 				dwh_create_date      DATETIME2 DEFAULT GETDATE()
