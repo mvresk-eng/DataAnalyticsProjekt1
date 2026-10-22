@@ -265,7 +265,7 @@ CREATE OR ALTER PROCEDURE bronze.kreiranje_tablica AS
 			CREATE TABLE bronze.finance_operating_costs (
 				cost_id VARCHAR(20),
 				cost_date DATETIME,
-				operating_cost_state VARCHAR(10),
+				operating_cost_state VARCHAR(50),
 				cost_type VARCHAR(50),
 				cost_amount FLOAT
 			);
@@ -281,7 +281,7 @@ CREATE OR ALTER PROCEDURE bronze.kreiranje_tablica AS
 			--KREIRANJE TABLICE bronze.finance_sales_budget
 			CREATE TABLE bronze.finance_sales_budget (
 				date_sales_budget DATE,
-				state_sales_budget VARCHAR(10),
+				state_sales_budget VARCHAR(50),
 				product_category_name VARCHAR(100),
 				budget_amount FLOAT
 			);

@@ -12,9 +12,23 @@ CREATE OR ALTER VIEW silver.erp_customers_view AS
 GO
 
 
-CREATE OR ALTER VIEW silver.erp_orders_view AS
+/*CREATE OR ALTER VIEW silver.erp_orders_view AS
 	SELECT eo.customer_id, eo.order_id, eo.order_status, eo.order_purchase_timestamp, eo.order_delivered_customer_date, eo.order_estimated_delivery_date 
 	FROM silver.erp_customers ec INNER JOIN bronze.erp_orders eo ON ec.customer_id=eo.customer_id;
+GO*/
+
+CREATE OR ALTER VIEW silver.erp_orders_view  AS
+WITH CTE_id_zamjena_duplikata AS (
+SELECT *, FIRST_VALUE(customer_id)OVER(PARTITION BY customer_first_name, customer_last_name, customer_birthdate, city ORDER BY customer_id) AS novi_customer_id
+FROM bronze.erp_customers)
+SELECT (novi_customer_id) as customer_id,
+	eo.order_id,
+    eo.order_status,
+    eo.order_purchase_timestamp,
+    eo.order_delivered_customer_date,
+    eo.order_estimated_delivery_date
+FROM CTE_id_zamjena_duplikata cizd
+INNER JOIN bronze.erp_orders eo ON eo.customer_id=cizd.customer_id
 GO
 
 CREATE OR ALTER VIEW silver.erp_order_items_view AS
