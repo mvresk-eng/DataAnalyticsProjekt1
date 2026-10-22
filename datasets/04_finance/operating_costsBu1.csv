@@ -1,0 +1,1451 @@
+cost_id,cost_date,state,cost_type,cost_amount
+COST000001,2017-05-09,São Paulo,customer_support,146.79
+COST000002,2017-12-06,Paraná,warehouse,351.6
+COST000003,2018-05-11,Distrito Federal,warehouse,27.14
+COST000004,2017-02-25,Minas Gerais,customer_support,298.39
+COST000005,2017-08-01,Rio de Janeiro,technology,149.29
+COST000006,2017-04-27,Minas Gerais,warehouse,47.56
+COST000007,2018-07-21,São Paulo,payroll,227.56
+COST000008,2017-04-01,Rio Grande do Sul,technology,380.71
+COST000009,2017-01-14,Minas Gerais,technology,198.85
+COST000010,2018-07-19,Santa Catarina,technology,705.49
+COST000011,2017-01-25,São Paulo,technology,136.21
+COST000012,2017-08-29,Minas Gerais,payroll,378.02
+COST000013,2018-04-08,Rio de Janeiro,logistics,1425.71
+COST000014,2017-10-07,Bahia,logistics,170.94
+COST000015,2018-07-24,Distrito Federal,logistics,140.57
+COST000016,2017-02-11,Minas Gerais,warehouse,107.39
+COST000017,2018-09-16,Bahia,payroll,284.5
+COST000018,2017-04-11,Rio Grande do Sul,payroll,1991.29
+COST000019,2017-10-09,Minas Gerais,customer_support,2000.0
+COST000020,2018-06-27,Paraná,logistics,341.14
+COST000021,2018-08-20,São Paulo,payroll,379.07
+COST000022,2017-01-15,Santa Catarina,technology,26.85
+COST000023,2018-01-24,Distrito Federal,technology,325.7
+COST000024,2017-09-10,Distrito Federal,logistics,394.35
+COST000025,2018-09-11,Minas Gerais,technology,1083.87
+COST000026,2017-05-03,Minas Gerais,technology,216.02
+COST000027,2017-12-11,Minas Gerais,payroll,565.08
+COST000028,2017-06-07,Rio de Janeiro,customer_support,322.94
+COST000029,2018-02-17,Paraná,warehouse,377.66
+COST000030,2018-03-24,Rio Grande do Sul,technology,178.04
+COST000031,2018-04-12,Santa Catarina,customer_support,352.08
+COST000032,2018-02-21,Santa Catarina,logistics,267.3
+COST000033,2017-06-29,Bahia,warehouse,1338.67
+COST000034,2017-10-20,Minas Gerais,payroll,184.28
+COST000035,2017-11-27,Paraná,logistics,203.81
+COST000036,2017-06-30,Rio Grande do Sul,warehouse,212.47
+COST000037,2018-06-29,Rio de Janeiro,technology,1752.05
+COST000038,2017-06-18,Bahia,technology,232.34
+COST000039,2017-02-18,Paraná,warehouse,302.3
+COST000040,2018-02-03,São Paulo,warehouse,2000.0
+COST000041,2018-07-09,São Paulo,logistics,222.65
+COST000042,2017-05-18,Santa Catarina,customer_support,1734.14
+COST000043,2017-10-22,Santa Catarina,payroll,1346.13
+COST000044,2017-11-27,Santa Catarina,technology,1468.72
+COST000045,2018-09-02,Paraná,customer_support,1685.11
+COST000046,2017-01-13,Santa Catarina,technology,104.83
+COST000047,2017-12-27,Santa Catarina,payroll,242.67
+COST000048,2017-06-20,Rio Grande do Sul,logistics,257.43
+COST000049,2017-07-06,São Paulo,warehouse,176.69
+COST000050,2018-03-27,Rio Grande do Sul,customer_support,250.87
+COST000051,2017-08-15,Santa Catarina,logistics,570.76
+COST000052,2018-04-13,Rio Grande do Sul,logistics,1044.88
+COST000053,2017-09-04,Rio Grande do Sul,customer_support,273.51
+COST000054,2018-01-09,Rio de Janeiro,customer_support,133.94
+COST000055,2017-12-05,Santa Catarina,customer_support,2000.0
+COST000056,2017-01-03,Distrito Federal,warehouse,2000.0
+COST000057,2018-01-08,São Paulo,technology,2000.0
+COST000058,2017-02-23,Paraná,logistics,449.88
+COST000059,2018-01-29,Minas Gerais,warehouse,2000.0
+COST000060,2017-11-28,Rio Grande do Sul,technology,130.38
+COST000061,2018-02-21,Minas Gerais,payroll,1220.38
+COST000062,2017-03-06,Distrito Federal,warehouse,71.25
+COST000063,2017-08-18,Minas Gerais,warehouse,141.5
+COST000064,2017-08-05,Minas Gerais,warehouse,949.29
+COST000065,2017-01-10,Bahia,warehouse,457.61
+COST000066,2017-11-16,Rio Grande do Sul,warehouse,2000.0
+COST000067,2018-04-03,Rio Grande do Sul,logistics,384.84
+COST000068,2017-03-19,Bahia,logistics,751.66
+COST000069,2017-10-25,Rio de Janeiro,payroll,1796.58
+COST000070,2017-10-10,Paraná,technology,31.21
+COST000071,2017-12-28,Rio de Janeiro,customer_support,366.15
+COST000072,2018-05-23,São Paulo,customer_support,355.42
+COST000073,2018-09-16,Rio de Janeiro,logistics,375.78
+COST000074,2017-10-03,Santa Catarina,warehouse,1446.28
+COST000075,2018-09-27,São Paulo,payroll,236.36
+COST000076,2017-06-05,São Paulo,payroll,332.84
+COST000077,2017-06-14,Rio Grande do Sul,customer_support,100.18
+COST000078,2017-06-16,Rio Grande do Sul,technology,281.03
+COST000079,2017-11-15,Minas Gerais,payroll,2000.0
+COST000080,2017-12-04,Bahia,technology,680.16
+COST000081,2018-05-08,Rio de Janeiro,customer_support,126.14
+COST000082,2017-10-22,Distrito Federal,technology,276.59
+COST000083,2018-05-05,Santa Catarina,warehouse,85.98
+COST000084,2017-03-18,Rio Grande do Sul,technology,313.51
+COST000085,2018-01-29,Minas Gerais,payroll,2000.0
+COST000086,2018-06-17,Rio de Janeiro,payroll,1282.18
+COST000087,2018-01-13,Rio de Janeiro,logistics,219.67
+COST000088,2017-01-14,São Paulo,customer_support,943.24
+COST000089,2018-02-18,Distrito Federal,payroll,90.28
+COST000090,2017-05-20,Minas Gerais,technology,29.66
+COST000091,2017-08-05,Distrito Federal,customer_support,1884.68
+COST000092,2018-01-03,Santa Catarina,payroll,345.65
+COST000093,2017-02-15,Santa Catarina,payroll,386.91
+COST000094,2018-03-13,Rio Grande do Sul,technology,1309.11
+COST000095,2018-09-29,Bahia,warehouse,145.3
+COST000096,2018-05-23,Rio de Janeiro,warehouse,390.9
+COST000097,2017-06-27,São Paulo,warehouse,266.73
+COST000098,2017-11-30,Santa Catarina,technology,2000.0
+COST000099,2017-01-10,Paraná,customer_support,126.27
+COST000100,2017-02-06,Bahia,technology,1240.5
+COST000101,2018-06-21,Paraná,warehouse,66.27
+COST000102,2017-10-31,Rio Grande do Sul,logistics,738.61
+COST000103,2017-05-27,Minas Gerais,customer_support,88.06
+COST000104,2017-10-30,Rio Grande do Sul,payroll,2000.0
+COST000105,2017-10-11,Rio Grande do Sul,payroll,134.22
+COST000106,2017-08-13,Santa Catarina,technology,233.83
+COST000107,2017-04-28,Distrito Federal,customer_support,376.2
+COST000108,2017-01-08,Rio Grande do Sul,warehouse,185.78
+COST000109,2017-07-24,Paraná,payroll,224.77
+COST000110,2018-04-19,Santa Catarina,technology,296.99
+COST000111,2017-09-07,Rio de Janeiro,logistics,878.15
+COST000112,2017-11-15,Santa Catarina,customer_support,33.29
+COST000113,2018-01-22,Minas Gerais,customer_support,43.1
+COST000114,2018-06-29,Rio de Janeiro,warehouse,2000.0
+COST000115,2017-02-09,Minas Gerais,logistics,1523.9
+COST000116,2018-09-15,Rio Grande do Sul,payroll,187.72
+COST000117,2017-03-12,Rio de Janeiro,logistics,211.47
+COST000118,2017-06-19,Distrito Federal,payroll,347.2
+COST000119,2017-07-23,Rio Grande do Sul,customer_support,250.18
+COST000120,2017-02-25,São Paulo,customer_support,34.3
+COST000121,2017-07-29,Rio Grande do Sul,payroll,143.34
+COST000122,2018-02-07,Bahia,payroll,326.72
+COST000123,2018-01-02,Distrito Federal,technology,249.04
+COST000124,2017-07-24,Paraná,payroll,713.18
+COST000125,2017-01-26,Rio de Janeiro,customer_support,367.87
+COST000126,2017-05-22,Rio de Janeiro,payroll,48.18
+COST000127,2017-03-23,Distrito Federal,customer_support,397.05
+COST000128,2018-04-12,Bahia,logistics,83.95
+COST000129,2018-01-10,Minas Gerais,warehouse,427.95
+COST000130,2018-02-04,São Paulo,payroll,780.27
+COST000131,2017-03-04,Bahia,technology,406.49
+COST000132,2018-05-05,Rio Grande do Sul,customer_support,21.35
+COST000133,2017-08-02,Paraná,payroll,1949.84
+COST000134,2018-05-23,Minas Gerais,customer_support,1722.79
+COST000135,2017-10-12,São Paulo,customer_support,25.32
+COST000136,2017-12-24,Santa Catarina,customer_support,1474.31
+COST000137,2017-02-17,Bahia,payroll,1064.47
+COST000138,2017-05-30,São Paulo,payroll,249.39
+COST000139,2017-07-12,Paraná,warehouse,317.15
+COST000140,2018-01-08,Minas Gerais,payroll,283.16
+COST000141,2017-02-28,Bahia,customer_support,108.52
+COST000142,2018-07-21,Santa Catarina,payroll,1694.27
+COST000143,2017-06-10,Minas Gerais,logistics,218.85
+COST000144,2017-05-16,Minas Gerais,logistics,151.74
+COST000145,2017-01-29,Paraná,logistics,2000.0
+COST000146,2017-10-02,Paraná,technology,1627.68
+COST000147,2017-09-15,Distrito Federal,logistics,178.57
+COST000148,2017-04-05,Distrito Federal,customer_support,272.99
+COST000149,2017-08-20,Distrito Federal,payroll,1422.43
+COST000150,2017-11-08,Santa Catarina,payroll,214.18
+COST000151,2017-04-02,Minas Gerais,customer_support,1800.53
+COST000152,2018-01-30,Rio de Janeiro,customer_support,421.97
+COST000153,2018-06-29,São Paulo,payroll,289.27
+COST000154,2018-03-13,Rio de Janeiro,payroll,249.11
+COST000155,2017-02-14,São Paulo,payroll,20.41
+COST000156,2017-05-07,Distrito Federal,technology,1022.38
+COST000157,2017-01-08,Santa Catarina,customer_support,1167.07
+COST000158,2018-09-19,Distrito Federal,customer_support,1340.1
+COST000159,2017-08-25,Santa Catarina,logistics,984.99
+COST000160,2017-07-31,Santa Catarina,warehouse,339.85
+COST000161,2018-03-26,Bahia,customer_support,324.36
+COST000162,2018-03-30,Minas Gerais,customer_support,242.31
+COST000163,2017-05-15,Bahia,payroll,227.39
+COST000164,2017-03-10,São Paulo,customer_support,523.08
+COST000165,2017-07-25,Paraná,logistics,2000.0
+COST000166,2017-10-29,Minas Gerais,technology,254.35
+COST000167,2017-03-03,São Paulo,warehouse,321.48
+COST000168,2017-12-06,Santa Catarina,logistics,1715.72
+COST000169,2017-09-13,Paraná,technology,2000.0
+COST000170,2018-07-24,Santa Catarina,payroll,622.06
+COST000171,2018-01-20,Bahia,logistics,171.02
+COST000172,2017-03-07,Minas Gerais,customer_support,865.64
+COST000173,2017-12-17,Rio Grande do Sul,logistics,379.2
+COST000174,2018-01-14,Rio de Janeiro,payroll,369.36
+COST000175,2018-02-12,Minas Gerais,warehouse,21.17
+COST000176,2017-05-11,Rio Grande do Sul,logistics,304.93
+COST000177,2017-11-28,Rio de Janeiro,customer_support,201.96
+COST000178,2017-12-22,Minas Gerais,payroll,375.98
+COST000179,2018-08-04,Paraná,warehouse,152.44
+COST000180,2017-09-12,Bahia,customer_support,239.36
+COST000181,2018-06-26,Santa Catarina,technology,61.67
+COST000182,2017-07-21,Paraná,logistics,160.08
+COST000183,2018-04-04,Rio Grande do Sul,logistics,1746.4
+COST000184,2017-10-11,Distrito Federal,logistics,357.95
+COST000185,2018-05-14,Rio de Janeiro,payroll,1362.25
+COST000186,2017-12-21,São Paulo,logistics,293.99
+COST000187,2017-06-07,Distrito Federal,payroll,355.06
+COST000188,2017-08-05,Rio Grande do Sul,technology,106.78
+COST000189,2017-09-08,São Paulo,customer_support,135.37
+COST000190,2017-05-11,Rio de Janeiro,payroll,2000.0
+COST000191,2018-07-23,Rio de Janeiro,logistics,335.72
+COST000192,2018-01-26,Rio de Janeiro,customer_support,979.26
+COST000193,2018-01-17,Paraná,payroll,2000.0
+COST000194,2018-08-09,Santa Catarina,technology,655.46
+COST000195,2017-04-13,Rio Grande do Sul,customer_support,84.85
+COST000196,2018-09-04,Bahia,customer_support,342.98
+COST000197,2017-02-04,Minas Gerais,payroll,67.24
+COST000198,2017-04-11,Paraná,customer_support,38.77
+COST000199,2017-02-26,Rio Grande do Sul,technology,1591.35
+COST000200,2017-01-21,Distrito Federal,logistics,371.52
+COST000201,2018-07-04,Santa Catarina,customer_support,907.39
+COST000202,2017-08-14,Paraná,customer_support,308.08
+COST000203,2017-09-08,Distrito Federal,payroll,1909.7
+COST000204,2017-01-03,Minas Gerais,payroll,451.33
+COST000205,2017-05-25,Rio de Janeiro,warehouse,1562.94
+COST000206,2017-05-08,Rio Grande do Sul,logistics,236.84
+COST000207,2017-08-20,Paraná,customer_support,1766.88
+COST000208,2018-09-07,Rio Grande do Sul,technology,321.86
+COST000209,2018-08-27,Bahia,logistics,211.39
+COST000210,2018-03-20,Rio Grande do Sul,technology,29.41
+COST000211,2017-12-04,Paraná,customer_support,369.28
+COST000212,2017-04-18,Distrito Federal,technology,302.95
+COST000213,2017-08-16,Santa Catarina,logistics,1934.47
+COST000214,2017-08-15,Paraná,customer_support,25.89
+COST000215,2018-05-10,Minas Gerais,technology,81.23
+COST000216,2017-02-18,Minas Gerais,customer_support,1921.88
+COST000217,2017-03-16,Minas Gerais,customer_support,168.18
+COST000218,2018-03-03,Rio de Janeiro,payroll,376.78
+COST000219,2018-07-18,São Paulo,logistics,84.95
+COST000220,2017-11-24,Paraná,technology,958.87
+COST000221,2018-07-27,Paraná,customer_support,811.24
+COST000222,2017-04-02,Rio Grande do Sul,payroll,269.59
+COST000223,2018-02-15,Paraná,logistics,48.81
+COST000224,2017-03-16,Paraná,customer_support,127.11
+COST000225,2017-08-24,Bahia,technology,1232.81
+COST000226,2017-06-23,Rio Grande do Sul,customer_support,126.25
+COST000227,2017-04-23,Santa Catarina,technology,648.94
+COST000228,2017-05-22,Rio Grande do Sul,warehouse,1302.19
+COST000229,2018-03-19,Bahia,customer_support,1786.18
+COST000230,2017-06-03,Rio de Janeiro,technology,376.66
+COST000231,2017-09-17,Rio Grande do Sul,technology,151.22
+COST000232,2017-11-04,Santa Catarina,warehouse,361.29
+COST000233,2017-08-31,Rio de Janeiro,logistics,1450.27
+COST000234,2017-03-10,São Paulo,logistics,212.34
+COST000235,2018-07-29,Santa Catarina,payroll,487.49
+COST000236,2017-12-08,Rio de Janeiro,payroll,721.12
+COST000237,2017-04-16,Minas Gerais,logistics,187.33
+COST000238,2018-08-05,Bahia,warehouse,1301.74
+COST000239,2017-04-14,Minas Gerais,payroll,1249.37
+COST000240,2018-09-06,Bahia,warehouse,106.34
+COST000241,2017-08-31,São Paulo,payroll,35.79
+COST000242,2017-03-20,São Paulo,payroll,309.02
+COST000243,2017-07-09,Rio Grande do Sul,technology,376.84
+COST000244,2017-06-11,São Paulo,logistics,1954.93
+COST000245,2017-04-25,Distrito Federal,payroll,353.8
+COST000246,2017-01-19,Rio Grande do Sul,customer_support,118.05
+COST000247,2017-07-01,Distrito Federal,logistics,370.97
+COST000248,2018-07-17,São Paulo,logistics,23.26
+COST000249,2018-07-19,Minas Gerais,payroll,2000.0
+COST000250,2017-05-12,Minas Gerais,payroll,281.6
+COST000251,2017-03-09,Rio de Janeiro,payroll,1844.79
+COST000252,2017-02-18,Bahia,warehouse,52.61
+COST000253,2018-06-07,Paraná,technology,140.85
+COST000254,2017-03-11,Rio de Janeiro,logistics,139.44
+COST000255,2017-09-09,Minas Gerais,technology,2000.0
+COST000256,2018-05-27,Rio de Janeiro,warehouse,177.78
+COST000257,2017-08-17,Minas Gerais,customer_support,1243.08
+COST000258,2017-01-15,Minas Gerais,customer_support,963.64
+COST000259,2017-05-28,Minas Gerais,customer_support,1062.55
+COST000260,2017-05-14,Distrito Federal,logistics,182.96
+COST000261,2017-12-16,Minas Gerais,customer_support,245.06
+COST000262,2017-03-02,Paraná,customer_support,1637.45
+COST000263,2018-06-07,Rio Grande do Sul,logistics,281.67
+COST000264,2017-09-01,Rio de Janeiro,payroll,248.64
+COST000265,2017-02-10,Rio Grande do Sul,customer_support,1083.63
+COST000266,2017-07-16,Bahia,customer_support,1257.58
+COST000267,2018-07-01,Rio Grande do Sul,customer_support,143.41
+COST000268,2017-03-16,São Paulo,logistics,843.35
+COST000269,2017-01-18,Minas Gerais,technology,237.49
+COST000270,2018-06-04,Santa Catarina,technology,818.87
+COST000271,2017-02-17,São Paulo,logistics,108.33
+COST000272,2017-11-10,São Paulo,logistics,1564.7
+COST000273,2017-02-22,São Paulo,logistics,274.64
+COST000274,2017-12-05,Santa Catarina,logistics,171.5
+COST000275,2018-02-24,Rio de Janeiro,logistics,296.94
+COST000276,2017-10-23,Minas Gerais,warehouse,386.86
+COST000277,2018-06-29,Rio Grande do Sul,technology,896.72
+COST000278,2018-03-08,São Paulo,warehouse,1992.56
+COST000279,2017-10-15,Rio de Janeiro,payroll,1568.27
+COST000280,2018-02-05,Paraná,logistics,1937.42
+COST000281,2017-01-09,Minas Gerais,payroll,1730.76
+COST000282,2018-02-23,Rio de Janeiro,customer_support,333.3
+COST000283,2017-01-04,Rio Grande do Sul,technology,235.71
+COST000284,2017-11-07,Minas Gerais,warehouse,172.74
+COST000285,2017-06-12,Distrito Federal,technology,399.56
+COST000286,2017-05-14,Bahia,technology,64.68
+COST000287,2017-06-09,Bahia,technology,72.57
+COST000288,2018-02-03,São Paulo,logistics,180.38
+COST000289,2017-10-14,Distrito Federal,technology,241.66
+COST000290,2017-05-20,Minas Gerais,payroll,321.42
+COST000291,2017-09-07,Distrito Federal,logistics,2000.0
+COST000292,2017-09-16,Minas Gerais,logistics,341.49
+COST000293,2018-04-06,Distrito Federal,logistics,391.02
+COST000294,2018-02-17,Paraná,payroll,264.86
+COST000295,2017-08-12,Distrito Federal,warehouse,343.3
+COST000296,2018-02-26,Distrito Federal,payroll,1001.65
+COST000297,2017-08-28,Distrito Federal,technology,157.78
+COST000298,2017-06-18,Paraná,technology,59.96
+COST000299,2018-08-27,Minas Gerais,payroll,304.98
+COST000300,2018-07-12,Bahia,warehouse,1191.25
+COST000301,2017-11-13,Rio Grande do Sul,logistics,1539.68
+COST000302,2017-01-28,São Paulo,payroll,1891.46
+COST000303,2018-08-07,São Paulo,customer_support,134.36
+COST000304,2017-11-25,Minas Gerais,payroll,1901.14
+COST000305,2018-09-03,Bahia,customer_support,351.52
+COST000306,2017-07-04,Bahia,customer_support,209.34
+COST000307,2017-04-27,Rio Grande do Sul,warehouse,1554.38
+COST000308,2017-03-14,Paraná,warehouse,290.08
+COST000309,2018-09-09,Distrito Federal,warehouse,1355.33
+COST000310,2018-01-21,Bahia,logistics,683.06
+COST000311,2017-10-31,Paraná,warehouse,442.5
+COST000312,2017-03-15,Rio de Janeiro,payroll,258.79
+COST000313,2017-01-01,Bahia,technology,75.59
+COST000314,2017-09-18,Rio Grande do Sul,warehouse,227.33
+COST000315,2017-10-06,Santa Catarina,logistics,244.33
+COST000316,2017-01-26,São Paulo,warehouse,368.18
+COST000317,2018-06-30,Bahia,logistics,187.43
+COST000318,2018-08-26,Rio de Janeiro,payroll,350.95
+COST000319,2017-02-16,Rio Grande do Sul,customer_support,300.74
+COST000320,2018-04-19,São Paulo,customer_support,124.63
+COST000321,2018-07-29,Bahia,logistics,211.54
+COST000322,2017-12-24,Rio de Janeiro,technology,77.78
+COST000323,2017-09-30,Distrito Federal,payroll,298.6
+COST000324,2018-01-16,Minas Gerais,logistics,391.52
+COST000325,2018-01-14,Paraná,payroll,196.67
+COST000326,2017-02-11,Santa Catarina,technology,340.47
+COST000327,2017-11-30,Distrito Federal,logistics,389.2
+COST000328,2017-07-11,Santa Catarina,warehouse,103.56
+COST000329,2017-01-12,São Paulo,customer_support,324.4
+COST000330,2018-03-12,Minas Gerais,payroll,280.97
+COST000331,2017-11-17,São Paulo,payroll,151.42
+COST000332,2018-06-26,Paraná,technology,345.71
+COST000333,2017-10-20,Distrito Federal,customer_support,313.5
+COST000334,2018-06-29,Santa Catarina,customer_support,51.96
+COST000335,2018-02-02,Bahia,logistics,144.56
+COST000336,2017-10-07,Rio Grande do Sul,logistics,294.19
+COST000337,2018-01-06,Distrito Federal,technology,272.21
+COST000338,2017-11-19,Distrito Federal,payroll,1063.84
+COST000339,2017-08-12,Rio Grande do Sul,logistics,373.32
+COST000340,2018-02-17,Rio Grande do Sul,payroll,305.31
+COST000341,2017-07-10,Bahia,technology,337.91
+COST000342,2018-09-05,Distrito Federal,customer_support,1095.64
+COST000343,2017-08-08,Bahia,payroll,61.02
+COST000344,2018-05-02,Bahia,logistics,101.71
+COST000345,2018-08-21,Minas Gerais,customer_support,143.15
+COST000346,2018-01-14,Minas Gerais,customer_support,25.66
+COST000347,2018-02-24,Bahia,warehouse,158.74
+COST000348,2017-11-28,Minas Gerais,warehouse,1741.87
+COST000349,2018-09-02,Distrito Federal,customer_support,226.08
+COST000350,2018-03-01,Distrito Federal,technology,819.56
+COST000351,2017-10-25,Rio Grande do Sul,logistics,289.78
+COST000352,2017-02-04,Santa Catarina,logistics,1646.93
+COST000353,2018-03-27,Santa Catarina,technology,1057.98
+COST000354,2017-08-24,Rio de Janeiro,warehouse,339.16
+COST000355,2017-01-22,Santa Catarina,customer_support,34.53
+COST000356,2017-10-01,Paraná,payroll,309.95
+COST000357,2017-11-29,São Paulo,customer_support,1585.35
+COST000358,2017-11-14,Rio de Janeiro,logistics,1227.19
+COST000359,2017-11-29,Paraná,warehouse,313.44
+COST000360,2018-03-18,Paraná,warehouse,305.25
+COST000361,2017-03-31,Minas Gerais,customer_support,1344.45
+COST000362,2018-06-18,Rio Grande do Sul,technology,375.31
+COST000363,2017-08-04,Rio Grande do Sul,customer_support,111.53
+COST000364,2017-05-09,Paraná,warehouse,344.78
+COST000365,2017-02-05,Rio Grande do Sul,logistics,1902.35
+COST000366,2018-08-10,Rio de Janeiro,logistics,365.67
+COST000367,2018-07-10,São Paulo,payroll,1069.84
+COST000368,2018-08-29,Santa Catarina,warehouse,148.51
+COST000369,2017-06-18,Bahia,technology,2000.0
+COST000370,2018-07-23,Distrito Federal,customer_support,335.43
+COST000371,2018-05-03,Bahia,customer_support,1057.35
+COST000372,2017-12-12,Rio Grande do Sul,customer_support,182.76
+COST000373,2017-03-23,Rio Grande do Sul,customer_support,106.21
+COST000374,2017-07-06,Rio Grande do Sul,customer_support,1273.8
+COST000375,2017-08-22,Distrito Federal,technology,891.87
+COST000376,2018-08-27,Santa Catarina,customer_support,60.38
+COST000377,2018-07-23,São Paulo,payroll,1433.72
+COST000378,2018-03-22,Bahia,technology,1806.87
+COST000379,2017-03-11,São Paulo,customer_support,367.18
+COST000380,2017-03-18,Bahia,warehouse,257.0
+COST000381,2017-02-22,Santa Catarina,payroll,20.31
+COST000382,2018-09-12,Distrito Federal,customer_support,608.61
+COST000383,2017-04-01,Minas Gerais,payroll,1971.18
+COST000384,2018-09-02,Santa Catarina,warehouse,759.82
+COST000385,2017-08-14,Rio de Janeiro,payroll,304.63
+COST000386,2017-08-17,Minas Gerais,warehouse,112.19
+COST000387,2017-09-18,Paraná,technology,163.51
+COST000388,2017-04-14,São Paulo,payroll,128.04
+COST000389,2017-11-21,Santa Catarina,payroll,1031.63
+COST000390,2017-01-17,São Paulo,technology,217.32
+COST000391,2018-03-11,Rio de Janeiro,technology,260.86
+COST000392,2017-10-24,Minas Gerais,logistics,148.25
+COST000393,2018-01-17,Rio Grande do Sul,technology,1856.3
+COST000394,2018-08-10,Paraná,warehouse,275.64
+COST000395,2018-03-07,Rio Grande do Sul,warehouse,309.93
+COST000396,2018-03-11,Rio Grande do Sul,technology,97.72
+COST000397,2017-01-23,Rio de Janeiro,technology,1483.4
+COST000398,2017-03-04,Minas Gerais,technology,355.67
+COST000399,2018-02-09,Rio de Janeiro,warehouse,2000.0
+COST000400,2018-07-01,Distrito Federal,payroll,1600.6
+COST000401,2018-07-27,Paraná,payroll,1173.53
+COST000402,2017-11-25,Paraná,technology,123.76
+COST000403,2018-09-02,Bahia,customer_support,222.43
+COST000404,2018-05-14,São Paulo,customer_support,1308.2
+COST000405,2017-10-05,Minas Gerais,customer_support,215.79
+COST000406,2017-03-23,Bahia,customer_support,395.16
+COST000407,2017-08-26,Minas Gerais,customer_support,265.43
+COST000408,2018-01-11,Paraná,warehouse,1993.4
+COST000409,2018-05-24,Minas Gerais,customer_support,205.56
+COST000410,2017-09-13,Paraná,technology,42.0
+COST000411,2017-11-21,Bahia,payroll,166.25
+COST000412,2017-02-09,Paraná,warehouse,392.86
+COST000413,2017-07-22,Minas Gerais,payroll,192.36
+COST000414,2017-03-01,São Paulo,technology,178.4
+COST000415,2017-05-29,Distrito Federal,payroll,50.64
+COST000416,2018-04-24,Rio Grande do Sul,logistics,1911.81
+COST000417,2018-08-25,Distrito Federal,payroll,1996.27
+COST000418,2017-12-31,Paraná,payroll,135.52
+COST000419,2017-03-26,Santa Catarina,warehouse,1812.54
+COST000420,2017-07-13,Rio de Janeiro,technology,1963.43
+COST000421,2018-08-13,Rio Grande do Sul,technology,327.79
+COST000422,2017-12-08,Bahia,logistics,139.93
+COST000423,2017-04-01,Minas Gerais,payroll,266.63
+COST000424,2018-03-03,Bahia,payroll,324.58
+COST000425,2017-07-27,São Paulo,logistics,150.75
+COST000426,2018-06-06,Rio Grande do Sul,customer_support,1626.79
+COST000427,2017-05-26,Minas Gerais,customer_support,240.12
+COST000428,2018-07-03,Santa Catarina,customer_support,154.04
+COST000429,2017-12-30,Rio de Janeiro,warehouse,89.24
+COST000430,2018-09-04,Paraná,payroll,398.52
+COST000431,2018-06-25,Paraná,customer_support,170.88
+COST000432,2017-01-24,Santa Catarina,technology,31.21
+COST000433,2017-07-11,Paraná,payroll,103.23
+COST000434,2017-10-10,Santa Catarina,customer_support,125.18
+COST000435,2017-11-24,Paraná,payroll,275.75
+COST000436,2017-03-24,Rio de Janeiro,customer_support,161.12
+COST000437,2018-03-03,Rio de Janeiro,technology,2000.0
+COST000438,2017-11-26,Paraná,payroll,80.27
+COST000439,2018-07-09,Distrito Federal,payroll,183.43
+COST000440,2018-07-12,Paraná,warehouse,153.75
+COST000441,2017-01-22,Minas Gerais,payroll,330.65
+COST000442,2018-03-13,Rio Grande do Sul,technology,91.77
+COST000443,2018-09-10,Rio de Janeiro,logistics,72.26
+COST000444,2017-07-12,Bahia,payroll,361.66
+COST000445,2018-02-17,Bahia,payroll,23.68
+COST000446,2018-05-12,Paraná,technology,72.3
+COST000447,2017-03-21,Santa Catarina,logistics,1308.91
+COST000448,2018-07-04,Bahia,technology,167.56
+COST000449,2017-12-19,Rio de Janeiro,technology,170.6
+COST000450,2017-04-21,Bahia,warehouse,58.21
+COST000451,2017-10-29,São Paulo,payroll,843.33
+COST000452,2018-07-28,Minas Gerais,warehouse,72.53
+COST000453,2017-07-01,São Paulo,payroll,1147.71
+COST000454,2018-08-19,Santa Catarina,technology,706.12
+COST000455,2018-07-10,São Paulo,logistics,43.82
+COST000456,2017-04-05,Santa Catarina,payroll,171.76
+COST000457,2018-07-24,Bahia,payroll,1809.01
+COST000458,2018-04-18,Rio Grande do Sul,logistics,97.78
+COST000459,2018-03-22,São Paulo,warehouse,141.67
+COST000460,2018-04-08,Minas Gerais,payroll,362.97
+COST000461,2017-03-29,Minas Gerais,technology,1733.02
+COST000462,2017-10-01,Distrito Federal,warehouse,854.46
+COST000463,2017-10-05,Santa Catarina,logistics,219.27
+COST000464,2018-01-22,Rio de Janeiro,logistics,160.0
+COST000465,2018-04-09,Rio de Janeiro,technology,50.1
+COST000466,2018-08-23,Bahia,payroll,1208.68
+COST000467,2017-06-21,São Paulo,logistics,360.35
+COST000468,2017-09-11,Rio de Janeiro,customer_support,1330.69
+COST000469,2017-04-01,São Paulo,logistics,356.52
+COST000470,2017-09-19,Rio de Janeiro,warehouse,37.74
+COST000471,2018-03-19,Distrito Federal,warehouse,385.32
+COST000472,2017-12-23,Distrito Federal,logistics,193.53
+COST000473,2017-10-03,Paraná,customer_support,372.15
+COST000474,2017-08-24,Santa Catarina,logistics,27.38
+COST000475,2018-01-18,Rio Grande do Sul,warehouse,378.38
+COST000476,2017-03-08,São Paulo,payroll,301.27
+COST000477,2018-05-13,Bahia,payroll,288.62
+COST000478,2018-09-21,Paraná,logistics,448.39
+COST000479,2017-08-29,Bahia,technology,1336.03
+COST000480,2017-03-01,Minas Gerais,customer_support,350.34
+COST000481,2017-06-09,Distrito Federal,warehouse,31.95
+COST000482,2018-01-07,São Paulo,technology,653.24
+COST000483,2017-04-27,Rio Grande do Sul,warehouse,1099.03
+COST000484,2018-07-07,Minas Gerais,warehouse,119.41
+COST000485,2017-12-22,Bahia,customer_support,1672.54
+COST000486,2018-08-24,Rio de Janeiro,warehouse,259.36
+COST000487,2018-03-23,Minas Gerais,logistics,176.3
+COST000488,2018-09-29,Santa Catarina,warehouse,158.09
+COST000489,2017-08-20,Rio Grande do Sul,warehouse,743.19
+COST000490,2017-02-21,Paraná,customer_support,1525.38
+COST000491,2018-08-12,Distrito Federal,logistics,309.34
+COST000492,2017-01-30,Santa Catarina,technology,1634.55
+COST000493,2018-09-20,Santa Catarina,technology,375.66
+COST000494,2017-05-10,Rio Grande do Sul,technology,382.69
+COST000495,2017-02-13,Minas Gerais,payroll,1574.12
+COST000496,2017-04-02,Rio Grande do Sul,logistics,1205.01
+COST000497,2018-06-11,Minas Gerais,payroll,372.45
+COST000498,2017-08-02,Distrito Federal,logistics,244.43
+COST000499,2018-05-03,Minas Gerais,warehouse,1099.42
+COST000500,2017-06-24,Santa Catarina,payroll,155.01
+COST000501,2017-11-17,Rio Grande do Sul,logistics,119.58
+COST000502,2017-01-04,Minas Gerais,technology,405.49
+COST000503,2018-08-04,Rio Grande do Sul,payroll,54.6
+COST000504,2017-03-06,Rio de Janeiro,logistics,293.2
+COST000505,2017-08-27,Bahia,warehouse,1491.0
+COST000506,2018-07-23,Rio Grande do Sul,logistics,239.11
+COST000507,2018-06-06,Santa Catarina,payroll,184.05
+COST000508,2018-01-25,Rio Grande do Sul,warehouse,956.28
+COST000509,2018-01-21,Rio Grande do Sul,warehouse,351.27
+COST000510,2017-03-25,Minas Gerais,technology,168.29
+COST000511,2017-02-21,São Paulo,payroll,234.6
+COST000512,2018-01-12,Distrito Federal,payroll,140.63
+COST000513,2018-05-08,Distrito Federal,customer_support,234.53
+COST000514,2018-06-02,Santa Catarina,logistics,538.88
+COST000515,2017-07-27,Bahia,payroll,49.64
+COST000516,2017-05-22,Bahia,logistics,46.25
+COST000517,2017-01-16,Santa Catarina,logistics,1582.95
+COST000518,2018-08-13,Paraná,customer_support,1622.92
+COST000519,2018-02-08,Distrito Federal,logistics,155.82
+COST000520,2018-04-26,Distrito Federal,warehouse,291.89
+COST000521,2018-05-17,São Paulo,warehouse,1930.94
+COST000522,2018-09-25,Rio Grande do Sul,technology,1960.08
+COST000523,2018-08-09,Distrito Federal,technology,125.49
+COST000524,2017-01-30,Rio Grande do Sul,logistics,1912.77
+COST000525,2018-02-05,Paraná,customer_support,919.84
+COST000526,2018-01-24,Santa Catarina,logistics,100.1
+COST000527,2017-05-07,Distrito Federal,logistics,282.16
+COST000528,2018-01-31,Paraná,payroll,1715.9
+COST000529,2017-11-27,Santa Catarina,warehouse,240.24
+COST000530,2017-12-04,Bahia,warehouse,103.95
+COST000531,2018-05-30,Paraná,payroll,214.94
+COST000532,2018-04-27,São Paulo,technology,56.19
+COST000533,2017-11-18,Rio Grande do Sul,technology,313.88
+COST000534,2017-11-29,Santa Catarina,payroll,65.39
+COST000535,2017-08-25,Santa Catarina,payroll,326.81
+COST000536,2018-05-05,Rio de Janeiro,customer_support,314.46
+COST000537,2017-11-12,Rio Grande do Sul,customer_support,506.64
+COST000538,2018-05-07,Distrito Federal,payroll,1354.54
+COST000539,2017-08-18,Rio de Janeiro,logistics,336.55
+COST000540,2017-09-20,Bahia,customer_support,2000.0
+COST000541,2017-03-06,Paraná,customer_support,118.68
+COST000542,2017-10-21,Rio Grande do Sul,warehouse,392.05
+COST000543,2018-01-09,Rio de Janeiro,customer_support,210.48
+COST000544,2017-04-27,Santa Catarina,payroll,109.81
+COST000545,2017-05-31,Minas Gerais,logistics,151.02
+COST000546,2017-04-12,Distrito Federal,logistics,871.63
+COST000547,2017-04-08,Bahia,payroll,197.0
+COST000548,2017-01-16,Minas Gerais,technology,363.45
+COST000549,2018-07-04,São Paulo,technology,441.5
+COST000550,2017-10-10,Rio de Janeiro,warehouse,297.23
+COST000551,2017-01-01,Santa Catarina,customer_support,258.17
+COST000552,2018-03-21,Rio de Janeiro,customer_support,1072.91
+COST000553,2017-01-06,Bahia,warehouse,188.56
+COST000554,2017-03-21,Minas Gerais,payroll,139.37
+COST000555,2017-11-21,Rio Grande do Sul,warehouse,271.98
+COST000556,2017-07-15,Rio Grande do Sul,warehouse,198.5
+COST000557,2017-01-17,Bahia,customer_support,1697.32
+COST000558,2017-11-29,Bahia,warehouse,85.68
+COST000559,2018-04-06,Rio de Janeiro,payroll,260.15
+COST000560,2017-09-24,Distrito Federal,logistics,48.46
+COST000561,2018-08-24,Rio Grande do Sul,payroll,119.91
+COST000562,2017-03-24,Minas Gerais,payroll,170.12
+COST000563,2018-04-29,Paraná,payroll,324.99
+COST000564,2017-01-13,Distrito Federal,payroll,1776.6
+COST000565,2017-03-09,São Paulo,customer_support,1971.91
+COST000566,2017-07-13,Santa Catarina,payroll,150.15
+COST000567,2017-06-15,Distrito Federal,payroll,187.54
+COST000568,2017-08-04,Rio de Janeiro,technology,365.94
+COST000569,2018-02-16,Distrito Federal,warehouse,176.02
+COST000570,2017-01-19,Santa Catarina,technology,1024.15
+COST000571,2017-11-11,Santa Catarina,customer_support,1907.11
+COST000572,2017-12-04,Paraná,technology,294.82
+COST000573,2017-04-17,Minas Gerais,customer_support,659.09
+COST000574,2018-01-30,Santa Catarina,customer_support,1629.19
+COST000575,2018-02-12,Minas Gerais,warehouse,420.14
+COST000576,2017-06-15,Rio de Janeiro,payroll,1647.34
+COST000577,2017-08-12,Paraná,technology,622.94
+COST000578,2018-07-19,Minas Gerais,logistics,957.63
+COST000579,2017-02-05,Minas Gerais,technology,266.96
+COST000580,2017-04-28,Paraná,customer_support,2000.0
+COST000581,2017-03-08,Rio de Janeiro,payroll,183.45
+COST000582,2018-07-23,São Paulo,customer_support,252.3
+COST000583,2018-01-15,Minas Gerais,technology,388.43
+COST000584,2017-08-16,Minas Gerais,logistics,204.06
+COST000585,2017-06-29,Distrito Federal,customer_support,146.45
+COST000586,2018-08-11,Bahia,technology,185.21
+COST000587,2017-01-19,Santa Catarina,logistics,1406.57
+COST000588,2018-07-08,Rio Grande do Sul,payroll,190.88
+COST000589,2018-04-02,Rio Grande do Sul,payroll,290.49
+COST000590,2017-03-31,Bahia,warehouse,878.25
+COST000591,2018-03-03,Paraná,warehouse,151.25
+COST000592,2018-04-22,Minas Gerais,payroll,62.21
+COST000593,2018-02-23,Distrito Federal,payroll,1418.53
+COST000594,2017-05-27,Santa Catarina,warehouse,809.06
+COST000595,2017-10-03,Santa Catarina,technology,1090.95
+COST000596,2018-09-29,Minas Gerais,customer_support,574.92
+COST000597,2018-07-06,Minas Gerais,logistics,397.49
+COST000598,2017-04-15,Rio de Janeiro,warehouse,277.33
+COST000599,2018-04-08,São Paulo,payroll,126.9
+COST000600,2017-01-29,Distrito Federal,logistics,32.16
+COST000601,2018-06-05,São Paulo,warehouse,226.41
+COST000602,2017-08-21,Minas Gerais,warehouse,976.31
+COST000603,2017-10-29,Distrito Federal,warehouse,523.24
+COST000604,2017-06-03,Rio de Janeiro,logistics,123.37
+COST000605,2017-02-28,Bahia,payroll,37.69
+COST000606,2017-10-08,Bahia,payroll,336.51
+COST000607,2017-09-27,Rio Grande do Sul,payroll,192.62
+COST000608,2017-07-09,Rio Grande do Sul,customer_support,654.66
+COST000609,2017-08-19,São Paulo,payroll,2000.0
+COST000610,2017-11-26,Bahia,technology,1482.01
+COST000611,2018-02-18,Paraná,warehouse,1144.36
+COST000612,2018-05-09,Rio Grande do Sul,technology,355.36
+COST000613,2017-10-02,Rio Grande do Sul,warehouse,1656.79
+COST000614,2017-07-11,São Paulo,payroll,351.49
+COST000615,2017-02-12,Bahia,warehouse,149.62
+COST000616,2018-08-11,Rio de Janeiro,technology,881.21
+COST000617,2017-04-15,Santa Catarina,logistics,387.46
+COST000618,2017-04-14,Paraná,logistics,34.59
+COST000619,2017-04-13,Paraná,payroll,485.46
+COST000620,2018-05-31,Bahia,customer_support,306.33
+COST000621,2017-04-15,Distrito Federal,logistics,2000.0
+COST000622,2018-06-20,Bahia,customer_support,1635.12
+COST000623,2017-11-30,Distrito Federal,warehouse,87.87
+COST000624,2018-07-13,Santa Catarina,payroll,615.4
+COST000625,2018-08-12,São Paulo,technology,262.33
+COST000626,2017-01-18,Rio Grande do Sul,logistics,127.33
+COST000627,2017-04-02,São Paulo,customer_support,334.05
+COST000628,2018-08-08,Santa Catarina,payroll,75.4
+COST000629,2018-06-25,Rio de Janeiro,logistics,1997.97
+COST000630,2017-06-11,Distrito Federal,warehouse,84.6
+COST000631,2017-05-06,Minas Gerais,logistics,40.66
+COST000632,2017-11-06,Santa Catarina,payroll,436.39
+COST000633,2018-01-26,Santa Catarina,payroll,64.08
+COST000634,2018-08-20,Rio de Janeiro,customer_support,1710.42
+COST000635,2018-09-12,Rio de Janeiro,technology,1218.07
+COST000636,2018-08-23,Rio de Janeiro,technology,1013.16
+COST000637,2018-06-20,Distrito Federal,technology,331.67
+COST000638,2018-08-23,Santa Catarina,customer_support,38.36
+COST000639,2017-08-24,Rio de Janeiro,logistics,113.44
+COST000640,2018-07-10,Santa Catarina,logistics,420.42
+COST000641,2017-01-29,Rio Grande do Sul,technology,1858.09
+COST000642,2018-08-04,Rio de Janeiro,logistics,197.58
+COST000643,2018-03-08,Santa Catarina,payroll,282.35
+COST000644,2017-08-09,Rio de Janeiro,payroll,1450.48
+COST000645,2018-05-02,Minas Gerais,technology,296.63
+COST000646,2017-06-05,Rio Grande do Sul,warehouse,130.81
+COST000647,2018-09-14,Rio de Janeiro,payroll,1081.19
+COST000648,2017-10-21,São Paulo,warehouse,63.65
+COST000649,2018-02-05,Paraná,warehouse,392.46
+COST000650,2017-09-26,Rio Grande do Sul,technology,64.91
+COST000651,2018-07-26,Minas Gerais,technology,341.66
+COST000652,2017-09-16,Paraná,technology,1793.7
+COST000653,2017-11-17,Minas Gerais,warehouse,390.02
+COST000654,2018-03-18,Bahia,customer_support,1349.3
+COST000655,2017-05-28,Santa Catarina,warehouse,277.65
+COST000656,2017-08-08,Distrito Federal,technology,323.41
+COST000657,2017-04-21,São Paulo,warehouse,1079.35
+COST000658,2018-02-20,Distrito Federal,payroll,140.93
+COST000659,2018-09-23,Bahia,customer_support,179.12
+COST000660,2017-06-01,Santa Catarina,customer_support,107.79
+COST000661,2018-06-30,Bahia,payroll,56.58
+COST000662,2017-10-17,Distrito Federal,warehouse,1405.56
+COST000663,2017-04-14,Santa Catarina,warehouse,330.24
+COST000664,2017-05-19,Santa Catarina,logistics,345.39
+COST000665,2018-07-02,Paraná,technology,397.9
+COST000666,2018-02-07,Rio de Janeiro,technology,193.82
+COST000667,2017-02-08,Rio Grande do Sul,warehouse,2000.0
+COST000668,2017-01-09,Bahia,payroll,224.79
+COST000669,2017-05-08,São Paulo,warehouse,365.13
+COST000670,2017-05-28,Paraná,payroll,2000.0
+COST000671,2018-03-21,Santa Catarina,customer_support,300.15
+COST000672,2017-06-15,Minas Gerais,customer_support,78.69
+COST000673,2017-01-24,Bahia,technology,139.65
+COST000674,2017-07-18,Santa Catarina,customer_support,1601.15
+COST000675,2017-12-12,Bahia,customer_support,107.52
+COST000676,2018-01-15,Bahia,customer_support,179.77
+COST000677,2018-04-22,Santa Catarina,logistics,235.01
+COST000678,2017-10-03,Santa Catarina,payroll,1675.85
+COST000679,2017-05-02,Santa Catarina,technology,165.63
+COST000680,2017-06-07,Paraná,technology,133.43
+COST000681,2018-03-22,Santa Catarina,logistics,247.24
+COST000682,2018-05-16,Santa Catarina,payroll,784.34
+COST000683,2017-03-19,Rio de Janeiro,technology,120.89
+COST000684,2018-05-26,Santa Catarina,technology,238.36
+COST000685,2018-06-19,Bahia,payroll,471.69
+COST000686,2018-03-06,Distrito Federal,technology,1734.31
+COST000687,2018-09-07,Minas Gerais,customer_support,1965.2
+COST000688,2018-02-27,Rio de Janeiro,payroll,2000.0
+COST000689,2018-02-12,Minas Gerais,logistics,134.78
+COST000690,2017-09-19,Rio de Janeiro,payroll,340.84
+COST000691,2017-08-16,São Paulo,technology,37.13
+COST000692,2017-06-17,Bahia,payroll,1276.47
+COST000693,2017-12-16,Distrito Federal,payroll,301.45
+COST000694,2017-07-05,Bahia,payroll,806.58
+COST000695,2017-11-06,Bahia,technology,167.33
+COST000696,2017-09-25,Santa Catarina,customer_support,291.73
+COST000697,2017-09-05,Bahia,logistics,93.46
+COST000698,2017-08-02,Distrito Federal,technology,75.44
+COST000699,2018-07-03,Santa Catarina,technology,164.03
+COST000700,2017-03-31,Distrito Federal,warehouse,80.75
+COST000701,2017-07-29,Distrito Federal,logistics,179.2
+COST000702,2017-09-11,Minas Gerais,warehouse,204.94
+COST000703,2018-02-06,Paraná,payroll,1432.5
+COST000704,2018-02-18,Bahia,payroll,1564.3
+COST000705,2018-01-23,Distrito Federal,warehouse,164.89
+COST000706,2018-04-25,Bahia,logistics,1079.39
+COST000707,2017-08-24,Bahia,warehouse,119.71
+COST000708,2017-03-29,São Paulo,payroll,75.82
+COST000709,2018-06-11,São Paulo,logistics,29.66
+COST000710,2017-03-10,Paraná,payroll,373.04
+COST000711,2018-09-30,Rio Grande do Sul,logistics,410.41
+COST000712,2018-09-21,Santa Catarina,customer_support,84.91
+COST000713,2018-06-21,Paraná,logistics,276.19
+COST000714,2017-12-07,Rio Grande do Sul,warehouse,1720.99
+COST000715,2017-08-01,Distrito Federal,warehouse,1242.61
+COST000716,2017-09-07,Bahia,logistics,394.46
+COST000717,2017-12-01,Rio de Janeiro,customer_support,1139.34
+COST000718,2018-09-24,Distrito Federal,technology,25.8
+COST000719,2018-08-02,Santa Catarina,technology,1579.86
+COST000720,2017-07-05,Rio Grande do Sul,technology,103.24
+COST000721,2018-02-12,Minas Gerais,technology,1476.7
+COST000722,2017-03-02,Rio de Janeiro,logistics,1939.22
+COST000723,2017-02-14,Rio de Janeiro,customer_support,291.83
+COST000724,2018-08-30,Bahia,payroll,1059.18
+COST000725,2018-02-23,São Paulo,technology,1597.35
+COST000726,2018-03-12,Paraná,warehouse,357.89
+COST000727,2018-04-13,Paraná,customer_support,1330.79
+COST000728,2017-03-24,Distrito Federal,technology,163.96
+COST000729,2018-01-29,Distrito Federal,warehouse,103.06
+COST000730,2018-02-01,Santa Catarina,payroll,73.39
+COST000731,2018-09-14,Rio Grande do Sul,warehouse,50.96
+COST000732,2018-02-26,Santa Catarina,payroll,277.16
+COST000733,2018-06-25,Minas Gerais,payroll,1916.37
+COST000734,2017-08-12,Santa Catarina,warehouse,504.76
+COST000735,2018-04-15,Distrito Federal,logistics,147.98
+COST000736,2017-08-11,Paraná,logistics,2000.0
+COST000737,2018-09-06,Bahia,warehouse,91.3
+COST000738,2018-09-01,Paraná,customer_support,296.98
+COST000739,2018-03-03,São Paulo,payroll,37.19
+COST000740,2018-04-15,Rio de Janeiro,warehouse,245.56
+COST000741,2018-03-15,Paraná,customer_support,1313.65
+COST000742,2018-09-23,Bahia,payroll,809.97
+COST000743,2017-06-09,Rio de Janeiro,technology,381.61
+COST000744,2018-09-22,Paraná,warehouse,128.46
+COST000745,2018-06-25,Paraná,payroll,34.8
+COST000746,2018-07-20,Distrito Federal,warehouse,649.77
+COST000747,2017-06-05,Distrito Federal,technology,502.67
+COST000748,2017-05-15,Paraná,customer_support,1624.88
+COST000749,2017-01-20,Bahia,warehouse,394.74
+COST000750,2017-07-03,Rio de Janeiro,customer_support,1414.59
+COST000751,2017-09-27,Paraná,customer_support,854.12
+COST000752,2018-01-17,Rio de Janeiro,technology,41.9
+COST000753,2017-11-09,Rio de Janeiro,technology,835.58
+COST000754,2017-06-01,São Paulo,customer_support,77.26
+COST000755,2017-07-16,Distrito Federal,payroll,938.49
+COST000756,2018-05-29,Distrito Federal,logistics,293.68
+COST000757,2017-12-18,Rio de Janeiro,technology,26.17
+COST000758,2017-08-29,Distrito Federal,payroll,253.56
+COST000759,2017-12-22,Distrito Federal,warehouse,178.4
+COST000760,2017-12-02,Bahia,technology,390.88
+COST000761,2017-09-17,Distrito Federal,logistics,57.66
+COST000762,2018-06-01,São Paulo,payroll,575.95
+COST000763,2017-05-24,Minas Gerais,payroll,248.98
+COST000764,2017-04-29,Paraná,technology,58.21
+COST000765,2018-05-07,Santa Catarina,warehouse,1162.72
+COST000766,2018-03-15,Rio Grande do Sul,payroll,1587.11
+COST000767,2018-08-07,Rio Grande do Sul,logistics,114.03
+COST000768,2018-08-27,Santa Catarina,payroll,120.67
+COST000769,2018-04-23,Rio de Janeiro,customer_support,1194.06
+COST000770,2017-12-10,Bahia,warehouse,539.87
+COST000771,2017-12-26,Minas Gerais,warehouse,434.81
+COST000772,2017-03-15,Santa Catarina,payroll,343.91
+COST000773,2018-05-27,Minas Gerais,customer_support,1619.36
+COST000774,2017-07-08,Distrito Federal,logistics,168.91
+COST000775,2017-01-05,Rio Grande do Sul,payroll,2000.0
+COST000776,2017-09-24,Paraná,warehouse,242.36
+COST000777,2017-10-19,Minas Gerais,customer_support,207.2
+COST000778,2017-11-06,São Paulo,warehouse,300.21
+COST000779,2017-11-06,Bahia,warehouse,852.92
+COST000780,2017-03-03,Bahia,payroll,495.01
+COST000781,2018-09-29,Rio de Janeiro,customer_support,100.21
+COST000782,2017-11-22,Rio Grande do Sul,technology,45.44
+COST000783,2017-09-14,Distrito Federal,logistics,242.15
+COST000784,2018-01-18,Santa Catarina,technology,1846.43
+COST000785,2018-07-19,Rio de Janeiro,warehouse,440.67
+COST000786,2017-03-18,Minas Gerais,payroll,174.94
+COST000787,2018-03-27,Rio Grande do Sul,technology,348.68
+COST000788,2018-02-18,São Paulo,logistics,305.92
+COST000789,2017-02-02,Rio Grande do Sul,customer_support,139.02
+COST000790,2017-06-29,Rio de Janeiro,warehouse,2000.0
+COST000791,2017-09-28,São Paulo,technology,490.09
+COST000792,2017-05-30,São Paulo,logistics,588.56
+COST000793,2018-06-07,Paraná,customer_support,1781.7
+COST000794,2017-08-25,Minas Gerais,customer_support,356.44
+COST000795,2017-07-17,Rio de Janeiro,logistics,638.55
+COST000796,2018-04-23,Minas Gerais,warehouse,277.9
+COST000797,2017-06-06,Bahia,logistics,75.15
+COST000798,2017-09-29,Paraná,warehouse,60.36
+COST000799,2018-07-19,Rio Grande do Sul,warehouse,1957.63
+COST000800,2017-10-29,Paraná,technology,817.52
+COST000801,2018-08-19,Distrito Federal,warehouse,1303.78
+COST000802,2018-03-07,São Paulo,logistics,1741.45
+COST000803,2017-03-22,Distrito Federal,logistics,168.89
+COST000804,2017-01-22,São Paulo,technology,228.19
+COST000805,2017-02-05,Rio Grande do Sul,warehouse,1568.65
+COST000806,2018-03-08,Minas Gerais,technology,301.94
+COST000807,2017-03-13,Distrito Federal,customer_support,248.05
+COST000808,2018-06-13,São Paulo,technology,114.57
+COST000809,2018-09-28,Rio Grande do Sul,logistics,1424.92
+COST000810,2017-02-20,Distrito Federal,logistics,2000.0
+COST000811,2017-04-19,Bahia,customer_support,32.43
+COST000812,2017-03-12,São Paulo,technology,2000.0
+COST000813,2018-03-12,Minas Gerais,technology,1436.49
+COST000814,2018-06-25,Minas Gerais,customer_support,1688.49
+COST000815,2017-08-09,Rio Grande do Sul,customer_support,87.79
+COST000816,2018-03-21,São Paulo,payroll,208.46
+COST000817,2018-09-12,Bahia,logistics,352.98
+COST000818,2017-09-03,Minas Gerais,logistics,212.2
+COST000819,2017-06-30,Rio Grande do Sul,warehouse,362.48
+COST000820,2018-03-17,Minas Gerais,customer_support,328.47
+COST000821,2017-03-23,Rio de Janeiro,logistics,2000.0
+COST000822,2018-05-13,Rio Grande do Sul,technology,100.42
+COST000823,2017-06-21,Rio de Janeiro,customer_support,2000.0
+COST000824,2017-12-10,Distrito Federal,warehouse,1083.62
+COST000825,2017-08-18,Paraná,warehouse,1598.31
+COST000826,2017-05-02,Distrito Federal,customer_support,203.12
+COST000827,2018-01-12,Paraná,payroll,115.95
+COST000828,2017-06-21,Santa Catarina,warehouse,1817.38
+COST000829,2017-03-25,Bahia,customer_support,49.85
+COST000830,2018-05-11,Rio Grande do Sul,warehouse,193.06
+COST000831,2017-11-22,Paraná,technology,582.34
+COST000832,2018-01-09,Bahia,payroll,110.24
+COST000833,2017-08-21,Distrito Federal,customer_support,328.42
+COST000834,2017-04-13,Bahia,warehouse,114.33
+COST000835,2018-05-10,Santa Catarina,logistics,146.98
+COST000836,2018-08-03,Paraná,warehouse,2000.0
+COST000837,2017-12-28,Minas Gerais,technology,385.19
+COST000838,2018-07-15,Distrito Federal,logistics,1365.19
+COST000839,2017-02-04,Santa Catarina,customer_support,280.52
+COST000840,2017-09-09,Distrito Federal,logistics,187.54
+COST000841,2017-04-12,São Paulo,logistics,312.49
+COST000842,2017-03-10,Rio Grande do Sul,warehouse,340.94
+COST000843,2017-07-11,Santa Catarina,payroll,290.77
+COST000844,2018-03-19,Minas Gerais,warehouse,115.87
+COST000845,2017-04-05,Minas Gerais,warehouse,208.61
+COST000846,2018-09-22,Paraná,warehouse,256.53
+COST000847,2017-02-08,Paraná,warehouse,1326.28
+COST000848,2017-06-29,Santa Catarina,customer_support,1623.25
+COST000849,2018-01-07,São Paulo,logistics,138.91
+COST000850,2017-08-07,Bahia,technology,305.57
+COST000851,2017-10-01,Minas Gerais,logistics,376.63
+COST000852,2018-03-14,Santa Catarina,customer_support,1988.43
+COST000853,2017-11-16,São Paulo,logistics,155.52
+COST000854,2017-11-14,Santa Catarina,technology,167.72
+COST000855,2017-01-23,Bahia,technology,385.46
+COST000856,2018-02-27,Distrito Federal,warehouse,255.16
+COST000857,2018-06-01,Paraná,payroll,317.4
+COST000858,2017-04-24,Santa Catarina,logistics,38.75
+COST000859,2017-05-11,Distrito Federal,payroll,1661.66
+COST000860,2017-10-23,Santa Catarina,technology,90.32
+COST000861,2017-07-15,São Paulo,logistics,335.41
+COST000862,2017-03-29,São Paulo,payroll,75.77
+COST000863,2017-04-07,Rio Grande do Sul,logistics,500.63
+COST000864,2017-01-02,Distrito Federal,warehouse,215.24
+COST000865,2018-01-14,Paraná,technology,1526.48
+COST000866,2017-03-30,São Paulo,warehouse,146.2
+COST000867,2017-02-06,São Paulo,logistics,136.97
+COST000868,2017-06-26,Rio Grande do Sul,warehouse,277.08
+COST000869,2017-01-29,Santa Catarina,warehouse,279.31
+COST000870,2017-05-22,Distrito Federal,technology,81.43
+COST000871,2017-03-07,São Paulo,technology,380.12
+COST000872,2018-09-29,Bahia,logistics,297.45
+COST000873,2018-06-25,Santa Catarina,warehouse,96.07
+COST000874,2017-09-18,Paraná,warehouse,276.93
+COST000875,2018-08-21,Paraná,customer_support,363.16
+COST000876,2017-08-20,Santa Catarina,payroll,1968.08
+COST000877,2018-06-11,Rio Grande do Sul,logistics,320.76
+COST000878,2017-04-15,Bahia,logistics,1119.25
+COST000879,2017-04-30,Rio de Janeiro,payroll,738.86
+COST000880,2017-11-20,Bahia,payroll,1722.61
+COST000881,2017-03-31,Rio Grande do Sul,warehouse,75.72
+COST000882,2017-06-23,São Paulo,customer_support,61.64
+COST000883,2017-09-13,Bahia,technology,395.8
+COST000884,2017-08-27,Rio de Janeiro,logistics,167.31
+COST000885,2018-01-02,Rio Grande do Sul,payroll,51.68
+COST000886,2018-06-01,Distrito Federal,logistics,119.6
+COST000887,2017-09-19,Distrito Federal,logistics,250.72
+COST000888,2018-05-06,Distrito Federal,payroll,1200.71
+COST000889,2018-06-07,Minas Gerais,warehouse,2000.0
+COST000890,2017-08-22,Rio de Janeiro,technology,1003.98
+COST000891,2017-09-02,Paraná,logistics,375.48
+COST000892,2018-04-12,Rio Grande do Sul,warehouse,1670.03
+COST000893,2017-04-28,Minas Gerais,technology,373.2
+COST000894,2018-07-08,Santa Catarina,warehouse,2000.0
+COST000895,2018-09-19,Distrito Federal,logistics,670.78
+COST000896,2017-05-24,Minas Gerais,logistics,352.04
+COST000897,2017-10-20,Rio de Janeiro,customer_support,297.45
+COST000898,2018-03-01,Santa Catarina,technology,732.71
+COST000899,2017-03-20,Distrito Federal,technology,1794.47
+COST000900,2017-01-17,Bahia,payroll,93.48
+COST000901,2018-01-29,Rio Grande do Sul,technology,42.88
+COST000902,2017-05-17,Minas Gerais,warehouse,268.02
+COST000903,2018-03-21,Rio Grande do Sul,warehouse,102.95
+COST000904,2017-02-25,Distrito Federal,payroll,190.2
+COST000905,2018-06-02,Rio Grande do Sul,payroll,183.34
+COST000906,2018-05-06,Santa Catarina,customer_support,2000.0
+COST000907,2017-05-15,Bahia,warehouse,197.46
+COST000908,2018-01-18,Santa Catarina,warehouse,322.87
+COST000909,2018-04-24,Santa Catarina,logistics,2000.0
+COST000910,2018-04-17,Paraná,logistics,1829.35
+COST000911,2017-07-27,Rio Grande do Sul,warehouse,241.17
+COST000912,2018-07-26,Santa Catarina,warehouse,1305.3
+COST000913,2017-08-14,Bahia,payroll,277.84
+COST000914,2018-06-30,Distrito Federal,payroll,130.35
+COST000915,2018-04-19,Distrito Federal,payroll,69.94
+COST000916,2018-09-18,Rio Grande do Sul,warehouse,255.95
+COST000917,2018-04-16,Minas Gerais,technology,137.48
+COST000918,2018-09-22,São Paulo,payroll,38.9
+COST000919,2018-02-17,São Paulo,customer_support,207.59
+COST000920,2018-06-01,Rio de Janeiro,warehouse,306.17
+COST000921,2017-04-13,Rio Grande do Sul,logistics,61.23
+COST000922,2017-04-25,Minas Gerais,logistics,1487.49
+COST000923,2017-01-02,Bahia,customer_support,1609.4
+COST000924,2017-06-08,Minas Gerais,logistics,364.11
+COST000925,2017-11-17,São Paulo,technology,1241.42
+COST000926,2018-06-20,São Paulo,customer_support,623.78
+COST000927,2018-07-14,Santa Catarina,customer_support,231.74
+COST000928,2017-09-30,Santa Catarina,technology,139.51
+COST000929,2018-03-07,Paraná,customer_support,248.9
+COST000930,2017-07-07,Rio de Janeiro,technology,1724.5
+COST000931,2018-07-31,Rio Grande do Sul,warehouse,396.73
+COST000932,2018-04-30,Paraná,technology,82.44
+COST000933,2018-04-05,Santa Catarina,technology,24.02
+COST000934,2018-03-17,Distrito Federal,technology,221.61
+COST000935,2017-12-04,São Paulo,payroll,334.7
+COST000936,2017-03-11,Rio Grande do Sul,payroll,1026.67
+COST000937,2018-06-16,Rio de Janeiro,logistics,762.12
+COST000938,2018-07-25,Bahia,customer_support,157.35
+COST000939,2018-06-03,Paraná,technology,22.8
+COST000940,2017-12-12,Santa Catarina,technology,226.75
+COST000941,2018-02-18,Distrito Federal,warehouse,244.07
+COST000942,2018-08-15,Santa Catarina,payroll,213.27
+COST000943,2017-09-24,Santa Catarina,customer_support,315.81
+COST000944,2018-05-17,Santa Catarina,warehouse,115.7
+COST000945,2017-10-15,Paraná,customer_support,376.17
+COST000946,2017-12-11,Bahia,payroll,336.74
+COST000947,2017-06-28,São Paulo,technology,91.49
+COST000948,2017-07-21,São Paulo,logistics,129.84
+COST000949,2017-10-31,Rio Grande do Sul,technology,969.36
+COST000950,2017-03-25,Rio Grande do Sul,customer_support,174.76
+COST000951,2017-11-27,Distrito Federal,customer_support,281.59
+COST000952,2018-01-24,Paraná,customer_support,196.46
+COST000953,2018-03-30,Bahia,logistics,1048.48
+COST000954,2017-10-07,São Paulo,logistics,378.67
+COST000955,2017-03-06,Paraná,customer_support,140.24
+COST000956,2017-08-16,Distrito Federal,logistics,1017.97
+COST000957,2017-04-25,São Paulo,customer_support,1034.93
+COST000958,2017-06-28,Minas Gerais,payroll,115.06
+COST000959,2018-02-27,Paraná,customer_support,569.89
+COST000960,2018-07-21,Santa Catarina,logistics,46.42
+COST000961,2017-07-26,Paraná,customer_support,239.21
+COST000962,2018-01-03,Rio de Janeiro,payroll,2000.0
+COST000963,2017-03-22,Distrito Federal,warehouse,64.08
+COST000964,2018-08-21,Santa Catarina,warehouse,268.01
+COST000965,2018-02-15,São Paulo,logistics,1294.72
+COST000966,2017-05-14,Distrito Federal,warehouse,65.42
+COST000967,2017-06-02,Distrito Federal,warehouse,374.18
+COST000968,2018-02-21,Rio de Janeiro,customer_support,584.43
+COST000969,2017-07-21,São Paulo,customer_support,1898.78
+COST000970,2017-11-11,Paraná,customer_support,267.84
+COST000971,2018-01-07,Santa Catarina,payroll,358.47
+COST000972,2017-07-16,Santa Catarina,warehouse,63.41
+COST000973,2018-03-20,Santa Catarina,payroll,346.7
+COST000974,2018-05-11,Paraná,logistics,1820.79
+COST000975,2018-04-07,Bahia,technology,145.16
+COST000976,2017-09-26,Minas Gerais,customer_support,89.72
+COST000977,2017-05-09,Bahia,technology,1377.81
+COST000978,2017-08-14,Paraná,logistics,69.08
+COST000979,2017-09-23,Distrito Federal,customer_support,1746.85
+COST000980,2017-03-19,Minas Gerais,technology,456.55
+COST000981,2017-12-06,Rio de Janeiro,technology,32.43
+COST000982,2018-01-29,Paraná,payroll,143.36
+COST000983,2018-03-15,São Paulo,technology,265.41
+COST000984,2017-02-16,Minas Gerais,customer_support,219.3
+COST000985,2017-04-27,São Paulo,warehouse,72.48
+COST000986,2018-04-13,Santa Catarina,logistics,317.79
+COST000987,2017-11-24,Minas Gerais,logistics,232.52
+COST000988,2017-09-07,Santa Catarina,customer_support,1956.13
+COST000989,2018-08-06,Bahia,customer_support,1282.55
+COST000990,2018-05-25,Distrito Federal,logistics,383.83
+COST000991,2017-01-06,Minas Gerais,warehouse,1832.89
+COST000992,2017-01-29,São Paulo,technology,49.94
+COST000993,2017-11-12,Minas Gerais,logistics,1039.67
+COST000994,2017-10-21,Paraná,payroll,1678.55
+COST000995,2018-07-28,Santa Catarina,payroll,149.47
+COST000996,2018-05-13,Bahia,logistics,397.76
+COST000997,2017-12-23,Rio Grande do Sul,payroll,86.55
+COST000998,2017-02-03,Bahia,technology,211.88
+COST000999,2017-07-28,Minas Gerais,warehouse,577.67
+COST001000,2017-04-19,Santa Catarina,payroll,1980.79
+COST001001,2017-11-19,Minas Gerais,technology,816.19
+COST001002,2018-01-17,Distrito Federal,logistics,30.75
+COST001003,2018-08-06,Paraná,logistics,379.71
+COST001004,2018-09-09,Paraná,logistics,245.48
+COST001005,2018-02-20,Minas Gerais,logistics,744.28
+COST001006,2017-09-17,Bahia,warehouse,113.15
+COST001007,2017-08-31,Rio de Janeiro,warehouse,146.26
+COST001008,2018-06-24,Bahia,technology,2000.0
+COST001009,2018-02-08,Santa Catarina,warehouse,365.09
+COST001010,2017-12-22,Santa Catarina,payroll,1874.47
+COST001011,2018-05-11,Minas Gerais,customer_support,333.65
+COST001012,2017-01-29,Bahia,technology,269.15
+COST001013,2018-08-16,Paraná,payroll,1248.56
+COST001014,2017-09-03,Distrito Federal,logistics,1558.13
+COST001015,2018-07-14,Rio de Janeiro,technology,110.03
+COST001016,2017-08-03,Paraná,customer_support,123.19
+COST001017,2017-05-08,Bahia,warehouse,582.8
+COST001018,2018-09-06,Santa Catarina,technology,1241.65
+COST001019,2017-05-22,Minas Gerais,payroll,235.85
+COST001020,2018-03-25,Minas Gerais,logistics,26.66
+COST001021,2017-11-11,Minas Gerais,payroll,537.67
+COST001022,2017-12-22,Rio de Janeiro,payroll,103.3
+COST001023,2018-09-23,Rio Grande do Sul,logistics,357.86
+COST001024,2017-03-05,Minas Gerais,customer_support,367.2
+COST001025,2017-07-20,Santa Catarina,payroll,178.14
+COST001026,2017-01-25,Santa Catarina,technology,686.87
+COST001027,2017-01-03,Minas Gerais,logistics,32.25
+COST001028,2018-07-13,São Paulo,payroll,348.57
+COST001029,2018-05-30,Rio de Janeiro,payroll,1368.3
+COST001030,2018-06-02,Minas Gerais,payroll,117.82
+COST001031,2018-06-30,Paraná,warehouse,1542.17
+COST001032,2018-07-10,Santa Catarina,logistics,394.79
+COST001033,2017-05-16,Santa Catarina,technology,1402.23
+COST001034,2018-09-08,Bahia,payroll,360.89
+COST001035,2017-07-08,Rio Grande do Sul,customer_support,304.8
+COST001036,2018-06-22,Santa Catarina,payroll,235.82
+COST001037,2017-07-24,Rio Grande do Sul,technology,131.9
+COST001038,2018-08-29,Distrito Federal,warehouse,678.95
+COST001039,2017-01-08,Santa Catarina,payroll,88.07
+COST001040,2017-08-25,Minas Gerais,customer_support,32.55
+COST001041,2018-05-18,Santa Catarina,payroll,382.94
+COST001042,2018-09-13,Rio de Janeiro,warehouse,210.13
+COST001043,2018-09-15,Bahia,technology,340.16
+COST001044,2017-12-21,Minas Gerais,customer_support,135.28
+COST001045,2017-02-25,Rio de Janeiro,warehouse,332.08
+COST001046,2017-04-19,Rio de Janeiro,payroll,666.53
+COST001047,2017-06-29,Santa Catarina,payroll,688.76
+COST001048,2018-02-15,São Paulo,customer_support,362.02
+COST001049,2017-07-31,Bahia,technology,178.44
+COST001050,2017-07-08,Paraná,customer_support,239.93
+COST001051,2017-07-01,Rio Grande do Sul,warehouse,1981.39
+COST001052,2018-04-18,Paraná,customer_support,661.63
+COST001053,2018-06-04,Minas Gerais,logistics,110.48
+COST001054,2018-06-21,Rio de Janeiro,logistics,80.0
+COST001055,2018-09-09,São Paulo,logistics,276.56
+COST001056,2017-07-01,Rio de Janeiro,warehouse,507.63
+COST001057,2017-07-25,Rio Grande do Sul,warehouse,94.13
+COST001058,2017-09-10,Minas Gerais,payroll,1949.56
+COST001059,2017-04-30,Rio de Janeiro,payroll,28.85
+COST001060,2017-10-02,Minas Gerais,customer_support,172.55
+COST001061,2017-04-18,Paraná,logistics,1566.1
+COST001062,2017-12-01,Distrito Federal,technology,395.98
+COST001063,2018-07-18,Rio Grande do Sul,warehouse,24.08
+COST001064,2017-09-11,Rio Grande do Sul,warehouse,1896.83
+COST001065,2018-02-17,São Paulo,payroll,280.41
+COST001066,2017-05-26,Rio Grande do Sul,logistics,361.4
+COST001067,2018-06-24,Bahia,payroll,130.56
+COST001068,2018-07-06,Rio de Janeiro,customer_support,1194.01
+COST001069,2017-01-06,Rio de Janeiro,warehouse,334.09
+COST001070,2017-05-18,Rio Grande do Sul,technology,975.59
+COST001071,2017-02-16,Bahia,warehouse,226.18
+COST001072,2018-04-06,Bahia,customer_support,173.84
+COST001073,2017-08-31,Bahia,logistics,255.25
+COST001074,2017-12-28,Bahia,warehouse,318.59
+COST001075,2017-06-15,Rio Grande do Sul,payroll,699.1
+COST001076,2017-09-04,São Paulo,warehouse,203.27
+COST001077,2018-01-14,São Paulo,customer_support,2000.0
+COST001078,2017-10-09,Paraná,logistics,172.47
+COST001079,2017-10-29,Santa Catarina,logistics,238.47
+COST001080,2018-01-19,Minas Gerais,technology,1437.6
+COST001081,2018-08-01,Minas Gerais,logistics,938.92
+COST001082,2017-03-12,Paraná,payroll,50.11
+COST001083,2017-01-20,Minas Gerais,technology,28.71
+COST001084,2017-09-10,Rio Grande do Sul,technology,315.26
+COST001085,2018-07-19,Santa Catarina,technology,1252.73
+COST001086,2018-07-19,Paraná,payroll,268.98
+COST001087,2017-12-11,Bahia,technology,455.29
+COST001088,2018-06-24,Rio Grande do Sul,logistics,380.59
+COST001089,2017-05-23,Santa Catarina,customer_support,198.62
+COST001090,2017-02-19,Paraná,technology,23.46
+COST001091,2017-12-15,Santa Catarina,customer_support,24.48
+COST001092,2018-01-03,Rio de Janeiro,customer_support,1489.01
+COST001093,2018-01-03,São Paulo,warehouse,366.27
+COST001094,2017-12-18,São Paulo,logistics,1247.19
+COST001095,2018-04-05,Bahia,customer_support,1631.18
+COST001096,2017-04-16,Paraná,customer_support,377.73
+COST001097,2017-11-04,Distrito Federal,logistics,1300.75
+COST001098,2018-06-23,Paraná,warehouse,175.77
+COST001099,2017-05-12,Paraná,payroll,104.12
+COST001100,2017-08-24,Santa Catarina,customer_support,255.37
+COST001101,2017-02-28,Santa Catarina,logistics,317.43
+COST001102,2018-01-17,Minas Gerais,technology,355.69
+COST001103,2018-04-16,Rio de Janeiro,customer_support,779.58
+COST001104,2017-07-04,Distrito Federal,technology,235.99
+COST001105,2017-08-02,Paraná,customer_support,394.58
+COST001106,2017-07-24,São Paulo,warehouse,1470.02
+COST001107,2018-09-19,Rio de Janeiro,logistics,614.37
+COST001108,2017-09-29,Paraná,technology,311.95
+COST001109,2017-01-09,São Paulo,technology,326.28
+COST001110,2017-02-22,Rio de Janeiro,technology,367.83
+COST001111,2018-07-25,Rio de Janeiro,technology,299.91
+COST001112,2017-02-24,Paraná,logistics,517.3
+COST001113,2018-06-24,Distrito Federal,payroll,461.51
+COST001114,2017-07-01,Santa Catarina,customer_support,1250.92
+COST001115,2017-11-14,Minas Gerais,technology,83.71
+COST001116,2017-02-11,Rio Grande do Sul,customer_support,261.77
+COST001117,2017-02-27,Distrito Federal,logistics,334.65
+COST001118,2017-03-26,São Paulo,customer_support,1288.23
+COST001119,2017-05-25,São Paulo,payroll,1919.09
+COST001120,2017-04-01,Distrito Federal,logistics,238.56
+COST001121,2017-03-04,Rio de Janeiro,logistics,167.34
+COST001122,2018-03-25,Paraná,customer_support,370.84
+COST001123,2017-08-09,Minas Gerais,payroll,358.73
+COST001124,2017-03-19,Bahia,technology,388.35
+COST001125,2017-10-22,Minas Gerais,logistics,611.05
+COST001126,2018-02-01,São Paulo,warehouse,269.69
+COST001127,2018-06-27,Rio de Janeiro,warehouse,99.1
+COST001128,2017-12-09,São Paulo,customer_support,126.55
+COST001129,2017-11-29,Minas Gerais,logistics,359.06
+COST001130,2018-06-11,Bahia,warehouse,192.16
+COST001131,2017-08-25,Paraná,logistics,354.31
+COST001132,2017-05-17,Paraná,technology,99.6
+COST001133,2018-02-20,Distrito Federal,technology,1662.23
+COST001134,2018-06-21,Santa Catarina,technology,430.97
+COST001135,2018-09-24,Distrito Federal,payroll,253.3
+COST001136,2018-03-26,Bahia,warehouse,2000.0
+COST001137,2017-11-03,Minas Gerais,logistics,204.08
+COST001138,2017-04-26,Minas Gerais,payroll,868.74
+COST001139,2017-08-25,Paraná,technology,121.24
+COST001140,2018-09-13,São Paulo,customer_support,421.06
+COST001141,2017-11-30,Rio de Janeiro,payroll,351.69
+COST001142,2018-02-19,Minas Gerais,warehouse,527.38
+COST001143,2018-06-23,Paraná,warehouse,1285.72
+COST001144,2017-04-14,Bahia,logistics,338.16
+COST001145,2018-04-24,Santa Catarina,logistics,1191.25
+COST001146,2017-03-22,Rio de Janeiro,payroll,702.88
+COST001147,2017-01-03,Santa Catarina,logistics,104.15
+COST001148,2017-06-30,São Paulo,customer_support,228.96
+COST001149,2017-08-31,Minas Gerais,payroll,375.6
+COST001150,2018-05-24,Distrito Federal,customer_support,300.13
+COST001151,2018-07-02,São Paulo,payroll,479.24
+COST001152,2017-07-25,Paraná,customer_support,126.91
+COST001153,2018-05-15,Minas Gerais,payroll,95.87
+COST001154,2017-07-11,Bahia,customer_support,125.54
+COST001155,2017-05-12,Rio de Janeiro,technology,996.29
+COST001156,2018-06-08,Bahia,logistics,2000.0
+COST001157,2018-06-19,Santa Catarina,warehouse,74.49
+COST001158,2017-04-30,Rio Grande do Sul,customer_support,295.66
+COST001159,2017-09-05,Rio Grande do Sul,payroll,902.27
+COST001160,2017-01-06,Bahia,technology,396.45
+COST001161,2017-05-06,Minas Gerais,logistics,203.29
+COST001162,2017-07-20,Paraná,payroll,27.53
+COST001163,2017-01-27,Rio de Janeiro,warehouse,240.01
+COST001164,2018-02-28,Paraná,technology,393.66
+COST001165,2017-07-10,Distrito Federal,technology,217.35
+COST001166,2017-03-15,São Paulo,customer_support,132.92
+COST001167,2018-05-09,Distrito Federal,logistics,115.42
+COST001168,2018-04-08,Bahia,warehouse,102.2
+COST001169,2017-05-14,Bahia,technology,198.56
+COST001170,2017-07-25,Paraná,customer_support,1708.74
+COST001171,2017-07-12,São Paulo,customer_support,73.23
+COST001172,2017-10-25,Santa Catarina,warehouse,148.5
+COST001173,2017-03-24,Rio de Janeiro,warehouse,870.81
+COST001174,2017-07-30,Rio Grande do Sul,warehouse,1830.18
+COST001175,2017-09-17,Santa Catarina,technology,1355.39
+COST001176,2018-03-21,Minas Gerais,technology,195.87
+COST001177,2018-08-20,Minas Gerais,customer_support,1038.45
+COST001178,2017-10-03,Paraná,technology,249.92
+COST001179,2017-06-27,Paraná,technology,1198.96
+COST001180,2018-03-10,Bahia,customer_support,233.45
+COST001181,2017-08-30,Bahia,payroll,144.56
+COST001182,2017-07-31,Minas Gerais,logistics,160.85
+COST001183,2018-08-17,Minas Gerais,technology,322.24
+COST001184,2017-05-19,São Paulo,warehouse,124.49
+COST001185,2018-06-24,Rio Grande do Sul,payroll,392.13
+COST001186,2017-08-04,Distrito Federal,customer_support,322.4
+COST001187,2018-07-10,Minas Gerais,technology,394.95
+COST001188,2017-04-04,São Paulo,warehouse,136.5
+COST001189,2017-11-13,Distrito Federal,customer_support,1120.74
+COST001190,2018-04-16,Rio Grande do Sul,technology,347.6
+COST001191,2017-11-14,São Paulo,customer_support,1281.73
+COST001192,2018-08-26,São Paulo,customer_support,617.26
+COST001193,2018-05-31,Rio Grande do Sul,logistics,185.68
+COST001194,2018-03-06,Distrito Federal,technology,528.5
+COST001195,2018-04-19,Rio Grande do Sul,technology,373.35
+COST001196,2017-03-07,Distrito Federal,customer_support,242.36
+COST001197,2018-01-04,Bahia,customer_support,183.32
+COST001198,2017-02-01,Paraná,warehouse,84.84
+COST001199,2017-06-11,Rio de Janeiro,technology,206.09
+COST001200,2017-04-23,Distrito Federal,technology,305.52
+COST001201,2017-04-28,Rio Grande do Sul,warehouse,218.19
+COST001202,2017-12-31,Bahia,warehouse,381.21
+COST001203,2018-07-28,Rio de Janeiro,technology,146.29
+COST001204,2017-04-15,Minas Gerais,customer_support,275.74
+COST001205,2017-05-05,Paraná,customer_support,227.05
+COST001206,2017-06-16,Paraná,logistics,1991.41
+COST001207,2017-12-29,Distrito Federal,logistics,187.05
+COST001208,2017-05-12,Paraná,customer_support,223.52
+COST001209,2018-03-06,Bahia,technology,399.04
+COST001210,2017-09-17,Rio Grande do Sul,warehouse,75.27
+COST001211,2018-07-06,Distrito Federal,logistics,747.69
+COST001212,2017-07-12,Paraná,warehouse,247.76
+COST001213,2017-06-10,São Paulo,payroll,800.62
+COST001214,2018-04-12,Bahia,warehouse,265.19
+COST001215,2018-05-11,Minas Gerais,payroll,61.56
+COST001216,2017-08-04,Rio de Janeiro,customer_support,204.14
+COST001217,2017-05-01,Rio de Janeiro,customer_support,1135.2
+COST001218,2017-05-15,Rio Grande do Sul,customer_support,608.08
+COST001219,2017-09-02,Minas Gerais,payroll,169.53
+COST001220,2018-03-18,Distrito Federal,logistics,271.98
+COST001221,2018-03-16,Paraná,warehouse,1225.71
+COST001222,2017-06-25,Distrito Federal,payroll,182.3
+COST001223,2018-03-05,Rio Grande do Sul,logistics,189.29
+COST001224,2018-06-24,Distrito Federal,warehouse,20.76
+COST001225,2017-06-15,Distrito Federal,technology,272.81
+COST001226,2017-08-13,Santa Catarina,logistics,912.1
+COST001227,2017-03-10,Santa Catarina,customer_support,1943.35
+COST001228,2017-09-01,Distrito Federal,warehouse,2000.0
+COST001229,2018-06-20,Paraná,warehouse,35.23
+COST001230,2018-08-29,Rio de Janeiro,logistics,220.4
+COST001231,2018-02-24,Paraná,warehouse,227.54
+COST001232,2018-06-12,Distrito Federal,technology,365.65
+COST001233,2017-03-26,Santa Catarina,technology,328.51
+COST001234,2017-07-11,Santa Catarina,warehouse,420.31
+COST001235,2018-03-27,Distrito Federal,payroll,263.89
+COST001236,2017-11-02,Bahia,payroll,111.61
+COST001237,2017-07-18,Paraná,payroll,866.56
+COST001238,2017-04-16,Paraná,logistics,152.89
+COST001239,2018-04-25,Bahia,customer_support,385.23
+COST001240,2018-08-19,Rio Grande do Sul,customer_support,328.35
+COST001241,2017-12-25,Minas Gerais,customer_support,164.58
+COST001242,2017-05-07,Santa Catarina,logistics,121.59
+COST001243,2018-08-12,Distrito Federal,payroll,295.28
+COST001244,2017-01-13,Distrito Federal,warehouse,278.82
+COST001245,2017-01-28,Minas Gerais,customer_support,118.53
+COST001246,2017-05-30,Bahia,customer_support,1660.24
+COST001247,2018-08-28,Distrito Federal,technology,658.51
+COST001248,2018-05-29,Paraná,customer_support,302.13
+COST001249,2017-02-19,Minas Gerais,logistics,186.49
+COST001250,2018-04-30,Minas Gerais,payroll,209.54
+COST001251,2017-08-30,Rio Grande do Sul,technology,647.58
+COST001252,2018-08-01,Rio de Janeiro,technology,164.35
+COST001253,2017-03-18,Distrito Federal,customer_support,33.3
+COST001254,2017-09-23,São Paulo,customer_support,226.82
+COST001255,2017-10-24,Bahia,warehouse,190.64
+COST001256,2017-07-29,São Paulo,payroll,36.45
+COST001257,2017-07-31,Rio Grande do Sul,logistics,311.87
+COST001258,2018-03-18,Rio de Janeiro,customer_support,1672.24
+COST001259,2017-06-14,São Paulo,technology,624.91
+COST001260,2017-05-09,Paraná,technology,333.28
+COST001261,2018-02-24,Paraná,warehouse,184.34
+COST001262,2017-04-19,Minas Gerais,payroll,1235.67
+COST001263,2017-11-13,Minas Gerais,customer_support,113.99
+COST001264,2017-05-11,Bahia,technology,637.2
+COST001265,2017-03-14,Minas Gerais,technology,181.77
+COST001266,2017-08-21,Distrito Federal,technology,90.28
+COST001267,2018-06-30,Distrito Federal,technology,1856.51
+COST001268,2017-10-01,Rio Grande do Sul,warehouse,2000.0
+COST001269,2018-05-14,Minas Gerais,logistics,20.24
+COST001270,2017-01-30,Distrito Federal,warehouse,2000.0
+COST001271,2017-10-02,Rio Grande do Sul,payroll,1954.69
+COST001272,2017-10-03,São Paulo,technology,1901.68
+COST001273,2017-07-11,Rio de Janeiro,warehouse,1174.1
+COST001274,2017-03-30,Rio de Janeiro,technology,273.53
+COST001275,2017-04-06,Santa Catarina,technology,192.99
+COST001276,2017-06-02,Minas Gerais,customer_support,244.35
+COST001277,2017-02-01,Santa Catarina,logistics,356.49
+COST001278,2017-07-30,Bahia,logistics,485.03
+COST001279,2017-06-13,Minas Gerais,technology,1094.37
+COST001280,2018-03-06,Santa Catarina,technology,368.5
+COST001281,2017-05-31,Minas Gerais,warehouse,1305.59
+COST001282,2017-01-11,Distrito Federal,warehouse,250.2
+COST001283,2017-08-02,Bahia,warehouse,105.14
+COST001284,2017-02-11,Rio de Janeiro,technology,274.55
+COST001285,2017-10-21,Distrito Federal,technology,779.19
+COST001286,2017-03-28,Rio de Janeiro,customer_support,1705.1
+COST001287,2018-08-02,Distrito Federal,warehouse,162.21
+COST001288,2018-07-10,Bahia,payroll,1628.35
+COST001289,2017-03-21,Paraná,technology,20.36
+COST001290,2017-07-24,São Paulo,technology,37.57
+COST001291,2018-08-17,São Paulo,customer_support,1825.71
+COST001292,2017-05-13,Rio Grande do Sul,customer_support,306.04
+COST001293,2018-01-23,Minas Gerais,technology,1568.58
+COST001294,2018-07-08,Bahia,logistics,248.35
+COST001295,2017-02-12,Paraná,warehouse,1211.35
+COST001296,2017-04-26,Bahia,payroll,373.76
+COST001297,2018-07-16,Distrito Federal,logistics,221.69
+COST001298,2017-11-13,Santa Catarina,technology,2000.0
+COST001299,2017-10-12,Santa Catarina,warehouse,211.21
+COST001300,2017-08-23,Paraná,logistics,238.63
+COST001301,2017-12-24,Paraná,customer_support,1313.93
+COST001302,2017-04-11,Rio de Janeiro,customer_support,925.13
+COST001303,2018-02-18,Rio de Janeiro,technology,21.06
+COST001304,2018-05-01,Paraná,customer_support,136.53
+COST001305,2017-05-24,Santa Catarina,customer_support,2000.0
+COST001306,2017-12-03,Rio de Janeiro,logistics,192.1
+COST001307,2018-04-17,Bahia,customer_support,219.39
+COST001308,2017-05-08,São Paulo,warehouse,276.71
+COST001309,2018-02-01,Rio de Janeiro,logistics,259.22
+COST001310,2017-11-18,Distrito Federal,payroll,119.55
+COST001311,2018-08-23,Rio Grande do Sul,warehouse,291.77
+COST001312,2017-10-08,Distrito Federal,payroll,650.06
+COST001313,2017-10-22,Paraná,payroll,152.15
+COST001314,2018-08-11,São Paulo,payroll,270.41
+COST001315,2018-02-18,Distrito Federal,warehouse,286.68
+COST001316,2017-05-16,Rio de Janeiro,logistics,339.92
+COST001317,2017-08-04,Minas Gerais,warehouse,353.78
+COST001318,2018-03-08,Rio Grande do Sul,customer_support,767.15
+COST001319,2017-08-14,Rio Grande do Sul,technology,59.11
+COST001320,2018-03-11,São Paulo,warehouse,53.01
+COST001321,2017-07-01,Rio de Janeiro,warehouse,47.33
+COST001322,2018-05-21,Santa Catarina,payroll,2000.0
+COST001323,2018-07-03,Santa Catarina,warehouse,1111.71
+COST001324,2017-09-05,Paraná,customer_support,2000.0
+COST001325,2017-09-26,São Paulo,logistics,85.38
+COST001326,2017-06-26,Rio Grande do Sul,customer_support,1126.96
+COST001327,2018-08-15,Bahia,warehouse,327.08
+COST001328,2018-08-23,Minas Gerais,technology,2000.0
+COST001329,2018-08-02,Minas Gerais,technology,26.88
+COST001330,2017-09-24,Rio de Janeiro,logistics,389.17
+COST001331,2017-07-02,Distrito Federal,warehouse,1562.47
+COST001332,2017-03-14,Bahia,customer_support,362.43
+COST001333,2017-11-20,Santa Catarina,logistics,744.09
+COST001334,2017-11-24,Paraná,logistics,1988.67
+COST001335,2017-01-19,Paraná,warehouse,672.34
+COST001336,2017-02-24,Rio de Janeiro,warehouse,1093.67
+COST001337,2018-03-12,Rio de Janeiro,payroll,1633.08
+COST001338,2017-04-07,Rio Grande do Sul,warehouse,169.47
+COST001339,2017-07-18,Rio de Janeiro,customer_support,711.61
+COST001340,2017-08-10,Santa Catarina,warehouse,1549.06
+COST001341,2017-12-18,Santa Catarina,logistics,703.72
+COST001342,2017-06-14,Distrito Federal,warehouse,247.1
+COST001343,2018-01-21,São Paulo,payroll,154.79
+COST001344,2017-08-01,São Paulo,payroll,92.18
+COST001345,2017-10-31,São Paulo,customer_support,1088.75
+COST001346,2017-02-21,Minas Gerais,customer_support,602.19
+COST001347,2017-11-05,Rio de Janeiro,warehouse,32.89
+COST001348,2017-04-13,Rio de Janeiro,logistics,86.02
+COST001349,2017-11-11,Paraná,technology,320.81
+COST001350,2017-11-04,Rio de Janeiro,customer_support,372.81
+COST001351,2017-10-30,Minas Gerais,logistics,285.41
+COST001352,2017-04-10,São Paulo,warehouse,259.61
+COST001353,2017-01-22,São Paulo,warehouse,208.4
+COST001354,2017-06-01,Bahia,technology,90.25
+COST001355,2017-11-24,Rio de Janeiro,customer_support,2000.0
+COST001356,2018-02-05,Rio de Janeiro,logistics,138.24
+COST001357,2018-04-22,Santa Catarina,warehouse,274.4
+COST001358,2018-09-10,Minas Gerais,logistics,529.83
+COST001359,2018-08-24,Paraná,customer_support,606.97
+COST001360,2018-02-13,Santa Catarina,warehouse,1050.18
+COST001361,2017-06-26,Rio Grande do Sul,logistics,639.85
+COST001362,2018-09-29,Minas Gerais,customer_support,105.25
+COST001363,2017-02-20,Rio Grande do Sul,payroll,1324.29
+COST001364,2018-09-18,Santa Catarina,warehouse,373.74
+COST001365,2018-03-03,Bahia,payroll,1314.15
+COST001366,2018-01-07,São Paulo,customer_support,110.56
+COST001367,2017-10-23,Bahia,customer_support,1705.81
+COST001368,2017-11-26,Distrito Federal,logistics,335.26
+COST001369,2018-08-16,Bahia,customer_support,299.7
+COST001370,2017-11-27,São Paulo,technology,655.34
+COST001371,2018-08-19,São Paulo,customer_support,285.62
+COST001372,2018-06-16,São Paulo,technology,144.56
+COST001373,2018-05-24,Santa Catarina,warehouse,49.4
+COST001374,2017-03-21,Paraná,customer_support,71.67
+COST001375,2017-10-08,Bahia,technology,147.55
+COST001376,2018-05-02,São Paulo,payroll,1176.01
+COST001377,2017-03-15,São Paulo,warehouse,269.8
+COST001378,2017-11-09,Bahia,technology,1616.9
+COST001379,2018-02-01,Rio Grande do Sul,payroll,352.97
+COST001380,2018-08-07,Paraná,warehouse,182.8
+COST001381,2018-01-21,Rio Grande do Sul,logistics,43.34
+COST001382,2017-03-06,Bahia,logistics,166.52
+COST001383,2017-07-29,Rio de Janeiro,logistics,26.64
+COST001384,2017-03-02,São Paulo,customer_support,535.1
+COST001385,2017-03-31,Paraná,logistics,1065.96
+COST001386,2017-06-29,Rio Grande do Sul,technology,2000.0
+COST001387,2017-10-27,Distrito Federal,technology,341.72
+COST001388,2018-05-22,Rio de Janeiro,warehouse,21.39
+COST001389,2017-04-14,Rio de Janeiro,payroll,51.78
+COST001390,2018-02-14,Rio Grande do Sul,payroll,1888.33
+COST001391,2017-09-11,Minas Gerais,customer_support,169.92
+COST001392,2018-08-16,Rio de Janeiro,logistics,960.37
+COST001393,2017-12-27,Minas Gerais,technology,897.21
+COST001394,2017-08-13,Distrito Federal,warehouse,1564.07
+COST001395,2018-03-17,Santa Catarina,technology,1981.77
+COST001396,2018-03-12,Bahia,warehouse,232.1
+COST001397,2017-11-08,Rio de Janeiro,technology,332.09
+COST001398,2018-02-08,São Paulo,customer_support,1869.21
+COST001399,2017-08-20,Santa Catarina,warehouse,59.38
+COST001400,2017-07-17,São Paulo,warehouse,168.64
+COST001401,2017-06-18,Minas Gerais,customer_support,330.46
+COST001402,2017-12-16,São Paulo,technology,66.99
+COST001403,2018-09-09,Minas Gerais,customer_support,132.61
+COST001404,2018-01-01,Rio de Janeiro,logistics,396.24
+COST001405,2018-07-03,Santa Catarina,warehouse,122.05
+COST001406,2017-07-14,Bahia,technology,46.56
+COST001407,2018-09-05,Rio Grande do Sul,payroll,255.53
+COST001408,2018-06-02,São Paulo,payroll,1691.47
+COST001409,2018-04-01,Distrito Federal,logistics,316.73
+COST001410,2017-07-24,Santa Catarina,technology,737.38
+COST001411,2017-11-25,Minas Gerais,customer_support,271.96
+COST001412,2018-03-12,Paraná,technology,114.67
+COST001413,2018-01-26,Paraná,warehouse,1064.16
+COST001414,2017-03-31,Rio de Janeiro,payroll,301.65
+COST001415,2018-04-17,Paraná,customer_support,1274.97
+COST001416,2017-05-11,Distrito Federal,customer_support,1474.01
+COST001417,2017-04-19,Bahia,customer_support,1248.85
+COST001418,2017-08-11,Minas Gerais,payroll,389.78
+COST001419,2017-06-07,Bahia,warehouse,261.78
+COST001420,2017-08-29,Paraná,customer_support,22.09
+COST001421,2018-05-04,Santa Catarina,warehouse,1620.83
+COST001422,2018-01-31,Rio de Janeiro,customer_support,767.05
+COST001423,2018-03-23,Bahia,logistics,798.84
+COST001424,2017-10-30,Santa Catarina,logistics,122.28
+COST001425,2018-09-07,Rio Grande do Sul,warehouse,154.38
+COST001426,2017-01-01,Paraná,customer_support,74.17
+COST001427,2018-05-03,Rio Grande do Sul,warehouse,175.07
+COST001428,2017-06-12,Paraná,technology,304.06
+COST001429,2018-02-10,Paraná,logistics,40.7
+COST001430,2017-07-04,Distrito Federal,customer_support,312.07
+COST001431,2017-08-24,Minas Gerais,technology,125.13
+COST001432,2017-03-06,Bahia,technology,76.68
+COST001433,2018-05-13,Rio de Janeiro,warehouse,266.48
+COST001434,2017-03-14,Rio Grande do Sul,payroll,332.17
+COST001435,2018-01-31,Bahia,logistics,98.29
+COST001436,2017-03-01,Minas Gerais,customer_support,643.67
+COST001437,2017-12-08,Rio de Janeiro,customer_support,286.77
+COST001438,2017-12-23,São Paulo,customer_support,74.9
+COST001439,2018-09-03,Rio Grande do Sul,warehouse,269.12
+COST001440,2017-07-10,Distrito Federal,logistics,127.85
+COST001441,2017-12-14,Santa Catarina,logistics,289.02
+COST001442,2018-09-07,Santa Catarina,logistics,110.28
+COST001443,2017-01-01,Bahia,warehouse,194.54
+COST001444,2018-04-21,São Paulo,warehouse,2000.0
+COST001445,2017-08-10,Minas Gerais,logistics,2000.0
+COST001446,2018-05-08,Rio Grande do Sul,warehouse,149.17
+COST001447,2018-04-03,Minas Gerais,payroll,1202.49
+COST001448,2018-09-12,Santa Catarina,payroll,331.45
+COST001449,2018-09-27,Minas Gerais,technology,1045.92
+COST001450,2017-11-19,Bahia,logistics,1106.01

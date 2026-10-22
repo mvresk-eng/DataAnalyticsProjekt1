@@ -286,21 +286,10 @@ CREATE OR ALTER PROCEDURE gold.učitaj_podatke_interno AS
 			INNER JOIN gold.dim_campaign dc ON dc.campaign_id=mp.campaign_id
 			PRINT '-- Podaci su uneseni u tablicu gold.fact_marketing_performance --';
 
-			INSERT INTO gold.fact_operating_cost(cost_id, date_key, cost_date, operating_cost_state, cost_type, cost_amount)
+			INSERT INTO gold.fact_operating_cost(cost_id, date_key, cost_date, cost_type, cost_amount)
 			SELECT foc.cost_id,
 				dd.date_key,
 				foc.cost_date,
-				CASE
-					WHEN operating_cost_state = 'BA' THEN 'Bahia'
-					WHEN operating_cost_state = 'DF' THEN 'Distrito Federal'
-					WHEN operating_cost_state = 'MG' THEN 'Minas Gerais'
-					WHEN operating_cost_state = 'PR' THEN 'Paraná'
-					WHEN operating_cost_state = 'RJ' THEN 'Rio de Janeiro'
-					WHEN operating_cost_state = 'RS' THEN 'Rio Grande do Sul'
-					WHEN operating_cost_state = 'SC' THEN 'Santa Catarina'
-					WHEN operating_cost_state = 'SP' THEN 'São Paulo'
-					ELSE NULL
-				END AS operating_cost_state,
 				foc.cost_type,
 				foc.cost_amount
 			FROM silver.finance_operating_costs foc

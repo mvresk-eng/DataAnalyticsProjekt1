@@ -313,7 +313,6 @@ CREATE OR ALTER PROCEDURE silver.učitaj_podatke AS
 			(
 				cost_id,
 				cost_date,
-				operating_cost_state,
 				cost_type,
 				cost_amount
 			)

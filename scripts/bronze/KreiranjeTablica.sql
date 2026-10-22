@@ -265,7 +265,6 @@ CREATE OR ALTER PROCEDURE bronze.kreiranje_tablica AS
 			CREATE TABLE bronze.finance_operating_costs (
 				cost_id VARCHAR(20),
 				cost_date DATETIME,
-				operating_cost_state VARCHAR(50),
 				cost_type VARCHAR(50),
 				cost_amount FLOAT
 			);
