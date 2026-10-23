@@ -306,14 +306,13 @@ CREATE OR ALTER PROCEDURE gold.učitaj_podatke_interno AS
 			INNER JOIN gold.dim_product_category dpc ON dpc.product_category_name=fsb.product_category_name;
 			PRINT '-- Podaci su uneseni u tablicu gold.fact_sales_budget --';
 
-			INSERT INTO gold.fact_inventory_snapshot (date_key, product_key, warehouse_key, stock_quantity, reserved_quantity, reorder_point, available_quantity)
+			INSERT INTO gold.fact_inventory_snapshot (date_key, product_key, warehouse_key, stock_quantity, reorder_point, order_quantity)
 			SELECT dd.date_key,
 				   dp.product_key,
 				   dw.warehouse_key,
 				   oi.stock_quantity,
-				   oi.reserved_quantity,
 				   oi.reorder_point,
-				   oi.stock_quantity-oi.reserved_quantity as available_quantity
+				   oi.order_quantity
 			FROM silver.operations_inventory oi
 			INNER JOIN gold.dim_date dd ON dd.date_key=REPLACE(oi.snapshot_date,'-','')
 			INNER JOIN gold.dim_product dp ON dp.product_id=oi.product_id
@@ -390,4 +389,4 @@ END;
 GO
 
 EXEC gold.učitaj_podatke;
-GO
+

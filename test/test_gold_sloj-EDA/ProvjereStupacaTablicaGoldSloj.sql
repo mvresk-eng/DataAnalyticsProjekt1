@@ -412,13 +412,10 @@ EXEC gold.provjera_null_vrijednosti @naziv_tablice='gold.fact_operating_cost', @
 -- 15.4. stupac cost_date
 EXEC gold.provjera_null_vrijednosti @naziv_tablice='gold.fact_operating_cost', @ključ='operating_cost_key', @naziv_stupca='cost_date';
 EXEC gold.provjera_valjanosti_datuma @naziv_tablice='gold.fact_operating_cost', @ključ='operating_cost_key', @naziv_stupca='cost_date';
--- 15.5. stupac operating_cost_state
-EXEC gold.provjera_null_vrijednosti @naziv_tablice='gold.fact_operating_cost', @ključ='operating_cost_key', @naziv_stupca='operating_cost_state';
-EXEC gold.provjera_distinktnih_naziva @naziv_tablice='gold.fact_operating_cost', @naziv_stupca='operating_cost_state';
--- 15.6. stupac cost_type
+-- 15.5. stupac cost_type
 EXEC gold.provjera_null_vrijednosti @naziv_tablice='gold.fact_operating_cost', @ključ='operating_cost_key', @naziv_stupca='cost_type';
 EXEC gold.provjera_distinktnih_naziva @naziv_tablice='gold.fact_operating_cost', @naziv_stupca='cost_type';
--- 15.7. stupac cost_amount
+-- 15.6. stupac cost_amount
 EXEC gold.provjera_null_vrijednosti @naziv_tablice='gold.fact_operating_cost', @ključ='operating_cost_key', @naziv_stupca='cost_amount';
 EXEC gold.provjera_negativnosti_vrijednosti @naziv_tablice='gold.fact_operating_cost', @ključ='operating_cost_key', @naziv_stupca='cost_amount';
 
@@ -430,12 +427,9 @@ EXEC gold.provjera_duplikata @naziv_tablice='gold.fact_sales_budget', @naziv_stu
 EXEC gold.provjera_null_vrijednosti @naziv_tablice='gold.fact_sales_budget', @naziv_stupca='sales_budget_key';
 -- 16.2. stupac date_key
 EXEC gold.provjera_null_vrijednosti @naziv_tablice='gold.fact_sales_budget', @ključ='sales_budget_key', @naziv_stupca='date_key';
--- 16.3. stupac state_sales_budget
-EXEC gold.provjera_null_vrijednosti @naziv_tablice='gold.fact_sales_budget', @ključ='sales_budget_key', @naziv_stupca='state_sales_budget';
-EXEC gold.provjera_distinktnih_naziva @naziv_tablice='gold.fact_sales_budget', @naziv_stupca='state_sales_budget';
--- 16.4. stupac product_category_key
+-- 16.3. stupac product_category_key
 EXEC gold.provjera_null_vrijednosti @naziv_tablice='gold.fact_sales_budget', @ključ='sales_budget_key', @naziv_stupca='product_category_key';
--- 16.5. stupac budget_amount
+-- 16.4. stupac budget_amount
 EXEC gold.provjera_null_vrijednosti @naziv_tablice='gold.fact_sales_budget', @ključ='sales_budget_key', @naziv_stupca='budget_amount';
 EXEC gold.provjera_negativnosti_vrijednosti @naziv_tablice='gold.fact_sales_budget', @ključ='sales_budget_key', @naziv_stupca='budget_amount';
 
@@ -454,15 +448,12 @@ EXEC gold.provjera_null_vrijednosti @naziv_tablice='gold.fact_inventory_snapshot
 -- 17.5. stupac stock_quantity
 EXEC gold.provjera_null_vrijednosti @naziv_tablice='gold.fact_inventory_snapshot', @ključ='inventory_snapshot_key', @naziv_stupca='stock_quantity';
 EXEC gold.provjera_negativnosti_vrijednosti @naziv_tablice='gold.fact_inventory_snapshot', @ključ='inventory_snapshot_key', @naziv_stupca='stock_quantity';
--- 17.6. stupac reserved_quantity
-EXEC gold.provjera_null_vrijednosti @naziv_tablice='gold.fact_inventory_snapshot', @ključ='inventory_snapshot_key', @naziv_stupca='reserved_quantity';
-EXEC gold.provjera_negativnosti_vrijednosti @naziv_tablice='gold.fact_inventory_snapshot', @ključ='inventory_snapshot_key', @naziv_stupca='reserved_quantity';
--- 17.7. stupac reorder_point
+-- 17.6. stupac reorder_point
 EXEC gold.provjera_null_vrijednosti @naziv_tablice='gold.fact_inventory_snapshot', @ključ='inventory_snapshot_key', @naziv_stupca='reorder_point';
 EXEC gold.provjera_negativnosti_vrijednosti @naziv_tablice='gold.fact_inventory_snapshot', @ključ='inventory_snapshot_key', @naziv_stupca='reorder_point';
--- 17.8. stupac available_quantity
-EXEC gold.provjera_null_vrijednosti @naziv_tablice='gold.fact_inventory_snapshot', @ključ='inventory_snapshot_key', @naziv_stupca='available_quantity';
-EXEC gold.provjera_negativnosti_vrijednosti @naziv_tablice='gold.fact_inventory_snapshot', @ključ='inventory_snapshot_key', @naziv_stupca='available_quantity';
+-- 17.7. stupac order_quantity
+EXEC gold.provjera_null_vrijednosti @naziv_tablice='gold.fact_inventory_snapshot', @ključ='inventory_snapshot_key', @naziv_stupca='order_quantity';
+EXEC gold.provjera_negativnosti_vrijednosti @naziv_tablice='gold.fact_inventory_snapshot', @ključ='inventory_snapshot_key', @naziv_stupca='order_quantity';
 
 -- ================================================================
 -- Provjere za tablicu 18.gold.fact_product_supplier
@@ -561,9 +552,6 @@ SELECT order_id, order_item, order_purchase_timestamp, order_delivered_customer_
 
 -- Količina klikova, leadova i konverzija ne bi trebala premašiti prethodnu fazu.
 SELECT marketing_performance_key, impressions, clicks, leads, conversions FROM gold.fact_marketing_performance WHERE clicks > impressions OR conversions > leads;
-
--- Zaliha: rezervirana količina ne smije biti veća od stanja, a raspoloživa = stanje - rezervirano.
-SELECT inventory_snapshot_key, stock_quantity, reserved_quantity, available_quantity FROM gold.fact_inventory_snapshot WHERE reserved_quantity > stock_quantity OR available_quantity <> stock_quantity - reserved_quantity;
 
 -- Količina povrata ne smije biti veća od prodane količine za isti order_id i order_item.
 SELECT r.return_id, r.order_id, r.order_item, r.return_quantity, s.quantity FROM gold.fact_return r JOIN gold.fact_sales s ON s.order_id = r.order_id AND s.order_item = r.order_item WHERE r.return_quantity > s.quantity;
