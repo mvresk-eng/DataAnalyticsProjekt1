@@ -353,8 +353,8 @@ CREATE OR ALTER PROCEDURE silver.učitaj_podatke AS
 				product_id,
 				warehouse_id,
 				stock_quantity,
-				reserved_quantity,
-				reorder_point
+				reorder_point,
+				order_quantity
 			)
 			SELECT * FROM bronze.operations_inventory;
 

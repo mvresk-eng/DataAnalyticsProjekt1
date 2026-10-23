@@ -341,8 +341,8 @@ CREATE OR ALTER PROCEDURE silver.kreiranje_tablica AS
 				product_id       VARCHAR(50),
 				warehouse_id     VARCHAR(50),
 				stock_quantity   INT,
-				reserved_quantity INT,
 				reorder_point    INT,
+				order_quantity	 INT,
 				dwh_create_date  DATETIME2 DEFAULT GETDATE()
 			);
 

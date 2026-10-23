@@ -361,11 +361,9 @@ exec silver.provjera_razmaka_u_nazivima @naziv_tablice='silver.finance_operating
 --14.2 cost_date
 exec silver.provjera_null_vrijednosti @naziv_tablice='silver.finance_operating_costs', @ključ='cost_id', @naziv_stupca='cost_date';
 exec silver.provjera_valjanosti_datuma @naziv_tablice='silver.finance_operating_costs', @ključ='cost_id', @naziv_stupca='cost_date';
---14.3 operating_cost_state
-exec silver.provjera_null_vrijednosti @naziv_tablice='silver.finance_operating_costs', @ključ='cost_id', @naziv_stupca='operating_cost_state';
---14.4 cost_type
+--14.3 cost_type
 exec silver.provjera_distinktnih_naziva @naziv_tablice='silver.finance_operating_costs', @naziv_stupca='cost_type';
---14.5 cost_amount
+--14.4 cost_amount
 exec silver.provjera_null_vrijednosti @naziv_tablice='silver.finance_operating_costs', @ključ='cost_id', @naziv_stupca='cost_amount';
 exec silver.provjera_negativnosti_vrijednosti @naziv_tablice='silver.finance_operating_costs',@ključ='cost_id', @naziv_stupca='cost_amount';
 
@@ -384,12 +382,12 @@ exec silver.provjera_referencijalnog_integriteta @naziv_tablice_FK='silver.opera
 --15.4 stock_quantity
 exec silver.provjera_null_vrijednosti @naziv_tablice='silver.operations_inventory', @ključ='CAST(snapshot_date AS VARCHAR(50))+ '' ''+ product_id+'' ''+warehouse_id', @naziv_stupca='stock_quantity';
 exec silver.provjera_negativnosti_vrijednosti @naziv_tablice='silver.operations_inventory', @ključ='CAST(snapshot_date AS VARCHAR(50))+ '' ''+ product_id+'' ''+warehouse_id', @naziv_stupca='stock_quantity';
---15.5 reserved_quantity
-exec silver.provjera_null_vrijednosti @naziv_tablice='silver.operations_inventory', @ključ='CAST(snapshot_date AS VARCHAR(50))+ '' ''+ product_id+'' ''+warehouse_id', @naziv_stupca='reserved_quantity';
-exec silver.provjera_negativnosti_vrijednosti @naziv_tablice='silver.operations_inventory', @ključ='CAST(snapshot_date AS VARCHAR(50))+ '' ''+ product_id+'' ''+warehouse_id', @naziv_stupca='reserved_quantity';
---15.6 reorder_point
+--15.5 reorder_point
 exec silver.provjera_null_vrijednosti @naziv_tablice='silver.operations_inventory', @ključ='CAST(snapshot_date AS VARCHAR(50))+ '' ''+ product_id+'' ''+warehouse_id', @naziv_stupca='reorder_point';
 exec silver.provjera_negativnosti_vrijednosti @naziv_tablice='silver.operations_inventory', @ključ='CAST(snapshot_date AS VARCHAR(50))+ '' ''+ product_id+'' ''+warehouse_id', @naziv_stupca='reorder_point';
+--15.6 order_quantity
+exec silver.provjera_null_vrijednosti @naziv_tablice='silver.operations_inventory', @ključ='CAST(snapshot_date AS VARCHAR(50))+ '' ''+ product_id+'' ''+warehouse_id', @naziv_stupca='order_quantity';
+exec silver.provjera_negativnosti_vrijednosti @naziv_tablice='silver.operations_inventory', @ključ='CAST(snapshot_date AS VARCHAR(50))+ '' ''+ product_id+'' ''+warehouse_id', @naziv_stupca='order_quantity';
 --15.7 općenita provjera
 exec silver.provjera_duplikata @naziv_tablice='silver.operations_inventory', @naziv_stupca='CAST(snapshot_date AS VARCHAR(50))+ '' ''+ product_id+'' ''+warehouse_id';
 
