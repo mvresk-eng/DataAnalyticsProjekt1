@@ -299,8 +299,8 @@ CREATE OR ALTER PROCEDURE bronze.kreiranje_tablica AS
 				product_id VARCHAR(50),
 				warehouse_id VARCHAR(50),
 				stock_quantity INT,
-				reserved_quantity INT,
-				reorder_point INT
+				reorder_point INT, 
+				order_quantity INT
 			);
 			PRINT ('--Kreiram tablicu "bronze.operations_inventory"--');
 

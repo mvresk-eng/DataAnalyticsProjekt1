@@ -353,8 +353,6 @@ exec bronze.provjera_razmaka_u_nazivima @naziv_tablice='bronze.finance_operating
 --14.2 cost_date
 exec bronze.provjera_null_vrijednosti @naziv_tablice='bronze.finance_operating_costs', @ključ='cost_id', @naziv_stupca='cost_date';
 exec bronze.provjera_valjanosti_datuma @naziv_tablice='bronze.finance_operating_costs', @ključ='cost_id', @naziv_stupca='cost_date';
---14.3 operating_cost_state
-exec bronze.provjera_null_vrijednosti @naziv_tablice='bronze.finance_operating_costs', @ključ='cost_id', @naziv_stupca='operating_cost_state';
 --14.4 cost_type
 exec bronze.provjera_distinktnih_naziva @naziv_tablice='bronze.finance_operating_costs', @naziv_stupca='cost_type';
 --14.5 cost_amount
@@ -362,7 +360,7 @@ exec bronze.provjera_null_vrijednosti @naziv_tablice='bronze.finance_operating_c
 exec bronze.provjera_negativnosti_vrijednosti @naziv_tablice='bronze.finance_operating_costs',@ključ='cost_id', @naziv_stupca='cost_amount';
 
 --Provjere za tablicu 15.bronze.operations_inventory--
-
+SELECT * FROM bronze.operations_inventory
 --15.1 snapshot_date
 exec bronze.provjera_null_vrijednosti @naziv_tablice='bronze.operations_inventory', @naziv_stupca='snapshot_date';
 exec bronze.provjera_valjanosti_datuma @naziv_tablice='bronze.operations_inventory', @ključ='CAST(snapshot_date AS VARCHAR(50))+ '' ''+ product_id+'' ''+warehouse_id', @naziv_stupca='snapshot_date';
@@ -377,12 +375,12 @@ exec bronze.provjera_referencijalnog_integriteta @naziv_tablice_FK='bronze.opera
 --15.4 stock_quantity
 exec bronze.provjera_null_vrijednosti @naziv_tablice='bronze.operations_inventory', @ključ='CAST(snapshot_date AS VARCHAR(50))+ '' ''+ product_id+'' ''+warehouse_id', @naziv_stupca='stock_quantity';
 exec bronze.provjera_negativnosti_vrijednosti @naziv_tablice='bronze.operations_inventory', @ključ='CAST(snapshot_date AS VARCHAR(50))+ '' ''+ product_id+'' ''+warehouse_id', @naziv_stupca='stock_quantity';
---15.5 reserved_quantity
-exec bronze.provjera_null_vrijednosti @naziv_tablice='bronze.operations_inventory', @ključ='CAST(snapshot_date AS VARCHAR(50))+ '' ''+ product_id+'' ''+warehouse_id', @naziv_stupca='reserved_quantity';
-exec bronze.provjera_negativnosti_vrijednosti @naziv_tablice='bronze.operations_inventory', @ključ='CAST(snapshot_date AS VARCHAR(50))+ '' ''+ product_id+'' ''+warehouse_id', @naziv_stupca='reserved_quantity';
---15.6 reorder_point
+--15.5 reorder_point
 exec bronze.provjera_null_vrijednosti @naziv_tablice='bronze.operations_inventory', @ključ='CAST(snapshot_date AS VARCHAR(50))+ '' ''+ product_id+'' ''+warehouse_id', @naziv_stupca='reorder_point';
 exec bronze.provjera_negativnosti_vrijednosti @naziv_tablice='bronze.operations_inventory', @ključ='CAST(snapshot_date AS VARCHAR(50))+ '' ''+ product_id+'' ''+warehouse_id', @naziv_stupca='reorder_point';
+--15.6 order_quantity
+exec bronze.provjera_null_vrijednosti @naziv_tablice='bronze.operations_inventory', @ključ='CAST(snapshot_date AS VARCHAR(50))+ '' ''+ product_id+'' ''+warehouse_id', @naziv_stupca='order_quantity';
+exec bronze.provjera_negativnosti_vrijednosti @naziv_tablice='bronze.operations_inventory', @ključ='CAST(snapshot_date AS VARCHAR(50))+ '' ''+ product_id+'' ''+warehouse_id', @naziv_stupca='order_quantity';
 --15.7 općenita provjera
 exec bronze.provjera_duplikata @naziv_tablice='bronze.operations_inventory', @naziv_stupca='CAST(snapshot_date AS VARCHAR(50))+ '' ''+ product_id+'' ''+warehouse_id';
 
@@ -507,4 +505,3 @@ EXEC bronze.provjera_null_vrijednosti @naziv_tablice = 'bronze.erp_warehouse', @
 EXEC bronze.provjera_razmaka_u_nazivima @naziv_tablice = 'bronze.erp_warehouse', @ključ = 'warehouse_id', @naziv_stupca = 'warehouse_email';
 -- 19.8 warehouse_status
 EXEC bronze.provjera_distinktnih_naziva @naziv_tablice = 'bronze.erp_warehouse', @naziv_stupca = 'warehouse_status';
-
